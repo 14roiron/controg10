@@ -54,8 +54,8 @@
       <div class="row">
         <div class="col-md-8">
 		<br />
-          <h1>La mesure de la production Scientifique
-            <p class="lead">groupe  de controverse n°10</p>
+          <h1 class="headtitle">La mesure de la production Scientifique
+            <p class="lead headtitle">groupe  de controverse n°10</p>
           </h1>
         </div>
         <div class="col-md-4">

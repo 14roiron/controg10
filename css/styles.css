@@ -13,11 +13,13 @@ body {
  padding-top:50px;
 }
 
+
 #masthead { 
  min-height:250px;
  background-image: url("../img/Bandeau-catalogue.jpg");
  
 }
+
 
 #masthead h1 {
  font-size: 25px;
@@ -27,7 +29,12 @@ body {
 }
 #masthead h1,
 #masthead #lead{
-color: #FFFFFF;
+ color: white;
+  text-shadow:
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+     1px 1px 0 #000;
 }
 
 #masthead .well {
