@@ -1,0 +1,100 @@
+/*
+A Bootstrap 3.1 affix sidebar template
+from http://bootply.com
+
+This CSS code should follow the 'bootstrap.css'
+in your HTML file.
+
+license: MIT
+author: bootply.com
+*/
+
+body {
+ padding-top:50px;
+}
+
+#masthead { 
+ min-height:250px;
+ background-image: url("../img/Bandeau-catalogue.jpg");
+ 
+}
+
+#masthead h1 {
+ font-size: 25px;
+ line-height: 1;
+ padding-top:20px;
+ 
+}
+#masthead h1,
+#masthead #lead{
+color: #FFFFFF;
+}
+
+#masthead .well {
+ margin-top:8%;
+}
+#masthead img{
+width:100%;
+ }
+      
+
+
+@media screen and (min-width: 768px) {
+  #masthead h1 {
+    font-size: 50px;
+  }
+}
+
+.navbar-bright {
+ background-color: #222266;
+ color:#fff;
+}
+
+.affix-top,.affix{
+ position: static;
+}
+#sidebar {
+	background-color:#FFFFEA;
+}
+
+@media (min-width: 979px) {
+  #sidebar.affix-top {
+    position: static;
+  	margin-top:30px;
+  	width:228px;
+  }
+  
+  #sidebar.affix {
+    position: fixed;
+    top:70px;
+    width:228px;
+  }
+}
+
+#sidebar li.active {
+  border:0 #eee solid;
+  border-right-width:5px;
+}
+/* Set the fixed height of the footer here */
+      #push,
+      #footer {
+        height: 130px;
+		text-align: center;
+      }
+	  #footer>p {
+	  font-size: 10px;
+	  }
+      #footer {
+        background-color:#f0f0f0;
+		opacity: 1;
+      }
+
+      /* Lastly, apply responsive CSS fixes as necessary */
+      @media (max-width: 767px) {
+        #footer {
+          margin-left: -20px;
+          margin-right: -20px;
+          padding-left: 20px;
+          padding-right: 20px;
+        }
+      }
