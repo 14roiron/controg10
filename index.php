@@ -21,7 +21,7 @@ include("inc/header.php");
 		<h2 id="sec0">Controverses</h2>
 
         <p>
-          Ce site web est un exercice réalisé par des élèves de première année de l’école des Mines dans le cadre du cours de Description des controverses. Ces sites sont le résultat de travail d’étudiants et sont mis en ligne pour des raisons pédagogiques et didactiques. De plus ample description de ce cours sur disponible sur le site du <a href="http://controverses.ensmp.fr/presentation/">Le site du cours de controverse des Mines de Paris </a>
+          Ce site web a été réalisé par des élèves de première année de l’École des Mines dans le cadre du cours de Description des controverses. Ces sites sont le résultat de travail d’étudiants et sont mis en ligne pour des raisons pédagogiques et didactiques. Une description plus détaillée de ce cours sur disponible sur le site du <a href="http://controverses.ensmp.fr/presentation/"> cours de controverse de MINES ParisTech. </a>
         
         </div>
 		
@@ -29,11 +29,11 @@ include("inc/header.php");
 		<h2 id="sec2">Sujet</h2>
 
         <p>
-          Notre travail s'est concentré sur l'étude de la problématique suivante: <b>"La mesure de la production scientifique"</b> à partir de différentes informations:
+          Notre travail s'est concentré sur l'étude de la problématique suivante: <b>"Les mesures des productions scientifiques"</b> à partir de différentes informations:
 		  <ul >
-				<li>Une étude de la presse Nationnale tant au point de vue qualitatif que quantitatif</li>
+				<li>Une étude de la presse Nationale tant au point de vue qualitatif que quantitatif</li>
 				<li>Une étude de la littérature scientifique</li>
-				<li>Divers entretiens </li>
+				<li>Divers entretiens réalisés avec les acteurs de la controverse</li>
 		  </ul>
         
         </div>
