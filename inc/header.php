@@ -33,10 +33,10 @@
         <li id="listeHeaderCherche">
           <a href="chercheur.php"> Point de vue d'un Chercheur</a>
         </li>
+        -->
         <li id="listeHeaderHistorique">
           <a href="dates.php">Historique</a>
         </li>
-        -->
         <li id="listeHeaderIndices">
           <a href="indices.php">Les indices</a>
         </li>
