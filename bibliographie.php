@@ -14,7 +14,7 @@ include("inc/header.php");
       <!--right-->
       <div class="col-md-9">
         <div class="paragraphe">
-        <h2 id="sw">Sites Webs</h2>
+        <h2 id="sw">Sites Web</h2>
         <p>
           At Bootply we like to build simple Bootstrap templates that utilize the code Bootstap CSS without a lot of customization. Sure you can 
           find a lot of Bootstrap themes and inspiration, but these templates tend to be heavy on customization.</p>
