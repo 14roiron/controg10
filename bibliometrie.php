@@ -183,7 +183,7 @@ Cette utilisation du Journal Impact Factor est donc qualifiée de détournée pa
 Mais aussi l'évaluation du mérite d'une entité dans le domaine de la recherche :
 </p>
     <blockquote>
-	()…) On a jugé plus attrayant [que l'enrichissement d'un sujet à partir des conclusions précédentes] de relever l'influence universitaire de certaines personnes dans différents domaines et au fil du temps, et d'identifier de la sorte les scientifiques, documents, revues et institutions le plus souvent cités. »
+	On a jugé plus attrayant [que l'enrichissement d'un sujet à partir des conclusions précédentes] de relever l'influence universitaire de certaines personnes dans différents domaines et au fil du temps, et d'identifier de la sorte les scientifiques, documents, revues et institutions le plus souvent cités. »
     <small class="pull-right">Cronin, Blaise. « Comment la manie des rankings a atteint le coeur de la recherche ». Le Temps, 24 Octobre 2014.</small><br>
 	</blockquote> 
  <br />
@@ -200,7 +200,7 @@ D'où le premier article de la déclaration DORA de San Francisco, qui se prése
 </p>
 	<blockquote>
 	Do not use journal-based metrics, such as Journal Impact Factors, as a surrogate measure of the quality of individual research articles, to assess an individual scientist’s contributions, or in hiring, promotion, or funding decisions.
-	   <small class="pull-right">San	Francisco	Declaration	on	Research	Assessment, 2013</small><br>
+	   <small class="pull-right">San Francisco Declaration on Research Assessment, 2013</small><br>
 	</blockquote> 
  <br />
 </p>
