@@ -43,6 +43,10 @@
         <li id="listeHeaderActeurs">
           <a href="acteurs.php">Les acteurs</a>
         </li>
+        <li id="bibliographie">
+          <a href="bibliographie.php">Bibliographie</a>
+        </li>
+        
       </ul>
     </nav>
   </div>
