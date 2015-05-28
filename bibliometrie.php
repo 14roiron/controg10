@@ -56,8 +56,8 @@ Historiquement, les bases de données (ou encore index), comme le Science Citati
 </p>
 
 	<blockquote>
-	La "découverte", c’est le but premier du Web Of Science. Le but premier n’a jamais été la bibliométrie, mais la découverte: on fournit une plate-forme, qui dans laquelle se trouve la Core Collection, donc la collection cœur des revues, ouvrages et conférences sélectionnés, qui est principalement utilisée pour la découverte bibliographique. 
-	<small class="pull-right">G.Rivalle, Thomson Reuters, Entretien</small><br>
+	La "découverte", c’est le but premier du <a href="http://webofscience.com">Web Of Science</a>. Le but premier n’a jamais été la bibliométrie, mais la découverte: on fournit une plate-forme, qui dans laquelle se trouve la Core Collection, donc la collection cœur des revues, ouvrages et conférences sélectionnés, qui est principalement utilisée pour la découverte bibliographique. 
+	<small class="pull-right">G.Rivalle, <a href="http://thomsonreuters.com/">Thomson Reuters</a>, Entretien</small><br>
   </blockquote> 
  <br />
 
@@ -78,12 +78,12 @@ Lorsque l'on a à disposition une certaine quantité d'articles, d'auteurs et d'
 
 	<blockquote>
 	Il se trouve que la citation reste un lien qui est validé, c’est-à-dire que c’est vraiment un lien intellectuel, ce n’est pas seulement le partage sur un compte Twitter d'un article, tout simplement parce que j’ai trouvé le titre intéressant. Quand vous citez un article, c’est parce que vous vous êtes réellement servi des travaux de  recherche qui s’y trouvent dans vos propres recherches. Ce lien intellectuel créé entre les chercheurs est validé de plus par le fait que la base de données est sélectionnée. 
-	<small class="pull-right">G.Rivalle, Thomson Reuters, Entretien</small><br>
+	<small class="pull-right">G.Rivalle, <a href="http://thomsonreuters.com/">Thomson Reuters</a>, Entretien</small><br>
   </blockquote> 
  <br />
 
 <p>
-Le choix de la base de données est donc aussi sujet à controverse. En effet, Thomson Reuters, dans ses bases de données, adopte un modèle de sélectivité très fine des articles qui apparaîtront dans la base, via une sélection des revues qui y seront indexées. Cette sélection se fait via un comité de lecture, qui décidera si la revue en question sera ou non présente dans la base de données, via des critères tels que la ponctualité des parutions, la qualité des articles présentés.
+Le choix de la base de données est donc aussi sujet à controverse. En effet, <a href="http://thomsonreuters.com/">Thomson Reuters</a>, dans ses bases de données, adopte un modèle de sélectivité très fine des articles qui apparaîtront dans la base, via une sélection des revues qui y seront indexées. Cette sélection se fait via un comité de lecture, qui décidera si la revue en question sera ou non présente dans la base de données, via des critères tels que la ponctualité des parutions, la qualité des articles présentés.
 </p>
 
 <p>
@@ -97,11 +97,11 @@ Cette approche est sujette à désaccords, notamment lorsque des enjeux de finan
  <br />
 	
 <p>
-En 2012, à l'occasion de débats concernant l'évaluation de la recherche pour l'attribution de financements, l'Excellence in Research for Australia, il publie également des articles postulant que l'utilisation de bases de données plus conséquentes et moins sélectives telles que Google Scholar donneraient des résultats plus pertinents. 
+En 2012, à l'occasion de débats concernant l'évaluation de la recherche pour l'attribution de financements, l'Excellence in Research for Australia, il publie également des articles postulant que l'utilisation de bases de données plus conséquentes et moins sélectives telles que <a href="https://scholar.google.fr/"> Google Scholar</a> donneraient des résultats plus pertinents. 
 </p>
 
 	<blockquote>
-	Because of its broader coverage and despite known deficiencies, Hirsch’s h-index based on Google Scholar data may be more useful than the Journal Impact Factor, as a measure of journal quality, and in providing a basis to rank journals.
+	Because of its broader coverage and despite known deficiencies, Hirsch’s h-index based on <a href="https://scholar.google.fr/">Google Scholar</a> data may be more useful than the Journal Impact Factor, as a measure of journal quality, and in providing a basis to rank journals.
     <small class="pull-right"><a data-toggle="modal" href="modale_acteurs.php?c=vanclay" data-target="#infos">J.K. Vanclay</a>, Ranking forestry journals using the h-index, Journal of Informetrics (2012), 2(4), 326–334</small><br>
 	</blockquote> 
  <br />
@@ -111,7 +111,7 @@ Cela provoque des réactions virulentes :
 </p>
 
     <blockquote>
-    The papers are much more likely to serve as props for a staged, mock-up scenario based on slipshod research in an experiment, to illustrate the deficiencies in the processes and in the assessment of scholarly publishing productivity and impact in order to present the idealized solution of Vanclay: using the h-index, portrayed as the Prince, mounted on the shoulder of the White Horse, Google Scholar.<br>
+    The papers are much more likely to serve as props for a staged, mock-up scenario based on slipshod research in an experiment, to illustrate the deficiencies in the processes and in the assessment of scholarly publishing productivity and impact in order to present the idealized solution of Vanclay: using the h-index, portrayed as the Prince, mounted on the shoulder of the White Horse, <a href="https://scholar.google.fr/">Google Scholar</a>.<br/>
     <small class="pull-right"> <a data-toggle="modal" href="modale_acteurs.php?c=jacso" data-target="#infos">P.Jacso</a>, Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases: reflections on Vanclay’s criticism, Scientometrics (2012) 92:325–354</small><br>
     </blockquote> 
  <br />
@@ -239,7 +239,7 @@ D’autre part, d’autres chercheurs (comme dans la dernière citation) propose
 Néanmoins, la méthode de calcul du h-index est débattue, car ce dernier peut être différent d’une base de donnée à l’autre en raison de leurs bases de données propres, point abordé précédemment.
 </p>
 	<blockquote>
-	In several case the results obtained through Google Scholar are considerably different from the results based on the Web of Science and Scopus. Data cleansing is discussed extensively.
+	In several case the results obtained through Google Scholar are considerably different from the results based on the <a href="http://webofscience.com">Web Of Science</a> and Scopus. Data cleansing is discussed extensively.
 	<small class="pull-right">Bar-Ilan, J. (2007). "Which h-index? — A comparison of WoS, Scopus and Google Scholar". Scientometrics 74 (2): 257.</small><br>
 	</blockquote> 
  <br />
@@ -257,12 +257,12 @@ Il existe des désaccords sur l’usage de tel ou tel indice. Par exemple, Leo E
 </p>
 	<blockquote>
 It is shown that the g-index inherits all the good properties of the h-index and, in addition, better takes into account the citation scores of the top articles.
-	<small class="pull-right">Egghe, Leo (2006) Theory and practise of the g-index, Scientometrics, vol. 69, No 1, pp. 131–152</small><br>
+	<small class="pull-right">Egghe, Leo (2006), Theory and practise of the g-index, Scientometrics, vol. 69, No 1, pp. 131–152</small><br>
 	</blockquote> 
  <br />
 	<blockquote>
 	We therefore plead to replace the h-index by the g-index, yielding a career years g-index by publications, respectively a career years g-index by citations, which have the good concentration properties as described in Mahbuba and Rousseau (2013).
-	<small class="pull-right">Leo Egghe, Comments on "year-based h-type indicators" (2014), Scientometrics 98:2369–2370</small><br>
+	<small class="pull-right">Egghe, Leo (2014), Comments on "year-based h-type indicators", Scientometrics 98:2369–2370</small><br>
 	</blockquote> 
  <br />
 <p>
