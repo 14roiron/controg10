@@ -48,7 +48,7 @@ include("inc/header.php");
 include("inc/footer.php");
 ?>
 <script language="javascript">
-//$("#listeHeader1").addClass("active");
+$("#bibliographie").addClass("active");
 </script>
 	</body>
 </html>
