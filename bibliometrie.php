@@ -355,7 +355,7 @@ Les créateurs de la startup altmetrics voient ces mesures comme complémentaire
 </p>
 
 	<blockquote>
-	Any kind of citation mining, whether from the ISI, WoS or from Scopus, is gonna be limited by the fact that citation has certain weakness associated to them. For instance, a citation will take a certain amount of time to show up: the word has to be published, someone has to read it, they have to get their own republish... So often there is a delay, as much as several years, between one of our creative impact and when we can observe that impact in the citation record.
+	Any kind of citation mining, whether from the ISI, Web Of Science or from Scopus, is gonna be limited by the fact that citation has certain weakness associated to them. For instance, a citation will take a certain amount of time to show up: the word has to be published, someone has to read it, they have to get their own republish... So often there is a delay, as much as several years, between one of our creative impact and when we can observe that impact in the citation record.
 	<small class="pull-right">J. Priem, <a href="http://altmetrics.org/">altmetrics</a>, Entretien</small><br>
 	  </blockquote> 
 
