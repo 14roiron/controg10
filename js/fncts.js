@@ -27,6 +27,15 @@ function parse()
 		a[5][0]="g-index";
 		a[5][1]="<a data-toggle=\"modal\" href=\"modale_indices.php?c=g-index\" data-target=\"#infos\">g-index</a>";
 		
+		a[6]=[];
+		a[6][0]="Altmetrics";
+		a[6][1]="<a data-toggle=\"modal\" href=\"modale_indices.php?c=altmetrics\" data-target=\"#infos\">Altmetrics</a>";
+				
+				
+		a[6]=[];
+		a[6][0]="book citation index";
+		a[6][1]="<a data-toggle=\"modal\" href=\"modale_indices.php?c=bookcitationIndex\" data-target=\"#infos\">book citation Index</a>";
+		
 	
 		
 		for (var i=0;i<a.length;i++) {

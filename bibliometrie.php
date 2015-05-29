@@ -32,6 +32,7 @@ P.Jacso fait réponse à une série d'articles publiés par J.K. Vanclay entre 2
 <div class="paragraphe">
 <h2 id="LesindicateursPD">Les indicateurs bibliométriques : principe et description</h2>
  
+ 
 <p>
 Le principe des indicateurs bibliométriques est de fournir des informations vis-à-vis d'une entité, que ce soit un chercheur, une revue, un article, c'est-à-dire un acteur tout comme une production scientifique au sens large, de manière quantifiée. Cette quantification s'appuie sur diverses quantités mesurables existantes, et en créent une nouvelle en réalisant des opérations mathématiques.
 </p>
