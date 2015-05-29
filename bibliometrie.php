@@ -44,7 +44,7 @@ De même, on peut établir des liens entre deux auteurs de publications par les 
 </p>
 </div>
 <div class="paragraphe">
-<h2 id="BasesDeDonnees">Des bases de données à la mesure...</h2>
+<h2 id="BasesDeDonnees">Des bases de données à la mesure</h2>
 
 <p>
 Les indicateurs sus-cités comme le Journal Impact Factor ou le h-index se basent sur les liens d'articles entre-eux. Leur calcul nécessite donc d'abord de choisir une quantité d'articles sur laquelle travailler, c'est-à-dire de constituer une base de données.
@@ -134,7 +134,7 @@ P. Jacso dénonce également un manque de pertinence dû à cette absence de sé
 
 </div>
 <div class="paragraphe">
-<h2 id="indicateursBiblio">...qui mènent à la création et l'utilisation d'indicateurs bibliométriques</h2>
+<h2 id="indicateursBiblio">La création et l'utilisation d'indicateurs bibliométriques</h2>
  
 <p>
 Nous avons vu que le choix de la base de donneés utilisée pour matérialiser les citations est donc controversée : d'un côté, une sélectivité qui a pour but de garantir des liens de qualité, de l'autre une exhaustivité qui cherche à assurer une meilleure couverture des productions scientifiques. Outre ce problème, l'objectif des indicateurs bibliométriques est de constituer, à partir de données brutes comme le lien citationnel, un nombre donnant de manière absolue une indication sur une entité.
