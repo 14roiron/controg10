@@ -140,6 +140,11 @@ P. Jacso dénonce également un manque de pertinence dû à cette absence de sé
  <br />
 
 </div>
+
+<p>
+	>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>FIN DE LA PREMIERE PAGE<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+</p>
+
 <div class="paragraphe">
 <h2 id="indicateursBiblio">La création et l'utilisation d'indicateurs bibliométriques</h2>
  
@@ -230,6 +235,11 @@ Chacun de ces indicateurs pris individuellement ne convient pas : certains mesur
 <p>
 L’indice h proposé par Hirsch mesure convenablement d’après lui l’impact du travail du chercheur, et de plus est facile à calculer (par exemple, dans une base de données telle que le Web Of Science, on classe les publications par nombre de citations et on compte). Hirsch a étudié le h-index pour des physiciens et a constaté que deux chercheurs affichant un h-index semblable ont un impact semblable dans le monde de la recherche.
 </p>
+
+</div>
+<div class="paragraphe">
+<h2 id="debatIndic">Les débats autour des formules des indicateurs bibliométriques</h2>
+
 <p>
 Après la proposition de J. E. Hirsch, la communauté scientifique s’est penchée sur la question de la pertinence d’un tel indice.
 </p>
@@ -304,6 +314,10 @@ Chaque indicateur bibliométrique est sujet à des débats de ce type. Chaque in
  <br />
 <p>
 Il s'agit donc de contextualiser, c'est-à-dire de ne pas se borner à regarder un seul indicateur bibliométrique afin de chercher à évaluer un chercheur ou d'adapter les indicateurs en fonction des domaines concernés.
+</p>
+
+<p>
+	>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>Fin de la 2e page <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 </p>
 
 <div class="altmetricsma">
