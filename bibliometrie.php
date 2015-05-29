@@ -26,7 +26,7 @@ Le processus de mesure consiste à obtenir une nouvelle grandeur signifiante à 
 </p>
 
 <p>
-P.Jacso fait réponse à une série d'articles publiés par J.K. Vanclay entre 2008 et 2012. Ces articles formulent des objections par rapport au classement de revues, ou "journal ranking", via certains indicateurs bibliométriques, notamment le Journal Impact Factor. Mais qu'est-ce que les indicateurs bibliométriques, quel est leur origine et que mesurent-ils ?
+<a data-toggle="modal" href="modale_acteurs.php?c=jacso" data-target="#infos">P.Jacso</a> fait réponse à une série d'articles publiés par <a data-toggle="modal" href="modale_acteurs.php?c=vanclay" data-target="#infos">J.K. Vanclay</a> entre 2008 et 2012. Ces articles formulent des objections par rapport au classement de revues, ou "journal ranking", via certains indicateurs bibliométriques, notamment le <a data-toggle="modal" href="modale_indices.php?c=journalimpactfactor" data-target="#infos">Journal Impact Factor</a>. Mais qu'est-ce que les indicateurs bibliométriques, quel est leur origine et que mesurent-ils ?
 </p>
 </div>
 <div class="paragraphe">
@@ -37,18 +37,18 @@ Le principe des indicateurs bibliométriques est de fournir des informations vis
 </p>
 
 <p>
-Par exemple, on peut établir certains liens entre les différentes publications scientifiques en regardant les liens de citations. Le Journal Impact Factor est un indicateur bibliométrique qui a pour but d'évaluer les revues et se sert de ces informations : en pondérant le nombre total de fois que les articles d'une revue ont été cités par d'autres personnes par le nombre d'articles effectivement publiés dans cette revue, on peut espérer créer une nouvelle quantité qui donnera une indication sur la revue.
+Par exemple, on peut établir certains liens entre les différentes publications scientifiques en regardant les liens de citations. Le <a data-toggle="modal" href="modale_indices.php?c=journalimpactfactor" data-target="#infos">Journal Impact Factor</a> est un indicateur bibliométrique qui a pour but d'évaluer les revues et se sert de ces informations : en pondérant le nombre total de fois que les articles d'une revue ont été cités par d'autres personnes par le nombre d'articles effectivement publiés dans cette revue, on peut espérer créer une nouvelle quantité qui donnera une indication sur la revue.
 </p>
 
 <p>
-De même, on peut établir des liens entre deux auteurs de publications par les citations croisées entre leurs articles respectifs. Ces liens de citations entre articles constituent un lien entre certains groupes d'auteurs et d'autres ; le h-index, qui est un autre indicateur bibliométrique, tente de créer une autre quantité à partir des quantités existantes pour mesurer l'auteur ou le groupe d'auteurs.
+De même, on peut établir des liens entre deux auteurs de publications par les citations croisées entre leurs articles respectifs. Ces liens de citations entre articles constituent un lien entre certains groupes d'auteurs et d'autres ; le <a data-toggle="modal" href="modale_indices.php?c=h-index" data-target="#infos">h-index</a>, qui est un autre indicateur bibliométrique, tente de créer une autre quantité à partir des quantités existantes pour mesurer l'auteur ou le groupe d'auteurs.
 </p>
 </div>
 <div class="paragraphe">
 <h2 id="BasesDeDonnees">Des bases de données à la mesure</h2>
 
 <p>
-Les indicateurs sus-cités comme le Journal Impact Factor ou le h-index se basent sur les liens d'articles entre-eux. Leur calcul nécessite donc d'abord de choisir une quantité d'articles sur laquelle travailler, c'est-à-dire de constituer une base de données.
+Les indicateurs sus-cités comme le <a data-toggle="modal" href="modale_indices.php?c=journalimpactfactor" data-target="#infos">Journal Impact Factor</a> ou le <a data-toggle="modal" href="modale_indices.php?c=h-index" data-target="#infos">h-index</a> se basent sur les liens d'articles entre-eux. Leur calcul nécessite donc d'abord de choisir une quantité d'articles sur laquelle travailler, c'est-à-dire de constituer une base de données.
 </p>
 
 <p>
@@ -87,12 +87,12 @@ Le choix de la base de données est donc aussi sujet à controverse. En effet, <
 </p>
 
 <p>
-Cette approche est sujette à désaccords, notamment lorsque des enjeux de financement de la recherche sont concernés. Par exemple, Journal Impact Factor ou J.K. Vanclay, en 2012, critique le Journal Impact Factor, qui est un indicateur calculé par <a href="http://thomsonreuters.com/">Thomson Reuters</a> dans sa base de données.
+Cette approche est sujette à désaccords, notamment lorsque des enjeux de financement de la recherche sont concernés. Par exemple, <a data-toggle="modal" href="modale_indices.php?c=journalimpactfactor" data-target="#infos">Journal Impact Factor</a> ou <a data-toggle="modal" href="modale_acteurs.php?c=vanclay" data-target="#infos">J.K. Vanclay</a>, en 2012, critique le Journal Impact Factor, qui est un indicateur calculé par <a href="http://thomsonreuters.com/">Thomson Reuters</a> dans sa base de données.
 </p>
 
 	<blockquote>
 	The Thomson Reuters impact factor (TRIF) suffers so many weaknesses, that a major overhaul is warranted, and journal editors and other users should cease using the TRIF until Thomson Reuters has addressed these weaknesses.
-    <small class="pull-right">J.K. Vanclay, Impact factor: outdated artefact or stepping-stone to journal certification?, Scientometrics (2012) 92:211–238</small><br>
+    <small class="pull-right"><a data-toggle="modal" href="modale_acteurs.php?c=vanclay" data-target="#infos">J.K. Vanclay</a>, Impact factor: outdated artefact or stepping-stone to journal certification?, Scientometrics (2012) 92:211–238</small><br>
 	</blockquote> 
  <br />
 	
@@ -102,7 +102,7 @@ En 2012, à l'occasion de débats concernant l'évaluation de la recherche pour 
 
 	<blockquote>
 	Because of its broader coverage and despite known deficiencies, Hirsch’s h-index based on <a href="https://scholar.google.fr/">Google Scholar</a> data may be more useful than the Journal Impact Factor, as a measure of journal quality, and in providing a basis to rank journals.
-    <small class="pull-right">J.K. Vanclay, Ranking forestry journals using the h-index, Journal of Informetrics (2012), 2(4), 326–334</small><br>
+    <small class="pull-right"><a data-toggle="modal" href="modale_acteurs.php?c=vanclay" data-target="#infos">J.K. Vanclay</a>, Ranking forestry journals using the h-index, Journal of Informetrics (2012), 2(4), 326–334</small><br>
 	</blockquote> 
  <br />
 
@@ -112,24 +112,24 @@ Cela provoque des réactions virulentes :
 
     <blockquote>
     The papers are much more likely to serve as props for a staged, mock-up scenario based on slipshod research in an experiment, to illustrate the deficiencies in the processes and in the assessment of scholarly publishing productivity and impact in order to present the idealized solution of Vanclay: using the h-index, portrayed as the Prince, mounted on the shoulder of the White Horse, <a href="https://scholar.google.fr/">Google Scholar</a>.<br/>
-    <small class="pull-right"> P.Jacso, Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases: reflections on Vanclay’s criticism, Scientometrics (2012) 92:325–354</small><br>
+    <small class="pull-right"> <a data-toggle="modal" href="modale_acteurs.php?c=jacso" data-target="#infos">P.Jacso</a>, Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases: reflections on Vanclay’s criticism, Scientometrics (2012) 92:325–354</small><br>
     </blockquote> 
  <br />
   
     <blockquote>
     The JIF: angel, devil or scapegoat? All three at a time: angel, for a unique historical role and the many avenues opened to scientometrics and other fields; devil, for a few flaws, and a brightness and market power that may have deterred users from looking aside; but also scapegoat, for misuses and abuses.
-    <small class="pull-right">M. Zitt, The journal impact factor: angel, devil, or scapegoat? A comment on J.K. Vanclay’s article 2011, Scientometrics 2012, 22 feb</small><br>
+    <small class="pull-right"><a data-toggle="modal" href="modale_acteurs.php?c=zitt" data-target="#infos">Michel Zitt</a>, The journal impact factor: angel, devil, or scapegoat? A comment on J.K. Vanclay’s article 2011, Scientometrics 2012, 22 feb</small><br>
 	</blockquote> 
  <br />
 	
 
 <p>
-P. Jacso dénonce également un manque de pertinence dû à cette absence de sélection dans les articles :
+<a data-toggle="modal" href="modale_acteurs.php?c=jacso" data-target="#infos">P. Jacso</a> dénonce également un manque de pertinence dû à cette absence de sélection dans les articles :
 </p>
 
     <blockquote>
 	It must be hard to resist worshipping GS for an author who benefits from GS’s shortcomings, e.g. when it attributes to the researcher 353 publications, 4,003 citations, and an h-index of 30. After a time, the researcher may believe these numbers, set his expectation of other databases accordingly, and soon may find himself with a chip on his shoulder, if his expectation for inflated h-index score, publication and citation counts are not met by other databases. This can make in his eyes Web of Science and JCR look like Old Scrooge when it attributes to him only 80 publications, 1,291 citations, and a h-index of 19. It may add insult to injury by ranking the researcher’s favored journal by the citations/paper and other relative indicators several positions below other journals in the given discipline.
-    <small class="pull-right">P.Jacso, Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases: reflections on Vanclay’s criticism, Scientometrics (2012) 92:325–354</small><br>
+    <small class="pull-right"><a data-toggle="modal" href="modale_acteurs.php?c=jacso" data-target="#infos">P.Jacso</a>, Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases: reflections on Vanclay’s criticism, Scientometrics (2012) 92:325–354</small><br>
     </blockquote> 
  <br />
 
@@ -142,7 +142,7 @@ Nous avons vu que le choix de la base de donneés utilisée pour matérialiser l
 </p>
 
 <p>
-L'un des plus vieux indicateurs bibliométriques est le Journal Impact Factor, introduit au début des années 60 par Eugène Garfield et Irving H. Sher.
+L'un des plus vieux indicateurs bibliométriques est le <a data-toggle="modal" href="modale_indices.php?c=journalimpactfactor" data-target="#infos">Journal Impact Factor</a>, introduit au début des années 60 par Eugène Garfield et Irving H. Sher.
 </p>
 
     <blockquote>
@@ -167,7 +167,7 @@ Son but premier est donc la sélection des revues par les bibliothécaires et la
   
     <blockquote>
     Unlike phrenology, the impact factor has demonstrated utility in informing citation patterns and guiding library purchasing decisions. However, there are increasing concerns that the impact factor is being used inappropriately and in ways not originally envisaged.
-    <small class="pull-right">J.K. Vanclay, Impact factor: Outdated artefact or stepping-stone to journal certification?, Scientometrics (2012)</small><br>
+    <small class="pull-right"><a data-toggle="modal" href="modale_acteurs.php?c=vanclay" data-target="#infos">J.K. Vanclay</a>, Impact factor: Outdated artefact or stepping-stone to journal certification?, Scientometrics (2012)</small><br>
 	</blockquote> 
  <br />
   
@@ -206,7 +206,7 @@ D'où le premier article de la déclaration DORA de San Francisco, qui se prése
 </p>
 
 <p>
-Cette dernière citation soulève le point important des limites des indices. En effet, les indices sont calculés selon des formules qui peuvent favoriser certaines situations. Par exemple, prenons le cas du h-index, proposé par J. Hisch en 2005 :
+Cette dernière citation soulève le point important des limites des indices. En effet, les indices sont calculés selon des formules qui peuvent favoriser certaines situations. Par exemple, prenons le cas du <a data-toggle="modal" href="modale_indices.php?c=h-index" data-target="#infos">h-index</a>, proposé par J. Hisch en 2005 :
 </p>
 
 	<blockquote>
@@ -253,7 +253,7 @@ La controverse est active notamment dans le domaine des sciences médicales. Par
  <br />
 	
 <p>
-Il existe des désaccords sur l’usage de tel ou tel indice. Par exemple, Leo Egghe publie des articles poussant à l’usage du g-index en lieu et place du h-index (2006, 2009, 2012) et d’un « year-based h-index » (2013, 2014).
+Il existe des désaccords sur l’usage de tel ou tel indice. Par exemple, Leo Egghe publie des articles poussant à l’usage du <a data-toggle="modal" href="modale_indices.php?c=g-index" data-target="#infos">g-index</a> en lieu et place du h-index (2006, 2009, 2012) et d’un « year-based h-index » (2013, 2014).
 </p>
 	<blockquote>
 It is shown that the g-index inherits all the good properties of the h-index and, in addition, better takes into account the citation scores of the top articles.
@@ -316,7 +316,6 @@ include("inc/footer.php");
 ?>
 <script language="javascript">
 $("#listeHeaderBibli").addClass("active");
-parse();
 </script>
 	</body>
 </html>

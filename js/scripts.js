@@ -5,56 +5,14 @@ $("body").on("hidden.bs.modal", ".modal", function () {
 $(document).ready(function(){/* activate sidebar */
 $('#sidebar').affix({
   offset: {
-    top: 235}})
-	
+    top: 235}})});
 $('#sidebar').text('');
 $('.paragraphe').each(function() {	  
     var id = $(this).children('h2').attr('id');
 	var text = $(this).children('h2').text();
 	$('#sidebar').append('<li><a href=#'+id+'>'+text+'</a></li>');
 	});
-	
-	
-	});
-//*
-function parse()
-{
-        var a = [];
-		
-		a[0]= [];
-		a[0][0] ="P.Jacso";
-		a[0][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=jacso\" data-target=\"#infos\">P.Jacso</a>";
-		
-		a[1]=[];
-		a[1][0]="Journal Impact Factor";
-		a[1][1]="<a data-toggle=\"modal\" href=\"modale_indices.php?c=journalimpactfactor\" data-target=\"#infos\">Journal Impact Factor</a>";
-		
-		a[2]=[];
-		a[2][0]="M. Zitt";
-		a[2][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=zitt\" data-target=\"#infos\">M. Zitt</a>";
-		
-		a[3]=[];
-		a[3][0]="J.K. Vanclay";
-		a[3][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=vanclay\" data-target=\"#infos\">J.K. Vanclay</a>";
-		
-		a[4]=[];
-		a[4][0]="h-index";
-		a[4][1]="<a data-toggle=\"modal\" href=\"modale_indices.php?c=h-index\" data-target=\"#infos\">h-index</a>";
-		
-		a[5]=[];
-		a[5][0]="g-index";
-		a[5][1]="<a data-toggle=\"modal\" href=\"modale_indices.php?c=g-index\" data-target=\"#infos\">g-index</a>";
-		
-	
-		
-		for (var i=0;i<a.length;i++) {
-			
-			document.body.innerHTML=document.body.innerHTML.split(a[i][0]).join(a[i][1]);
-		}
-		
-    
 
-}
 /* activate scrollspy menu */
 var $body   = $(document.body);
 var navHeight = $('.navbar').outerHeight(true) + 10;

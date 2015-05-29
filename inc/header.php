@@ -12,7 +12,7 @@
 		<![endif]-->
 		<link href="css/styles.css" rel="stylesheet">
 	</head>
-	<body id"pagebody">
+	<body>
 <nav class="navbar navbar-default navbar-fixed-top" role="banner">
   <div class="container">
     <div class="navbar-header" id="headerTitre">
