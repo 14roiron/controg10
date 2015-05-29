@@ -25,8 +25,13 @@ include("inc/header.php");
 Le processus de mesure consiste à obtenir une nouvelle grandeur signifiante à partir de données existantes. Lorsque l'on a affaire à des productions bibliographiques, on parle de bibliométrie. Les grandeurs obtenues sont appelés indicateurs bibliométriques.
 </p>
 
+<blockquote>
+The papers are much more likely to serve as props for a staged, mock-up scenario based on slipshod research in an experiment, to illustrate the deficiencies in the processes and in the assessment of scholarly publishing productivity and impact in order to present the idealized solution of Vanclay: using the h-index, portrayed as the Prince, mounted on the shoulder of the White Horse, Google Scholar.
+	<small class="pull-right">P. Jacso, Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases: reflections on Vanclay’s criticism, Scientometrics (2012) 92:325–354</small><br>
+</blockquote>
+
 <p>
-P.Jacso fait réponse à une série d'articles publiés par J.K. Vanclay entre 2008 et 2012. Ces articles formulent des objections par rapport au classement de revues, ou "journal ranking", via certains indicateurs bibliométriques, notamment le Journal Impact Factor. Mais qu'est-ce que les indicateurs bibliométriques, quel est leur origine et que mesurent-ils ?
+P.Jacso fait ainsi réponse à une série d'articles publiés par J.K. Vanclay entre 2008 et 2012. Ces articles formulent des objections par rapport au classement de revues, ou "journal ranking", via certains indicateurs bibliométriques, notamment le Journal Impact Factor. Qu'est-ce que les indicateurs bibliométriques, quel est leur origine et que mesurent-ils ?
 </p>
 </div>
  
