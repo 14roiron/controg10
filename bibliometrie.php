@@ -30,6 +30,8 @@ The papers are much more likely to serve as props for a staged, mock-up scenario
 	<small class="pull-right">P. Jacso, Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases: reflections on Vanclay’s criticism, Scientometrics (2012) 92:325–354</small><br>
 </blockquote>
 
+
+
 <p>
 P.Jacso fait ainsi réponse à une série d'articles publiés par J.K. Vanclay entre 2008 et 2012. Ces articles formulent des objections par rapport au classement de revues, ou "journal ranking", via certains indicateurs bibliométriques, notamment le Journal Impact Factor. Qu'est-ce que les indicateurs bibliométriques, quel est leur origine et que mesurent-ils ?
 </p>
