@@ -27,7 +27,14 @@
     <nav class="collapse navbar-collapse" role="navigation">
       <ul class="nav navbar-nav" >
         <li id="listeHeaderBibli">
-          <a href="bibliometrie.php">Indicateurs Bibliométriques</a>
+          <a href="bibliometrie.php">L'idée de mesure</a>
+        </li>
+		        <li id="listeHeaderIndicateurs">
+          <a href="desindicateurs.php">Vers des Indicateurs?</a>
+        </li>
+		
+		<li id="listeHeaderSuite">
+          <a href="alternative.php">Une alternative</a>
         </li>
         <!--
         <li id="listeHeaderCherche">
@@ -38,10 +45,10 @@
           <a href="dates.php">Historique</a>
         </li>
         <li id="listeHeaderIndices">
-          <a href="indices.php">Les indices</a>
+          <a href="indices.php">Indices</a>
         </li>
         <li id="listeHeaderActeurs">
-          <a href="acteurs.php">Les acteurs</a>
+          <a href="acteurs.php">Acteurs</a>
         </li>
         <li id="bibliographie">
           <a href="bibliographie.php">Bibliographie</a>
