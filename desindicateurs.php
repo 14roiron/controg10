@@ -25,7 +25,7 @@ include("inc/header.php");
 <h2 id="indicateursBiblio">La création et l'utilisation d'indicateurs bibliométriques</h2>
  
 <p>
-Nous avons vu que le choix de la base de donneés utilisée pour matérialiser les citations est donc controversée : d'un côté, une sélectivité qui a pour but de garantir des liens de qualité, de l'autre une exhaustivité qui cherche à assurer une meilleure couverture des productions scientifiques. Outre ce problème, l'objectif des indicateurs bibliométriques est de constituer, à partir de données brutes comme le lien citationnel, un nombre donnant de manière absolue une indication sur une entité.
+L'objectif des indicateurs bibliométriques est de constituer, à partir de données brutes comme le lien citationnel, un nombre donnant de manière absolue une indication sur une entité.
 </p>
 
 <p>
