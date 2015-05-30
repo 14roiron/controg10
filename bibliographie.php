@@ -13,13 +13,25 @@ include("inc/header.php");
       
       <!--right-->
       <div class="col-md-9">
+      	
+      	
         <div class="paragraphe">
-        <h2 id="sw">Sites Web</h2>
+        <h2 id="Entretiens">Entretiens</h2>
         <p>
-          At Bootply we like to build simple Bootstrap templates that utilize the code Bootstap CSS without a lot of customization. Sure you can 
-          find a lot of Bootstrap themes and inspiration, but these templates tend to be heavy on customization.</p>
+        Guillaume Rivalle, <a href="http://www.thomsonreuters.com/">Thomson Reuters</a>
+          </p>
+          
+        <p>
+        Michel Zitt, Inra
+        </p>
         
-        <hr> </div>
+        <p>
+        Pierre Papon, ex-directeur général du CNRS
+        </p>
+        
+        <p>
+        Jason Priem, membre fondateur d'<a href="http://altmetrics.org/">altmetrics</a>
+        </p>
        
        
     <div class="paragraphe">
@@ -62,29 +74,21 @@ Michel Zitt, The journal impact factor: angel, devil, or scapegoat? A comment on
 <p>
 [12] K. Kousha, M. Thelwall. Sources of Google Scholar citations outside the Science Citation Index: A comparison between four science disciplines,<i> Scientometrics </i>, Vol. 74, No. 2 (2008) 273–294
 </p>
-
+<p>
 [13] P. Jasco. Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases: reflections on Vanclay’s criticism, <i> Scientometrics </i> , 2012, 19 avril
+</p>
+<p>
+[14] J. Priem, D. Taraborelli, P. Groth, C. Neylon, altmetrics	: a manifesto, 2010
+</p>
         <hr> </div>
         
-        
-        
-         <div class="paragraphe">
-        <h2 id="Entretiens">Entretiens</h2>
+        <div class="paragraphe">
+        <h2 id="sw">Sites Web</h2>
         <p>
-        Guillaume Rivalle, <a href="http://www.thomsonreuters.com/">Thomson Reuters</a>
-          </p>
-          
-        <p>
-        Michel Zitt, Inra
-        </p>
+          At Bootply we like to build simple Bootstrap templates that utilize the code Bootstap CSS without a lot of customization. Sure you can 
+          find a lot of Bootstrap themes and inspiration, but these templates tend to be heavy on customization.</p>
         
-        <p>
-        Pierre Papon, ex-directeur général du CNRS
-        </p>
-        
-        <p>
-        Jason Priem, membre fondateur d'<a href="http://altmetrics.org/">altmetrics</a>
-        </p>
+        <hr> </div>
         
         <hr> </div>
         
