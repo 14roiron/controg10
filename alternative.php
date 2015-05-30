@@ -103,7 +103,7 @@ Les mesures alternatives comme celles proposées par altmetrics prennent le part
 </p>
 
 <blockquote>
-Il n’en reste pas moins que la citation reste un lien qui est validé, c’est-à-dire que c’est vraiment un lien intellectuel, ce n’est pas seulement moi qui partage sur mon compte Twitter un article, tout simplement parce que j’ai trouvé le titre intéressant. Quand vous citez un article, c’est parce que vous vous êtes réellement servi des travaux de  recherche qui s’y trouvent dans vos propres recherches. Ce lien intellectuel créé entre les chercheurs, il est validé de plus par le fait que la base de données – WoS – est sélectionnée.
+Il n’en reste pas moins que la citation reste un lien qui est validé, c’est-à-dire que c’est vraiment un lien intellectuel, ce n’est pas seulement moi qui partage sur mon compte Twitter un article, tout simplement parce que j’ai trouvé le titre intéressant. Quand vous citez un article, c’est parce que vous vous êtes réellement servi des travaux de  recherche qui s’y trouvent dans vos propres recherches. Ce lien intellectuel créé entre les chercheurs, il est validé de plus par le fait que la base de données – le Web Of Science – est sélectionnée.
 	<small class="pull-right">G. Rivalle, <a href="http://www.thomsonreuters.com/">Thomson Reuters</a>, Entretien</small><br>
 	  </blockquote> 
 
