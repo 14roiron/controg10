@@ -40,9 +40,20 @@ Despite the fact that correlations between citations to a book and the number of
 	<small class="pull-right">J. Gorraiz, C. Gumpenberger, P.J. Purnell, The power of book reviews: a simple and transparent enhancement approach for book citation indexes, Scientometrics (2014) 98:841–852</small><br>
 </blockquote>
 
+
+<p>
+D'autres chercheurs évoquent le fait que Google Scholar est effectivement bien plus ouvert que d'autres bases de données, plus sélectives. Il recoupe en effet de nombreux revues ou articles dits en "open access", c'est-à-dire qu'ils sont disponibles librement sur le web, sans avoir à souscrire d'abonnement particulier. Cela permettrait notamment de diminer les écarts constatés au niveau des indicateurs utilisés lorsqu'on recoupe différents domaines de recherche.
+</p>
+
+<blockquote>
+Our findings that the majority of Google Scholar unique citations (70%) were fulltext scholarly sources is important evidence for the growth of OA publishing and selfarchiving, although it clearly varies by discipline.
+	<small class="pull-right">K. Kousha, M. Thelwall, Sources of Google Scholar citations outside the Science Citation Index: A comparison between four science disciplines, Scientometrics, Vol. 74, No. 2 (2008) 273–294</small><br>
+	  </blockquote> 
+
 <p>
 Le lien citationnel n'est donc pas la seule donnée matérialisant un lien entre deux productions scientifiques, mais seulement l'un d'entre-eux.
 </p>
+
 
 <div class="">
 <h2 id="Altemtrics">Altmetrics, les mesures alternatives aux indicateurs bibliométriques</h2>
@@ -112,14 +123,7 @@ En effet, ce dernier affirme que l'utilisation de bases de données beaucoup plu
 	>>>>>>>>>>>>>>>>>>CITATION VANCLAY<<<<<<<<
 </p>
 
-<p>
-Certains avis, plus nuancés, évoquent le fait que Google Scholar soit effectivement bien plus ouvert que d'autres bases de données. Il recoupe en effet de nombreux revues ou articles dits en "open access", c'est-à-dire qu'ils sont disponibles librement sur le web, sans avoir à souscrire d'abonnement particulier. Cela permettrait notamment de diminer les écarts constatés au niveau des indicateurs utilisés lorsqu'on recoupe différents domaines de recherche.
-</p>
 
-<blockquote>
-Our findings that the majority of Google Scholar unique citations (70%) were fulltext scholarly sources is important evidence for the growth of OA publishing and selfarchiving, although it clearly varies by discipline.
-	<small class="pull-right">K. Kousha, M. Thelwall, Sources of Google Scholar citations outside the Science Citation Index: A comparison between four science disciplines, Scientometrics, Vol. 74, No. 2 (2008) 273–294</small><br>
-	  </blockquote> 
 
 
 <hr>
