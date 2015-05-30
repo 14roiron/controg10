@@ -138,6 +138,10 @@ Ce point de vue ne fait pas l'unanimité ; parmi les détracteurs de J.K. Vancla
 L'utilisation d'une base de données plus large, bien qu'elle soit donc plus ouverte, pourrait donc mener à de fausses mesures, des mesures manipulées.
 </p>
 
+<p>
+Le choix de la base de donneés utilisée pour matérialiser les citations est donc controversé : d'un côté, une sélectivité qui a pour but de garantir des liens de qualité, de l'autre une exhaustivité qui cherche à assurer une meilleure couverture des productions scientifiques. 
+</p>
+
 <hr>
 </div>
 
