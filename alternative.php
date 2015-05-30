@@ -65,8 +65,30 @@ Ces mesures alternatives seraient donc plus actuelles que les mesures liées à 
 <h2 id="selectivitearticles">Sélectivité des articles : quantité et qualité</h2>
 
 <p>
-A COMPLETER
+Les mesures alternatives comme celles proposées par altmetrics prennent le parti d'utiliser le maximum de données possibles disponibles sur le web, et d'utiliser des mesures telles que le nombre de vues ou de téléchargements qui, à priori, sont moins codifiées ou soumises à vérification que le lien citationnel. Les bases de données, au contraire, utilisent des mesures basées sur le lien citationnel au sein de bases de données dont le contenu est sélectionné au préalable.
 </p>
+
+<blockquote>
+Il n’en reste pas moins que la citation reste un lien qui est validé, c’est-à-dire que c’est vraiment un lien intellectuel, ce n’est pas seulement moi qui partage sur mon compte Twitter un article, tout simplement parce que j’ai trouvé le titre intéressant. Quand vous citez un article, c’est parce que vous vous êtes réellement servi des travaux de  recherche qui s’y trouvent dans vos propres recherches. Ce lien intellectuel créé entre les chercheurs, il est validé de plus par le fait que la base de données – WoS – est sélectionnée.
+	<small class="pull-right">G. Rivalle, <a href="http://www.thomsonreuters.com/">Thomson Reuters</a>, Entretien</small><br>
+	  </blockquote> 
+
+<p>
+Les bases de données comme le <a href="http://webofscience.com">Web Of Science</a> opèrent en effet une sélection fine des revues qui sont indexées dans la base de données, c'est-à-dire qu'il y a une sélection de via comité éditorial, qui prend en compte divers critères comme la régularité de la fréquence de publication des revues, ou encore la qualité du contenu, la renommée, afin de constituer l'index. Une fois ce dernier mis en place, il s'agit de calculer les différents indicateurs bibliométriques. Ce qui apparaît dans les indicateurs bibliométriques dépend donc en grande partie de ce choix initial dans la constitution de la base de données. 
+</p>
+
+<p>
+Les indicateurs bibliométriques s'opposent donc totalement à la vision d'altmetrics, qui tend plutôt à s'ouvrir vers des indicateurs plus larges, à support moins restrictif. Mais même lorsqu'il s'agit de calculer des indicateurs bibliométriques, basés sur la citation, le problème de choix de la base de données est un problème qui soulève de nombreuses interrogations et débats. C'est notamment l'un des principaux motifs de désaccord entre P. Jacso et J.K. Vanclay.
+</p>
+
+<p>
+En effet, ce dernier affirme que l'utilisation de bases de données beaucoup plus larges et moins sélectives que le <a href="http://scholar.google.fr/">Web Of Science</a>, telles que <a href="http://webofscience.com">Google Scholar</a>, qui est une base de données de publications totalement ouverte, donnerait des indicateurs, finalement, plus pertinents. L'un des principaux arguments soulevés est que <a href="http://webofscience.com">Google Scholar</a> étant plus ouvert, il est également plus à même de favoriser la découverte de nouveaux travaux, et diminuerait les écarts dans les indicateurs entre les différents domaines de recherche.
+</p>
+
+<p>
+	>>>>>>>>>>>>>>>>>>CITATION VANCLAY<<<<<<<<
+</p>
+
 
 
 <hr>
