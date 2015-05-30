@@ -127,8 +127,11 @@ Cela provoque des réactions virulentes :
     <small class="pull-right">M. Zitt, The journal impact factor: angel, devil, or scapegoat? A comment on J.K. Vanclay’s article 2011, Scientometrics 2012, 22 feb</small><br>
 	</blockquote> 
  <br />
-	
-La conception même de l'indicateur bibliométrique, l'idée sur laquelle il a été créé, est donc sujette à désaccords.
+
+<p>
+C'est donc la nature même de la mesure réalisée, l'idée sur laquelle elle se fonde, qui est donc sujette à désaccords.	
+</p>	
+
 
  <br />
 
