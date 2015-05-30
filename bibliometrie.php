@@ -128,15 +128,8 @@ Cela provoque des réactions virulentes :
 	</blockquote> 
  <br />
 	
+La conception même de l'indicateur bibliométrique, l'idée sur laquelle il a été créé, est donc sujette à désaccords.
 
-<p>
-P. Jacso dénonce également un manque de pertinence dû à cette absence de sélection dans les articles :
-</p>
-
-    <blockquote>
-	It must be hard to resist worshipping GS for an author who benefits from GS’s shortcomings, e.g. when it attributes to the researcher 353 publications, 4,003 citations, and an h-index of 30. After a time, the researcher may believe these numbers, set his expectation of other databases accordingly, and soon may find himself with a chip on his shoulder, if his expectation for inflated h-index score, publication and citation counts are not met by other databases. This can make in his eyes Web of Science and JCR look like Old Scrooge when it attributes to him only 80 publications, 1,291 citations, and a h-index of 19. It may add insult to injury by ranking the researcher’s favored journal by the citations/paper and other relative indicators several positions below other journals in the given discipline.
-    <small class="pull-right">P. Jacso, Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases: reflections on Vanclay’s criticism, Scientometrics (2012) 92:325–354</small><br>
-    </blockquote> 
  <br />
 
 </div>
