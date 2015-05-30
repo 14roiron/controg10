@@ -23,7 +23,7 @@ include("inc/header.php");
        
        
     <div class="paragraphe">
-        <h2 id="Journaux">Journaux</h2>
+        <h2 id="Articles">Articles</h2>
         
 <p>
 [1] Lorna Wildgaard, Jesper W. Schneider, Birger Larsen. “A review of the characteristics of 108 author-level bibliometric indicators” (2014),Scientometrics 101:125–158
@@ -69,10 +69,22 @@ Michel Zitt, The journal impact factor: angel, devil, or scapegoat? A comment on
         
         
          <div class="paragraphe">
-        <h2 id="pb">Publications</h2>
+        <h2 id="Entretiens">Entretiens</h2>
         <p>
-          At Bootply we like to build simple Bootstrap templates that utilize the code Bootstap CSS without a lot of customization. Sure you can 
-          find a lot of Bootstrap themes and inspiration, but these templates tend to be heavy on customization.</p>
+        Guillaume Rivalle, <a href="http://www.thomsonreuters.com/">Thomson Reuters</a>
+          </p>
+          
+        <p>
+        Michel Zitt, Inra
+        </p>
+        
+        <p>
+        Pierre Papon, ex-directeur général du CNRS
+        </p>
+        
+        <p>
+        Jason Priem, membre fondateur d'<a href="http://altmetrics.org/">altmetrics</a>
+        </p>
         
         <hr> </div>
         
