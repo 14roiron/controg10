@@ -112,11 +112,7 @@ Les bases de données comme le <a href="http://webofscience.com">Web Of Science<
 </p>
 
 <p>
-Les indicateurs bibliométriques s'opposent donc totalement à la vision d'altmetrics, qui tend plutôt à s'ouvrir vers des indicateurs plus larges, à support moins restrictif. Mais même lorsqu'il s'agit de calculer des indicateurs bibliométriques, basés sur la citation, le problème de choix de la base de données est un problème qui soulève de nombreuses interrogations et débats. C'est notamment l'un des principaux motifs de désaccord entre P. Jacso et J.K. Vanclay.
-</p>
-
-<p>
-En effet, ce dernier affirme que l'utilisation de bases de données beaucoup plus larges et moins sélectives que le <a href="http://scholar.google.fr/">Web Of Science</a>, telles que <a href="http://webofscience.com">Google Scholar</a>, qui est une base de données de publications totalement ouverte, donnerait des indicateurs, finalement, plus pertinents. L'un des principaux arguments soulevés est que <a href="http://webofscience.com">Google Scholar</a> étant plus ouvert, il est également plus à même de favoriser la découverte de nouveaux travaux, et diminuerait les écarts dans les indicateurs entre les différents domaines de recherche. Comme on l'avait précédemment évoqué :
+Les indicateurs bibliométriques s'opposent donc totalement à la vision d'altmetrics, qui tend plutôt à s'ouvrir vers des indicateurs plus larges, à support moins restrictif. Mais même lorsqu'il s'agit de calculer des indicateurs bibliométriques, basés sur la citation, le problème de choix de la base de données est un problème qui soulève de nombreuses interrogations et débats. C'est d'ailleurs l'un des principaux motifs de désaccord entre P. Jacso et J.K. Vanclay, comme on avait pu le voir dans le choix de la base de données source des mesures.
 </p>
 
 	<blockquote>
@@ -125,22 +121,6 @@ En effet, ce dernier affirme que l'utilisation de bases de données beaucoup plu
 	</blockquote> 
 	
 
-<p>
-Ce point de vue ne fait pas l'unanimité ; parmi les détracteurs de J.K. Vanclay, on retrouve par exemple M. Zitt ou encore P. Jacso, qui dénonce un manque de pertinence dû à cette absence de sélection dans les articles :
-</p>
-
-    <blockquote>
-	It must be hard to resist worshipping GS for an author who benefits from GS’s shortcomings, e.g. when it attributes to the researcher 353 publications, 4,003 citations, and an h-index of 30. After a time, the researcher may believe these numbers, set his expectation of other databases accordingly, and soon may find himself with a chip on his shoulder, if his expectation for inflated h-index score, publication and citation counts are not met by other databases. This can make in his eyes Web of Science and JCR look like Old Scrooge when it attributes to him only 80 publications, 1,291 citations, and a h-index of 19. It may add insult to injury by ranking the researcher’s favored journal by the citations/paper and other relative indicators several positions below other journals in the given discipline.
-    <small class="pull-right">P. Jacso, Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases: reflections on Vanclay’s criticism, Scientometrics (2012) 92:325–354</small><br>
-    </blockquote> 
-
-<p>
-L'utilisation d'une base de données plus large, bien qu'elle soit donc plus ouverte, pourrait donc mener à de fausses mesures, des mesures manipulées.
-</p>
-
-<p>
-Le choix de la base de donneés utilisée pour matérialiser les citations est donc controversé : d'un côté, une sélectivité qui a pour but de garantir des liens de qualité, de l'autre une exhaustivité qui cherche à assurer une meilleure couverture des productions scientifiques. 
-</p>
 
 <hr>
 </div>
