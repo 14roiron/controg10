@@ -42,7 +42,7 @@
         </li>
         -->
         <li id="listeHeaderHistorique">
-          <a href="dates.php">Graphiques</a>
+          <a href="dates.php">Historique</a>
         </li>
         <li id="listeHeaderIndices">
           <a href="indices.php">Indices</a>

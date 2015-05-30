@@ -10,7 +10,7 @@ include("inc/header.php");
 
 
 
-
+<h1> Quelques graphiques de notre controverse </h1>
 <div class="container">
 
 	<div class="row">
@@ -28,12 +28,19 @@ include("inc/header.php");
 		</div>
 
 </div>
+<hr />
+<div class="row">
 <a href="javascript:window.open('js/gexf-js-master/index.html#graph.gexf','nom_de_ma_zzzz','menubar=no, scrollbars=no');"><img src="template/images/corpus.png" style="image-responsive"/> <br />
 Graphe des mots clés de notre corpus scientifique de 345 articles
 </a>
+</div>
 <hr />
+<div class="row">
+
 <a href="javascript:window.open('js/gexf-js-master/index.html#presse.gexf','nom_de_ma_zzzz','menubar=no, scrollbars=no');"><img src="template/images/presse.png" style="image-responsive"/> <br/>
 Graphe des mots clés de notre corpus de presse de 443 articles</a>
+</div>
+
 </div>
 
 
