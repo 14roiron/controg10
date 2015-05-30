@@ -21,6 +21,26 @@ include("inc/header.php");
 <div class="contenu">  
 
 <div class="paragraphe">
+<h2 id="domaines">Différentes mesures pour différents domaines ?</h2>
+
+<p>
+Les indicateurs bibliométriques constituent une manière de mesurer l'impact de travaux scientifiques. Ils se basent sur un certain index de références particulier et choisi ; ils sont donc sujets aux critiques non seulement concernant les formules mathématiques utilisées, mais également dans leur conception.
+</p>
+
+<p>
+L'une des critiques, par exemple, est que dans certains domaines comme les sciences humaines, les indicateurs bibliométriques comme le Journal Impact Factor sont peu pertinents car le genre de production scientifique n'est, dans ce domaine, pas l'article, mais le livre. Le livre ne suit pas le même mode d'évaluation : sa rédaction est longue et les remarques qui y sont faites le sont via un genre de publication particulier, le book review. De plus, un livre, contrairement à un article de journal, n'est susceptible d'être cité qu'un certain temps après sa publication, et de manière bien moins importante. Il s'agit donc de trouver d'autres moyens, plus adaptés, de mesurer.
+</p>
+
+<p>
+Une réponse possible est de créer des index de publications spécifiques à certains types de productions. Par exemple, le BKCI, Book Citation Index, développé par Thomson Reuters, se concentre sur les différents genres liés à la publication de livres. L'un des genres de productions qui pourrait indiquer l'impact d'un certain livre pourrait être le book review : il s'agit d'articles qui ont pour objet de commenter le contenu d'un livre.
+</p>
+
+<blockquote>
+Despite the fact that correlations between citations to a book and the number of corresponding book reviews differ from research area to research area and are overall weak or non-existent, this study confirms that books with book reviews do not remain uncited and accrue a remarkable mean number of citations.
+	<small class="pull-right">J. Gorraiz, C. Gumpenberger, P.J. Purnell, The power of book reviews: a simple and transparent enhancement approach for book citation indexes, Scientometrics (2014) 98:841–852</small><br>
+</blockquote>
+
+<div class="paragraphe">
 <h2 id="Altemtrics">Altmetrics, les mesures alternatives aux indicateurs bibliométriques</h2>
 
 
