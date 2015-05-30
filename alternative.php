@@ -55,7 +55,7 @@ Le lien citationnel n'est donc pas la seule donnée matérialisant un lien entre
 </p>
 
 
-<div class="">
+<div class="paragraphe">
 <h2 id="Altemtrics">Altmetrics, les mesures alternatives aux indicateurs bibliométriques</h2>
 
 
@@ -95,7 +95,7 @@ Les créateurs de la startup altmetrics voient ces mesures comme complémentaire
 Ces mesures alternatives seraient donc plus actuelles que les mesures liées à la citation, car plus rapide et touchant un nombre plus important d'acteurs de la recherche.
 </p>
 
-<div class="">
+<div class="paragraphe">
 <h2 id="selectivitearticles">Sélectivité des articles : quantité et qualité</h2>
 
 <p>
