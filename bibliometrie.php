@@ -33,7 +33,7 @@ The papers are much more likely to serve as props for a staged, mock-up scenario
 
 
 <p>
-P.Jacso fait ainsi réponse à une série d'articles publiés par J.K. Vanclay entre 2008 et 2012. Ces articles formulent des objections par rapport au classement de revues, ou "journal ranking", via certains indicateurs bibliométriques, notamment le Journal Impact Factor. Qu'est-ce que les indicateurs bibliométriques, quel est leur origine et que mesurent-ils ?
+P. Jacso fait ainsi réponse à une série d'articles publiés par J.K. Vanclay entre 2008 et 2012. Ces articles formulent des objections par rapport au classement de revues, ou "journal ranking", via certains indicateurs bibliométriques, notamment le Journal Impact Factor. Qu'est-ce que les indicateurs bibliométriques, quel est leur origine et que mesurent-ils ?
 </p>
 
  
