@@ -134,6 +134,9 @@ Ce point de vue ne fait pas l'unanimité ; parmi les détracteurs de J.K. Vancla
     <small class="pull-right">P. Jacso, Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases: reflections on Vanclay’s criticism, Scientometrics (2012) 92:325–354</small><br>
     </blockquote> 
 
+<p>
+L'utilisation d'une base de données plus large, bien qu'elle soit donc plus ouverte, pourrait donc mener à de fausses mesures, des mesures manipulées.
+</p>
 
 <hr>
 </div>
