@@ -118,7 +118,7 @@ Cela provoque des réactions virulentes :
 
     <blockquote>
     The papers are much more likely to serve as props for a staged, mock-up scenario based on slipshod research in an experiment, to illustrate the deficiencies in the processes and in the assessment of scholarly publishing productivity and impact in order to present the idealized solution of Vanclay: using the h-index, portrayed as the Prince, mounted on the shoulder of the White Horse, <a href="https://scholar.google.fr/">Google Scholar</a>.<br/>
-    <small class="pull-right"> P.Jacso, Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases: reflections on Vanclay’s criticism, Scientometrics (2012) 92:325–354</small><br>
+    <small class="pull-right"> P. Jacso, Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases: reflections on Vanclay’s criticism, Scientometrics (2012) 92:325–354</small><br>
     </blockquote> 
  <br />
   
@@ -135,7 +135,7 @@ P. Jacso dénonce également un manque de pertinence dû à cette absence de sé
 
     <blockquote>
 	It must be hard to resist worshipping GS for an author who benefits from GS’s shortcomings, e.g. when it attributes to the researcher 353 publications, 4,003 citations, and an h-index of 30. After a time, the researcher may believe these numbers, set his expectation of other databases accordingly, and soon may find himself with a chip on his shoulder, if his expectation for inflated h-index score, publication and citation counts are not met by other databases. This can make in his eyes Web of Science and JCR look like Old Scrooge when it attributes to him only 80 publications, 1,291 citations, and a h-index of 19. It may add insult to injury by ranking the researcher’s favored journal by the citations/paper and other relative indicators several positions below other journals in the given discipline.
-    <small class="pull-right">P.Jacso, Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases: reflections on Vanclay’s criticism, Scientometrics (2012) 92:325–354</small><br>
+    <small class="pull-right">P. Jacso, Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases: reflections on Vanclay’s criticism, Scientometrics (2012) 92:325–354</small><br>
     </blockquote> 
  <br />
 

@@ -4,7 +4,7 @@ function parse()
             var a = [];
 		
 		a[0]= [];
-		a[0][0] ="P.Jacso";
+		a[0][0] ="P. Jacso";
 		a[0][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=jacso\" data-target=\"#infos\">P.Jacso</a>";
 		
 		a[1]=[];

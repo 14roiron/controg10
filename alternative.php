@@ -88,7 +88,7 @@ A COMPLETER
 include("inc/footer.php");
 ?>
 <script language="javascript">
-$("#listeHeaderIndicateurs").addClass("active");
+$("#listeHeaderSuite").addClass("active");
 parse();
 </script>
 	</body>
