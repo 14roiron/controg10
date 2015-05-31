@@ -161,6 +161,7 @@ include("inc/header.php");
                   bibliométriques, ou la manière de les produire.</p>
                   <p>Cette déclaration, publiée en 2013 par l'ASCB (American Society for Cell Biology), a depuis été signée par plus de 6000 personnes et plus de 200
                   institutions, ce qui montre que la controverse concernant l'utilisation des mesures bibliométriques est réellement active.</p>
+                  <p>L'idée de mesure bibliométrique est donc dès le départ déjà controversée. Mais la controverse joue sur deux autres niveaux : d'une part, les différents indicateurs mis en place pour ces mesures bibliométriques et leur choix ne fait pas consensus. D'autre part, la controverse est également active sur d'autres mesures, dites alterntives aux mesures bibliométriques.</p>
                   <br />
                 </div>
               </div>
