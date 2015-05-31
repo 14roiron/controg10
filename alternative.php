@@ -79,8 +79,7 @@ include("inc/header.php");
                   associated to them. For instance, a citation will take a certain amount of time to show up: the word has to be published, someone has to read it, they have to
                   get their own republish... So often there is a delay, as much as several years, between one of our creative impact and when we can observe that impact in the
                   citation record. 
-                  <small class="pull-right">J. Priem, 
-                  <a target="_blank"href="http://altmetrics.org/">altmetrics</a>, Entretien</small>
+                  <small class="pull-right">J. Priem, altmetrics, Entretien</small>
                   <br /></blockquote>
                   <p>Ces mesures alternatives seraient donc plus actuelles que les mesures liées à la citation, car plus rapide et touchant un nombre plus important d'acteurs de
                   la recherche.</p>
