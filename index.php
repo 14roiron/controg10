@@ -18,15 +18,12 @@ include("inc/header.php");
       <!--right-->
       <div class="col-md-12">
         <div class="paragraphe">
-		<h2 id="sec0">Controverses</h2>
+		<h2 id="sec2">Introduction</h2>
 
         <p>
           Ce site web a été réalisé par des élèves de première année de l’École des Mines dans le cadre du cours de Description des controverses. Ces sites sont le résultat de travail d’étudiants et sont mis en ligne pour des raisons pédagogiques et didactiques. Une description plus détaillée de ce cours sur disponible sur le site du <a href="http://controverses.ensmp.fr/presentation/"> cours de controverse de MINES ParisTech. </a>
         
-        </div>
-		
-        <div class="paragraphe">
-		<h2 id="sec2">Introduction</h2>
+       </div>
         
         <p>
         Le monde de la recherche comporte de très nombreux acteurs. Le principal moyen de communication entre ces différents acteurs consiste à partager les différentes avancées par le biais de différentes productions scientifiques : conférences, articles, livres, etc. Au delà du simple partage d'informations, des liens complexes se tissent entre les différents acteurs de la recherche.
