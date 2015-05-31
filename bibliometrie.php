@@ -50,7 +50,7 @@ include("inc/header.php");
                 but de faciliter la découverte de travaux scientifiques. Ils devaient permettre aux utilisateurs de naviguer de manière plus facile entre les publications
                 scientifiques.</p>
                 <blockquote>La "découverte", c’est le but premier du 
-                <a href="http://webofscience.com">Web Of Science</a>. Le but premier n’a jamais été la bibliométrie, mais la découverte: on fournit une plate-forme, qui dans
+                <a href="http://webofscience.com">Web of Science</a>. Le but premier n’a jamais été la bibliométrie, mais la découverte: on fournit une plate-forme, qui dans
                 laquelle se trouve la Core Collection, donc la collection cœur des revues, ouvrages et conférences sélectionnés, qui est principalement utilisée pour la
                 découverte bibliographique. 
                 <small class="pull-right">G. Rivalle, 

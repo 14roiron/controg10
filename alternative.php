@@ -76,7 +76,7 @@ include("inc/header.php");
                   <p>Les créateurs de la startup altmetrics voient ces mesures comme complémentaires des mesures basées sur le lien citationnel. En particulier, ils ne
                   souffriraient pas des mêmes "défauts" que ces dernières, notamment leur inertie, et le fait qu'ils ne prennent pas en compte l'influence des travaux en dehors
                   du milieu académique. J. Priem, membre fondateur de altmetrics, mentionne en entretien :</p>
-                  <blockquote>Any kind of citation mining, whether from the ISI, Web Of Science or from Scopus, is gonna be limited by the fact that citation has certain weakness
+                  <blockquote>Any kind of citation mining, whether from the ISI, Web of Science or from Scopus, is gonna be limited by the fact that citation has certain weakness
                   associated to them. For instance, a citation will take a certain amount of time to show up: the word has to be published, someone has to read it, they have to
                   get their own republish... So often there is a delay, as much as several years, between one of our creative impact and when we can observe that impact in the
                   citation record. 
@@ -94,12 +94,12 @@ include("inc/header.php");
                     <blockquote>Il n’en reste pas moins que la citation reste un lien qui est validé, c’est-à-dire que c’est vraiment un lien intellectuel, ce n’est pas
                     seulement moi qui partage sur mon compte Twitter un article, tout simplement parce que j’ai trouvé le titre intéressant. Quand vous citez un article,
                     c’est parce que vous vous êtes réellement servi des travaux de recherche qui s’y trouvent dans vos propres recherches. Ce lien intellectuel créé entre
-                    les chercheurs, il est validé de plus par le fait que la base de données – le Web Of Science – est sélectionnée. 
+                    les chercheurs, il est validé de plus par le fait que la base de données – le Web of Science – est sélectionnée. 
                     <small class="pull-right">G. Rivalle, 
                     <a href="http://www.thomsonreuters.com/">Thomson Reuters</a>, Entretien</small>
                     <br /></blockquote>
                     <p>Les bases de données comme le 
-                    <a href="http://webofscience.com">Web Of Science</a> opèrent en effet une sélection fine des revues qui sont indexées dans la base de données,
+                    <a href="http://webofscience.com">Web of Science</a> opèrent en effet une sélection fine des revues qui sont indexées dans la base de données,
                     c'est-à-dire qu'il y a une sélection de via comité éditorial, qui prend en compte divers critères comme la régularité de la fréquence de publication
                     des revues, ou encore la qualité du contenu, la renommée, afin de constituer l'index. Une fois ce dernier mis en place, il s'agit de calculer les différents
                     indicateurs bibliométriques. Ce qui apparaît dans les indicateurs bibliométriques dépend donc en grande partie de ce choix initial dans la constitution de

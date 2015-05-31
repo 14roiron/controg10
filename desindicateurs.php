@@ -108,7 +108,7 @@ Le h-index a été proposé par J.E. Hirsch à partir de plusieurs constats : lo
 Chacun de ces indicateurs pris individuellement ne convient pas : certains mesurent la productivité seulement et non l’importance des résultats, certains avantagent certaines situations (« découvertes ponctuelles » vs travail sur le long terme, auteur très productif mais peu cité vs auteur peu productif mais très cité…).
 </p>
 <p>
-L’indice h proposé par J.E. Hirsch mesure convenablement d’après lui l’impact du travail du chercheur, et de plus est facile à calculer (par exemple, dans une base de données telle que le Web Of Science, on classe les publications par nombre de citations et on compte). J.E. Hirsch a étudié le h-index pour des physiciens et a constaté que deux chercheurs affichant un h-index semblable ont un impact semblable dans le monde de la recherche.
+L’indice h proposé par J.E. Hirsch mesure convenablement d’après lui l’impact du travail du chercheur, et de plus est facile à calculer (par exemple, dans une base de données telle que le Web of Science, on classe les publications par nombre de citations et on compte). J.E. Hirsch a étudié le h-index pour des physiciens et a constaté que deux chercheurs affichant un h-index semblable ont un impact semblable dans le monde de la recherche.
 </p>
 
 </div>
@@ -130,7 +130,7 @@ D’autre part, d’autres chercheurs (comme dans la dernière citation) propose
 Néanmoins, la méthode de calcul du h-index est débattue, car ce dernier peut être différent d’une base de donnée à l’autre en raison de leurs bases de données propres, point abordé précédemment.
 </p>
 	<blockquote>
-	In several case the results obtained through Google Scholar are considerably different from the results based on the <a href="http://webofscience.com">Web Of Science</a> and Scopus. Data cleansing is discussed extensively.
+	In several case the results obtained through Google Scholar are considerably different from the results based on the <a href="http://webofscience.com">Web of Science</a> and Scopus. Data cleansing is discussed extensively.
 	<small class="pull-right">J. Bar-Ilan, Which h-index? — A comparison of WoS, Scopus and Google Scholar, Scientometrics 74 (2): 257, 2007</small><br>
 	</blockquote> 
  <br />
