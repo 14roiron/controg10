@@ -48,7 +48,7 @@ include("inc/header.php");
                 <div class="paragraphe">
                   <h2 id="Altemtrics">Altmetrics, les mesures alternatives aux indicateurs bibliométriques</h2>
                   <p>
-                  <img src="/~groupe10/template/images/altmetrics_logo.png" class="img-responsive" /> Parallèlement aux indicateurs bibliométriques, qui utilisent principalement
+                  <img src="/~groupe10/template/images/altmetric_logo.png" class="img-responsive" /> Parallèlement aux indicateurs bibliométriques, qui utilisent principalement
                   le lien citationnel, il est également utilisé d'autres indicateurs se basant sur des données très différentes. En 2010, on entend pour la première fois le
                   terme de "altmetrics", qui désigne des mesures dites "non traditionnelles", telles que décrites dans le manifeste de altmetrics.</p>
                   <blockquote>No one can read everything. We rely on filters to make sense of the scholarly literature, but the narrow, traditional filters are being swamped.
@@ -57,7 +57,7 @@ include("inc/header.php");
                   Online reference managers Zotero and Mendeley each claim to store over 40 million articles (making them substantially larger than PubMed); as many as a third of
                   scholars are on Twitter, and a growing number tend scholarly blogs. 
                   <small class="pull-right">J. Priem, D. Taraborelli, P. Groth, C. Neylon, 
-                  <a target="_blank"href="http://altmetrics.org/">altmetrics</a> : a manifesto, 2010</small>
+                  altmetrics : a manifesto, 2010</small>
                   <br /></blockquote>
                   <p>Ces mesures viendraient donc "alternativement" aux mesures utilisées pour calculer les indicateurs bibliométriques. Elles concernent les différents
                   articles qui sont disponibles, non pas dans les bases de données mais sur internet. Les éléments mesurés sont, pour une certaine production scientifique, par

@@ -42,7 +42,7 @@ function parse()
 	
 	a[14]=[];
 	a[14][0]="J. Priem";
-	a[14][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=priem\" data-target=\"#infos\">J. Prien</a>";
+	a[14][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=priem\" data-target=\"#infos\">J. Priem</a>";
 	
 	a[15]=[];
 	a[15][0]="G. Rivalle";
@@ -68,7 +68,7 @@ function parse()
 	
 	a[7]=[];
 	a[7][0]="book citation index";
-	a[7][1]="<a data-toggle=\"modal\" href=\"modale_indices.php?c=bookcitationIndex\" data-target=\"#infos\">book citation Index</a>";
+	a[7][1]="<a data-toggle=\"modal\" href=\"modale_indices.php?c=bookcitationIndex\" data-target=\"#infos\">book citation index</a>";
 	
 	
 	
