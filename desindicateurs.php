@@ -97,7 +97,7 @@ Cette dernière citation soulève le point important des limites des indices. En
 
 	<blockquote>
 	A scientist has index h if h of his/her Np papers have at least h citations each, and the other (Np − h) papers have no more than h citations each.
-    <small class="pull-right">J. Hirsh, An index to quantify an individual's scientific research output, Proceedings of the National Academy of Sciences, vol. 102, no 46, 16569–16572, 2005</small><br>
+    <small class="pull-right">J. Hirsch, An index to quantify an individual's scientific research output, Proceedings of the National Academy of Sciences, vol. 102, no 46, 16569–16572, 2005</small><br>
 	</blockquote> 
  <br />
 
@@ -165,7 +165,7 @@ Néanmoins, le g-index a aussi des détracteurs. Alex De Visscher écrit des art
 	</blockquote> 
  <br />
 <p>
-Ce à quoi répond Leo Egghe dans L. Egghe, Remarks on the paper of A. de Visscher, "what does the g-index really measure?". <i>Journal of the American Society for Information Science and Technology</i>, 63 (10), pp. 2118-2121., 2012, puis Alex De Visscher dans A. De Visscher, Response to remarks on the paper by a. De Visscher, 'what does the g-index really measure?', <i>Journal of the American Society for Information Science and Technology</i>, 64 (9), pp. 1960-1962, 2013 et ainsi de suite…
+Ce à quoi répond Leo Egghe en 2012 dans un autre article, puis Alex De Visscher en 2013 dans un autre article qui y fait réponse, et ainsi de suite…
 </p>
 <p>
 Toujours dans le domaine de la recherche, d’autres chercheurs sont plus catégoriques et considèrent que le h-index, comme le g-index, sont bien trop simplistes et ne sont pas des indicateurs fiables.
