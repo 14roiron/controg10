@@ -62,8 +62,8 @@ function parse()
 	a[5][1]="<a data-toggle=\"modal\" href=\"modale_indices.php?c=g-index\" data-target=\"#infos\">g-index</a>";
 	
 	a[6]=[];
-	a[6][0]="Altmetrics";
-	a[6][1]="<a data-toggle=\"modal\" href=\"modale_indices.php?c=altmetrics\" data-target=\"#infos\">Altmetrics</a>";
+	a[6][0]="altmetrics";
+	a[6][1]="<a data-toggle=\"modal\" href=\"modale_indices.php?c=altmetrics\" data-target=\"#infos\">altmetrics</a>";
 	
 	
 	a[7]=[];
@@ -73,8 +73,16 @@ function parse()
 	
 	
 	a[16]=[];
-	a[16][0]="J.K. Vanclay";
-	a[16][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=vanclay\" data-target=\"#infos\">J.K. Vanclay</a>";
+	a[16][0]="Web of Science";
+	a[16][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=webofscience\" data-target=\"#infos\">Web of Science</a>";
+	
+	a[17]=[];
+	a[17][0]="Scopus";
+	a[17][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=scopus\" data-target=\"#infos\">Scopus</a>";
+	
+	a[18]=[];
+	a[18][0]="Google Scholar";
+	a[18][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=googlescholar\" data-target=\"#infos\">Google Scholar</a>";
 	
 	
 	for (var i=0;i<a.length;i++) {
