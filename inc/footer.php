@@ -13,9 +13,8 @@
     <span class="navbar-brand" >Liens Utiles</span>
   </div>
   <ul class="nav navbar-nav">
-			<li><a title="Le site de l'école Nationale Supérieure des Mines de Paris" href="http://www.mines-paristech.fr/">Mines ParisTech</a></li>
-    		<li><a title="Le site présentant le cours de description de controverses, cours dans le cadre duquel s'inscrit le travail présenté sur ce site." href="http://controverses.ensmp.fr/presentation/#intro">Cours de description de controverses</a></li>
-    		<li><a title="Contacter Webmaster du groupe de controverse" href="mailto:xx-xx@mines-paristech.fr">Contacter le Webmaster</a></li>
+			<li><a target="_blank" title="Le site de l'école Nationale Supérieure des Mines de Paris" href="http://www.mines-paristech.fr/">Mines ParisTech</a></li>
+    		<li><a target="_blank" title="Le site présentant le cours de description de controverses, cours dans le cadre duquel s'inscrit le travail présenté sur ce site." href="http://controverses.ensmp.fr/presentation/#intro">Cours de description de controverses</a></li>
   </ul>
 </div>
 </div>
