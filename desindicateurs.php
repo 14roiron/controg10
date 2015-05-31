@@ -130,7 +130,7 @@ D’autre part, d’autres chercheurs (comme dans la dernière citation) propose
 Néanmoins, la méthode de calcul du h-index est débattue, car ce dernier peut être différent d’une base de donnée à l’autre en raison de leurs bases de données propres, point abordé précédemment.
 </p>
 	<blockquote>
-	In several case the results obtained through Google Scholar are considerably different from the results based on the <a href="http://webofscience.com">Web of Science</a> and Scopus. Data cleansing is discussed extensively.
+	In several case the results obtained through Google Scholar are considerably different from the results based on the Web of Science and Scopus. Data cleansing is discussed extensively.
 	<small class="pull-right">J. Bar-Ilan, Which h-index? — A comparison of WoS, Scopus and Google Scholar, Scientometrics 74 (2): 257, 2007</small><br>
 	</blockquote> 
  <br />
@@ -184,7 +184,7 @@ Chaque indicateur bibliométrique est sujet à des débats de ce type. Chaque in
 </p>
 	<blockquote>
 	C’est un indicateur qui est assez simple et qui va pénaliser un chercheur qui est jeune. Par exemple, il n’a peut-être que 2 articles, et imaginons que ces deux articles sont cités 200 fois chacun : son h-index reste de 2 puisqu’il a deux articles cités deux fois. Vous comprenez qu’il faut être publié beaucoup et être cité beaucoup pour avoir un haut h-index. L'une des faiblesses du h-index, c’est l’absence de contextualisation. 
-	<small class="pull-right">G. Rivalle, <a href="http://thomsonreuters.com/">Thomson Reuters</a>, Entretien</small><br>
+	<small class="pull-right">G. Rivalle, <a target="_blank" href="http://thomsonreuters.com/">Thomson Reuters</a>, Entretien</small><br>
 	</blockquote> 
  <br />
 <p>

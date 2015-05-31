@@ -19,16 +19,16 @@ include("inc/header.php");
         <h2 id="Entretiens">Entretiens</h2>
 
         <p>
-        Pierre Papon, ex-directeur général du <a href="http://www.cnrs.fr/">CNRS</a>
+        Pierre Papon, ex-directeur général du <a target="_blank"href="http://www.cnrs.fr/">CNRS</a>
         </p>
         <p>
-        Jason Priem, membre fondateur d'<a href="http://altmetrics.org/">altmetrics</a>
+        Jason Priem, membre fondateur d'<a target="_blank"href="http://altmetrics.org/">altmetrics</a>
         </p>
          <p>
-        Guillaume Rivalle, <a href="http://www.thomsonreuters.com/">Thomson Reuters</a>
+        Guillaume Rivalle, <a target="_blank"href="http://www.thomsonreuters.com/">Thomson Reuters</a>
         </p>
         <p>
-        Michel Zitt, <a href="http://institut.inra.fr/">Inra</a>
+        Michel Zitt, <a target="_blank"href="http://institut.inra.fr/">Inra</a>
         </p>
         
        <hr> </div>
@@ -114,7 +114,7 @@ Lorna Wildgaard, Jesper W. Schneider, Birger Larsen, A review of the characteris
 M. Zitt, The journal impact factor: angel, devil, or scapegoat? A comment on J.K. Vanclay’s article, <i> Scientometrics </i>, 22 Février 2012.
 </p>
 <p>
-San Francisco Declaration on Research Assessment ; <a href="http://www.ascb.org/dora-old/files/SFDeclarationFINAL.pdf">DORA</a>, 2013.
+San Francisco Declaration on Research Assessment ; <a target="_blank"href="http://www.ascb.org/dora-old/files/SFDeclarationFINAL.pdf">DORA</a>, 2013.
 </p>
 
         <hr> </div>
@@ -158,16 +158,16 @@ San Francisco Declaration on Research Assessment ; <a href="http://www.ascb.org/
         <div class="paragraphe">
         <h2 id="sw">Sites Web</h2>
         <p>
-        <a href="http://thomsonreuters.com/">Site officiel de Thomson Reuters</a>
+        <a target="_blank"href="http://thomsonreuters.com/">Site officiel de Thomson Reuters</a>
         </p>
         <p>
-        <a href="http://altmetrics.org/">Site officiel de altmetrics</a>
+        <a target="_blank"href="http://altmetrics.org/">Site officiel de altmetrics</a>
         </p>
         <p>
-        <a href="http://www.cnrs.fr/">Site officiel du CNRS</a>
+        <a target="_blank"href="http://www.cnrs.fr/">Site officiel du CNRS</a>
         </p>
         <p>
-        <a href="http://www.shanghairanking.com/">Site officiel du Classement de Shanghai</a>
+        <a target="_blank"href="http://www.shanghairanking.com/">Site officiel du Classement de Shanghai</a>
         </p>
         
         <hr> </div>

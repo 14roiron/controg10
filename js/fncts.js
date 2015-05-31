@@ -74,16 +74,16 @@ function parse()
 	
 	a[16]=[];
 	a[16][0]="Web of Science";
-	a[16][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=webofscience\" data-target=\"#infos\">Web of Science</a>";
+	a[16][1]="<a data-toggle=\"modal\" href=\"modale_indices.php?c=webofscience\" data-target=\"#infos\">Web of Science</a>";
 	
 	
 	a[17]=[];
 	a[17][0]="Scopus";
-	a[17][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=scopus\" data-target=\"#infos\">Scopus</a>";
+	a[17][1]="<a data-toggle=\"modal\" href=\"modale_indices.php?c=scopus\" data-target=\"#infos\">Scopus</a>";
 	
 	a[18]=[];
 	a[18][0]="Google Scholar";
-	a[18][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=googlescholar\" data-target=\"#infos\">Google Scholar</a>";
+	a[18][1]="<a data-toggle=\"modal\" href=\"modale_indices.php?c=googlescholar\" data-target=\"#infos\">Google Scholar</a>";
 	
 	
 	for (var i=0;i<a.length;i++) {

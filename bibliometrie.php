@@ -50,11 +50,11 @@ include("inc/header.php");
                 but de faciliter la découverte de travaux scientifiques. Ils devaient permettre aux utilisateurs de naviguer de manière plus facile entre les publications
                 scientifiques.</p>
                 <blockquote>La "découverte", c’est le but premier du 
-                <a href="http://webofscience.com">Web of Science</a>. Le but premier n’a jamais été la bibliométrie, mais la découverte: on fournit une plate-forme, qui dans
+                <a target="_blank"href="http://webofscience.com">Web of Science</a>. Le but premier n’a jamais été la bibliométrie, mais la découverte: on fournit une plate-forme, qui dans
                 laquelle se trouve la Core Collection, donc la collection cœur des revues, ouvrages et conférences sélectionnés, qui est principalement utilisée pour la
                 découverte bibliographique. 
                 <small class="pull-right">G. Rivalle, 
-                <a href="http://thomsonreuters.com/">Thomson Reuters</a>, Entretien</small>
+                <a target="_blank"href="http://thomsonreuters.com/">Thomson Reuters</a>, Entretien</small>
                 <br /></blockquote>
                 <br />
                 <p>Depuis, une autre utilisation des bases de données a vu le jour. Plus que permettre la découverte, elles sont de plus en plus utilisées à des fins
@@ -77,15 +77,15 @@ include("inc/header.php");
                 vous êtes réellement servi des travaux de recherche qui s’y trouvent dans vos propres recherches. Ce lien intellectuel créé entre les chercheurs est validé
                 de plus par le fait que la base de données est sélectionnée. 
                 <small class="pull-right">G. Rivalle, 
-                <a href="http://thomsonreuters.com/">Thomson Reuters</a>, Entretien</small>
+                <a target="_blank"href="http://thomsonreuters.com/">Thomson Reuters</a>, Entretien</small>
                 <br /></blockquote>
                 <br />
                 <p>Le choix de la base de données est donc aussi sujet à controverse. En effet, 
-                <a href="http://thomsonreuters.com/">Thomson Reuters</a>, dans ses bases de données, adopte un modèle de sélectivité très fine des articles qui apparaîtront
+                <a target="_blank"href="http://thomsonreuters.com/">Thomson Reuters</a>, dans ses bases de données, adopte un modèle de sélectivité très fine des articles qui apparaîtront
                 dans la base, via une sélection des revues qui y seront indexées. Cette sélection se fait via un comité de lecture, qui décidera si la revue en question sera
                 ou non présente dans la base de données, via des critères tels que la ponctualité des parutions, la qualité des articles présentés.</p>
                 <p>Cette approche est sujette à désaccords, notamment lorsque des enjeux de financement de la recherche sont concernés. Par exemple, J.K. Vanclay, en 2012, critique le Journal Impact Factor, qui est un indicateur calculé par 
-                <a href="http://thomsonreuters.com/">Thomson Reuters</a> dans sa base de données.</p>
+                <a target="_blank"href="http://thomsonreuters.com/">Thomson Reuters</a> dans sa base de données.</p>
                 <blockquote>The Thomson Reuters impact factor (TRIF) suffers so many weaknesses, that a major overhaul is warranted, and journal editors and other users should
                 cease using the TRIF until Thomson Reuters has addressed these weaknesses. 
                 <small class="pull-right">J.K. Vanclay, Impact factor: outdated artefact or stepping-stone to journal certification?, Scientometrics, 92:211–238, 2012</small>
@@ -93,9 +93,9 @@ include("inc/header.php");
                 <br />
                 <p>En 2012, à l'occasion de débats concernant l'évaluation de la recherche pour l'attribution de financements dans le cadre de l'Excellence in Research for Australia (<a href="http://www.arc.gov.au/era/" target="_blank">ERA</a>), il publie
                 également des articles postulant que l'utilisation de bases de données plus conséquentes et moins sélectives telles que 
-                <a href="https://scholar.google.fr/">Google Scholar</a> donneraient des résultats plus pertinents.</p>
+                 donneraient des résultats plus pertinents.</p>
                 <blockquote>Because of its broader coverage and despite known deficiencies, Hirsch’s h-index based on 
-                <a href="https://scholar.google.fr/">Google Scholar</a> data may be more useful than the Journal Impact Factor, as a measure of journal quality, and in providing a
+                 data may be more useful than the Journal Impact Factor, as a measure of journal quality, and in providing a
                 basis to rank journals. 
                 <small class="pull-right">J.K. Vanclay, Ranking forestry journals using the h-index, Journal of Informetrics, 2(4), 326–334, 2012</small>
                 <br /></blockquote>
@@ -104,7 +104,7 @@ include("inc/header.php");
                 <blockquote>The papers are much more likely to serve as props for a staged, mock-up scenario based on slipshod research in an experiment, to illustrate the
                 deficiencies in the processes and in the assessment of scholarly publishing productivity and impact in order to present the idealized solution of Vanclay: using
                 the h-index, portrayed as the Prince, mounted on the shoulder of the White Horse, 
-                <a href="https://scholar.google.fr/">Google Scholar</a>.
+                .
                 <br />
                 <small class="pull-right">P. Jacso, Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases:
                 reflections on Vanclay’s criticism, Scientometrics, 92:325–354, 2012</small>
@@ -117,10 +117,10 @@ include("inc/header.php");
                 <br /></blockquote>
                 <br />
                 <p>En effet, J.K. Vanclay affirme que l'utilisation de bases de données beaucoup plus larges et moins sélectives que le 
-                <a href="http://scholar.google.fr/">Web Of Science</a>, telles que 
-                <a href="http://webofscience.com">Google Scholar</a>, qui est une base de données de publications totalement ouverte, serait finalement. L'un des principaux
+                Web of Science, telles que 
+                Google Scholar, qui est une base de données de publications totalement ouverte, serait finalement. L'un des principaux
                 arguments soulevés est que 
-                <a href="http://webofscience.com">Google Scholar</a>, par exemple, étant plus ouvert, il est également plus à même de favoriser la découverte de nouveaux
+                Google Scholar, par exemple, étant plus ouvert, il est également plus à même de favoriser la découverte de nouveaux
                 travaux, et diminuerait dans le même temps les écarts dans les indicateurs entre les différents domaines de recherche.</p>
                 <p>Ce point de vue ne fait pas l'unanimité ; parmi les détracteurs de J.K. Vanclay, on retrouve par exemple M. Zitt ou encore P. Jacso, qui dénonce un manque de
                 pertinence dû à cette absence de sélection dans les articles :</p>
@@ -144,9 +144,9 @@ include("inc/header.php");
                   biaisée.</p>
                   <p>L'une des motivations pour la mesure, outre la facilité de découverte, est pour les institutions d'établir des classements et des évaluations. Ces
                   derniers peuvent avoir une influence sur la réputation de telle ou telle entité de la recherche, comme par exemple pour le 
-                  <a href="http://www.shanghairanking.com/fr/">Classement de Shanghai</a>, qui fournit un classement annuel des meilleures universités mondiales selon certains
+                  <a target="_blank"href="http://www.shanghairanking.com/fr/">Classement de Shanghai</a>, qui fournit un classement annuel des meilleures universités mondiales selon certains
                   critères. L'évaluation de la recherche peut par exemple conduire les institutions de la recherche telles que le 
-                  <a href="http://www.cnrs.fr/">CNRS</a>, Centre National de la Recherche Scientifique, à distribuer les fonds accordés à la recherche d'une certaine manière
+                  <a target="_blank"href="http://www.cnrs.fr/">CNRS</a>, Centre National de la Recherche Scientifique, à distribuer les fonds accordés à la recherche d'une certaine manière
                   plutôt que d'une autre.</p>
                   <p>La déclaration <a href="http://www.ascb.org/dora-old/files/SFDeclarationFINAL.pdf" target="_blank">DORA</a> de San Francisco (San Francisco Declaration on Research Assessment) est une déclaration initiée par des scientifiques et éditeurs de
                   journaux qui remet en cause l'utilisation, jugée trop importante, des classements basés sur les mesures bibliométriques avec pour fin l'évaluation de la

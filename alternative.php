@@ -57,7 +57,7 @@ include("inc/header.php");
                   Online reference managers Zotero and Mendeley each claim to store over 40 million articles (making them substantially larger than PubMed); as many as a third of
                   scholars are on Twitter, and a growing number tend scholarly blogs. 
                   <small class="pull-right">J. Priem, D. Taraborelli, P. Groth, C. Neylon, 
-                  <a href="http://altmetrics.org/">altmetrics</a> : a manifesto, 2010</small>
+                  <a target="_blank"href="http://altmetrics.org/">altmetrics</a> : a manifesto, 2010</small>
                   <br /></blockquote>
                   <p>Ces mesures viendraient donc "alternativement" aux mesures utilisées pour calculer les indicateurs bibliométriques. Elles concernent les différents
                   articles qui sont disponibles, non pas dans les bases de données mais sur internet. Les éléments mesurés sont, pour une certaine production scientifique, par
@@ -66,12 +66,12 @@ include("inc/header.php");
                   <p>L'utilisation des indicateurs sus-cités est d'une philosophie fondamentalement différente de celle des indicateurs bibliométriques. En effet, il s'agit ici
                   de mesurer quelque chose d'autre, qui n'est pas forcément mis en exergue par des indicateurs bibliométriques basés sur le lien citationnel. Par exemple,
                   Michel Zitt, chercheur à l'
-                  <a href="http://institut.inra.fr/">Inra</a>, mentionne la popularité d'une entité sur le web :</p>
+                  <a target="_blank"href="http://institut.inra.fr/">Inra</a>, mentionne la popularité d'une entité sur le web :</p>
                   <blockquote>Il y a l’idée de mesurer de nouveaux objets, de nouvelles choses, par exemple la présence des différentes universités sur le net, c’est à
                   dire le degré d’activité qu’elles ont sur la toile, qui est donc une notion de communication en quelque sorte, une partie managériale, l’efficacité de
                   la communication de ces universités. 
                   <small class="pull-right">M. Zitt, 
-                  <a href="http://institut.inra.fr/">Inra</a>, Entretien</small>
+                  <a target="_blank"href="http://institut.inra.fr/">Inra</a>, Entretien</small>
                   <br /></blockquote>
                   <p>Les créateurs de la startup altmetrics voient ces mesures comme complémentaires des mesures basées sur le lien citationnel. En particulier, ils ne
                   souffriraient pas des mêmes "défauts" que ces dernières, notamment leur inertie, et le fait qu'ils ne prennent pas en compte l'influence des travaux en dehors
@@ -81,7 +81,7 @@ include("inc/header.php");
                   get their own republish... So often there is a delay, as much as several years, between one of our creative impact and when we can observe that impact in the
                   citation record. 
                   <small class="pull-right">J. Priem, 
-                  <a href="http://altmetrics.org/">altmetrics</a>, Entretien</small>
+                  <a target="_blank"href="http://altmetrics.org/">altmetrics</a>, Entretien</small>
                   <br /></blockquote>
                   <p>Ces mesures alternatives seraient donc plus actuelles que les mesures liées à la citation, car plus rapide et touchant un nombre plus important d'acteurs de
                   la recherche.</p>
@@ -96,10 +96,10 @@ include("inc/header.php");
                     c’est parce que vous vous êtes réellement servi des travaux de recherche qui s’y trouvent dans vos propres recherches. Ce lien intellectuel créé entre
                     les chercheurs, il est validé de plus par le fait que la base de données – le Web of Science – est sélectionnée. 
                     <small class="pull-right">G. Rivalle, 
-                    <a href="http://www.thomsonreuters.com/">Thomson Reuters</a>, Entretien</small>
+                    <a target="_blank"href="http://www.thomsonreuters.com/">Thomson Reuters</a>, Entretien</small>
                     <br /></blockquote>
                     <p>Les bases de données comme le 
-                    <a href="http://webofscience.com">Web of Science</a> opèrent en effet une sélection fine des revues qui sont indexées dans la base de données,
+                    <a target="_blank"href="http://webofscience.com">Web of Science</a> opèrent en effet une sélection fine des revues qui sont indexées dans la base de données,
                     c'est-à-dire qu'il y a une sélection de via comité éditorial, qui prend en compte divers critères comme la régularité de la fréquence de publication
                     des revues, ou encore la qualité du contenu, la renommée, afin de constituer l'index. Une fois ce dernier mis en place, il s'agit de calculer les différents
                     indicateurs bibliométriques. Ce qui apparaît dans les indicateurs bibliométriques dépend donc en grande partie de ce choix initial dans la constitution de
@@ -109,7 +109,7 @@ include("inc/header.php");
                     données est un problème qui soulève de nombreuses interrogations et débats. C'est d'ailleurs l'un des principaux motifs de désaccord entre P. Jacso et
                     J.K. Vanclay, comme on avait pu le voir dans le choix de la base de données source des mesures.</p>
                     <blockquote>Because of its broader coverage and despite known deficiencies, Hirsch’s h-index based on 
-                    <a href="https://scholar.google.fr/">Google Scholar</a> data may be more useful than the Journal Impact Factor, as a measure of journal quality, and in
+                    <a target="_blank"href="https://scholar.google.fr/">Google Scholar</a> data may be more useful than the Journal Impact Factor, as a measure of journal quality, and in
                     providing a basis to rank journals. 
                     <small class="pull-right">J.K. Vanclay, Ranking forestry journals using the h-index, Journal of Informetrics, 2(4), 326–334, 2012</small>
                     <br /></blockquote>
@@ -121,7 +121,7 @@ include("inc/header.php");
                     </p>
                     <blockquote>
                     Une chose qui pourrait être intéressante serait de prendre ces indicateurs comme des précurseurs de citations. C’est-à-dire qu’avant même la citation, il y a d’abord le partage sur les réseaux sociaux, le nombre de vues, le nombre de téléchargements. Peut-être que ces indicateurs alternatifs permettent d’anticiper la citation. 
-                    <small class="pull-right">G. Rivalle, <a href="http://www.thomsonreuters.com" target="_blank">Thomson Reuters</a></small>
+                    <small class="pull-right">G. Rivalle, <a target="_blank"href="http://www.thomsonreuters.com" target="_blank">Thomson Reuters</a></small>
                     <br /></blockquote>
                     <p>
                     Nous avons donc exploré trois niveaux de controverse : d'une part, concernant l'utilisation des mesures bibliométriques suite à la création des index, puis concernant les formules des différents indicateurs bibliométriques. Enfin, la controverse porte donc à la fois sur l'utilisation d'une mesure plutôt qu'une autre, mais aussi sur la possibilité de combiner les différentes mesures entre-elles. 
