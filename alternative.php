@@ -57,7 +57,7 @@ include("inc/header.php");
                   Online reference managers Zotero and Mendeley each claim to store over 40 million articles (making them substantially larger than PubMed); as many as a third of
                   scholars are on Twitter, and a growing number tend scholarly blogs. 
                   <small class="pull-right">J. Priem, D. Taraborelli, P. Groth, C. Neylon, 
-                  <a target="_blank"href="http://altmetrics.org/">altmetrics</a> : a manifesto, 2010</small>
+                  altmetrics: a manifesto, 2010</small>
                   <br /></blockquote>
                   <p>Ces mesures viendraient donc "alternativement" aux mesures utilisées pour calculer les indicateurs bibliométriques. Elles concernent les différents
                   articles qui sont disponibles, non pas dans les bases de données mais sur internet. Les éléments mesurés sont, pour une certaine production scientifique, par
