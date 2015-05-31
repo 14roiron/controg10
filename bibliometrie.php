@@ -25,7 +25,7 @@ include("inc/header.php");
                 deficiencies in the processes and in the assessment of scholarly publishing productivity and impact in order to present the idealized solution of Vanclay: using
                 the h-index, portrayed as the Prince, mounted on the shoulder of the White Horse, Google Scholar. 
                 <small class="pull-right">P. Jacso, Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases:
-                reflections on Vanclay’s criticism, Scientometrics (2012) 92:325–354</small>
+                reflections on Vanclay’s criticism, Scientometrics, 92:325–354, 2012</small>
                 <br /></blockquote>
                 <br />
                 <p>P. Jacso fait ainsi réponse à une série d'articles publiés par J.K. Vanclay entre 2008 et 2012. Ces articles formulent des objections par rapport au
@@ -89,7 +89,7 @@ include("inc/header.php");
                 <a href="http://thomsonreuters.com/">Thomson Reuters</a> dans sa base de données.</p>
                 <blockquote>The Thomson Reuters impact factor (TRIF) suffers so many weaknesses, that a major overhaul is warranted, and journal editors and other users should
                 cease using the TRIF until Thomson Reuters has addressed these weaknesses. 
-                <small class="pull-right">J.K. Vanclay, Impact factor: outdated artefact or stepping-stone to journal certification?, Scientometrics (2012) 92:211–238</small>
+                <small class="pull-right">J.K. Vanclay, Impact factor: outdated artefact or stepping-stone to journal certification?, Scientometrics, 92:211–238, 2012</small>
                 <br /></blockquote>
                 <br />
                 <p>En 2012, à l'occasion de débats concernant l'évaluation de la recherche pour l'attribution de financements, l'Excellence in Research for Australia, il publie
@@ -98,7 +98,7 @@ include("inc/header.php");
                 <blockquote>Because of its broader coverage and despite known deficiencies, Hirsch’s h-index based on 
                 <a href="https://scholar.google.fr/">Google Scholar</a> data may be more useful than the Journal Impact Factor, as a measure of journal quality, and in providing a
                 basis to rank journals. 
-                <small class="pull-right">J.K. Vanclay, Ranking forestry journals using the h-index, Journal of Informetrics (2012), 2(4), 326–334</small>
+                <small class="pull-right">J.K. Vanclay, Ranking forestry journals using the h-index, Journal of Informetrics, 2(4), 326–334, 2012</small>
                 <br /></blockquote>
                 <br />
                 <p>Cela provoque des réactions virulentes :</p>
@@ -108,7 +108,7 @@ include("inc/header.php");
                 <a href="https://scholar.google.fr/">Google Scholar</a>.
                 <br />
                 <small class="pull-right">P. Jacso, Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases:
-                reflections on Vanclay’s criticism, Scientometrics (2012) 92:325–354</small>
+                reflections on Vanclay’s criticism, Scientometrics, 92:325–354, 2012</small>
                 <br /></blockquote>
                 <br />
                 <blockquote>The JIF: angel, devil or scapegoat? All three at a time: angel, for a unique historical role and the many avenues opened to scientometrics and other
@@ -132,7 +132,7 @@ include("inc/header.php");
                 19. It may add insult to injury by ranking the researcher’s favored journal by the citations/paper and other relative indicators several positions below other
                 journals in the given discipline. 
                 <small class="pull-right">P. Jacso, Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases:
-                reflections on Vanclay’s criticism, Scientometrics (2012) 92:325–354</small>
+                reflections on Vanclay’s criticism, Scientometrics, 92:325–354, 2012</small>
                 <br /></blockquote>
                 <p>L'utilisation d'une base de données plus large, bien qu'elle soit donc plus ouverte, pourrait donc mener à de fausses mesures, des mesures manipulées.</p>
                 <p>Le choix de la base de donneés utilisée pour matérialiser les citations est donc controversé : d'un côté, une sélectivité qui a pour but de garantir des
