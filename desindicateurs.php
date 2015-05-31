@@ -190,6 +190,9 @@ Chaque indicateur bibliométrique est sujet à des débats de ce type. Chaque in
 <p>
 Il s'agit donc de contextualiser, c'est-à-dire de ne pas se borner à regarder un seul indicateur bibliométrique afin de chercher à évaluer un chercheur ou d'adapter les indicateurs en fonction des domaines concernés.
 </p>
+<p>
+La controverse quant aux indicateurs bibliométriques à utiliser ou pas est donc très active. L'utilisation des mesures bibliométriques elles-mêmes est également sujette à controverse, ainsi que l'utilisation d'autres mesures, dites alternatives aux mesures bibliométriques.
+</p>
 
 </div>
 
