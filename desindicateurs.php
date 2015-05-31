@@ -28,7 +28,7 @@ L'objectif des indicateurs bibliométriques est de constituer, à partir de donn
 </p>
 
 <p>
-L'un des plus vieux indicateurs bibliométriques est le Journal Impact Factor, introduit au début des années 60 par Eugène Garfield et Irving H. Sher.
+L'un des plus vieux indicateurs bibliométriques est le Journal Impact Factor, introduit au début des années 60 par Eugene Garfield et Irving H. Sher.
 </p>
 
     <blockquote>
