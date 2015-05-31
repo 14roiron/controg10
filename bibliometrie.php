@@ -18,7 +18,7 @@ include("inc/header.php");
           <div id="base" class="NOM">
             <div class="contenu">
               <div class="paragraphe">
-                <h2 id="bddames">Les bases de données et la mesure bibliométrique</h2>
+                <h2 id="bddames">Qu'est-ce que la mesure bibliométrique ?</h2>
                 <p>Le processus de mesure consiste à obtenir une nouvelle grandeur signifiante à partir de données existantes. Lorsque l'on a affaire à des productions
                 bibliographiques, on parle de bibliométrie. Les grandeurs obtenues sont appelés indicateurs bibliométriques.</p>
                 <blockquote>The papers are much more likely to serve as props for a staged, mock-up scenario based on slipshod research in an experiment, to illustrate the
@@ -27,6 +27,7 @@ include("inc/header.php");
                 <small class="pull-right">P. Jacso, Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases:
                 reflections on Vanclay’s criticism, Scientometrics (2012) 92:325–354</small>
                 <br /></blockquote>
+                <br />
                 <p>P. Jacso fait ainsi réponse à une série d'articles publiés par J.K. Vanclay entre 2008 et 2012. Ces articles formulent des objections par rapport au
                 classement de revues, ou "journal ranking", via certains indicateurs bibliométriques, notamment le Journal Impact Factor. Qu'est-ce que les indicateurs
                 bibliométriques, quel est leur origine et que mesurent-ils ?</p>
@@ -42,7 +43,7 @@ include("inc/header.php");
                 autre quantité à partir des quantités existantes pour mesurer l'auteur ou le groupe d'auteurs.</p>
               </div>
               <div class="paragraphe">
-                <h2 id="BasesDeDonnees">Des bases de données à la mesure</h2>
+                <h2 id="BasesDeDonnees">De l'indexation à la mesure</h2>
                 <p>Les indicateurs sus-cités comme le Journal Impact Factor ou le h-index se basent sur les liens d'articles entre-eux. Leur calcul nécessite donc d'abord de
                 choisir une quantité d'articles sur laquelle travailler, c'est-à-dire de constituer une base de données.</p>
                 <p>Historiquement, les bases de données (ou encore index), comme le Science Citation Index, actuellement géré par Thomson Reuters, étaient constituées dans le
@@ -64,7 +65,7 @@ include("inc/header.php");
                 aspects.</p>
               </div>
               <div class="paragraphe">
-                <h2 id="Mesurer">Que mesurer, à partir de quoi ?</h2>
+                <h2 id="Mesurer">Que mesurer, et à partir de quoi ?</h2>
                 <p>Lorsque l'on a à disposition une certaine quantité d'articles, d'auteurs et d'origines différentes, on doit baser les mesures sur des quantités aisément
                 mesurables, avec un certain degré de certitude. Parmi ces liens entre les différents articles, on trouve la citation. L'utilisation de la citation pour les
                 mesures repose sur le principe suivant : les chercheurs, lorsqu'ils publient, fournissent une bibliographie qui indique les ouvrages sur lesquels ils se basent
@@ -116,7 +117,7 @@ include("inc/header.php");
                 feb</small>
                 <br /></blockquote>
                 <br />
-                <p>En effet, ce dernier affirme que l'utilisation de bases de données beaucoup plus larges et moins sélectives que le 
+                <p>En effet, J.K. Vanclay affirme que l'utilisation de bases de données beaucoup plus larges et moins sélectives que le 
                 <a href="http://scholar.google.fr/">Web Of Science</a>, telles que 
                 <a href="http://webofscience.com">Google Scholar</a>, qui est une base de données de publications totalement ouverte, serait finalement. L'un des principaux
                 arguments soulevés est que 
@@ -137,7 +138,7 @@ include("inc/header.php");
                 <p>Le choix de la base de donneés utilisée pour matérialiser les citations est donc controversé : d'un côté, une sélectivité qui a pour but de garantir des
                 liens de qualité, de l'autre une exhaustivité qui cherche à assurer une meilleure couverture des productions scientifiques.</p>
                 <div class="paragraphe">
-                  <h2 id="necessaire">Est-il réellement indispensable de quantifier pour mesurer ?</h2>
+                  <h2 id="necessaire">Doit-on réellement quantifier pour mesurer ?</h2>
                   <p>L'idée de mesure avec le lien citationnel est basé sur la quantification : on examine combien de fois un article a été cité, par qui, combien de fois un
                   chercheur a été cité, combien de fois une revue a été citée. On considère en règle générale que plus ces quantités sont élevées, plus l'entité sur
                   laquelle on cherche à obtenir des informations a un impact élevé sur le monde de la recherche. Néanmoins, cette vision est parfois considérée comme
