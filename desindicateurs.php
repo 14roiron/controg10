@@ -37,7 +37,7 @@ L'un des plus vieux indicateurs bibliométriques est le Journal Impact Factor, i
 	A journal’s impact factor is based on 2 elements: the numerator, which is the number of citations in the current year to any items published in a journal in the previous 2 years, and the denominator, which is the number of substantive articles (source items) published in the same 2 years. (...)
 	
 	In addition to helping libraries decide which journals to purchase, journal impact factors are also used by authors to decide where to submit their articles.
-    <small class="pull-right">Garfield, E. "Journal impact factor: a brief review", Canadian Medical Association Journal, 161(8), p.979-80, 1999</small><br>
+    <small class="pull-right">E. Garfield, "Journal impact factor: a brief review", Canadian Medical Association Journal, 161(8), p.979-80, 1999</small><br>
     </blockquote> 
  <br />
   
@@ -47,7 +47,7 @@ Son but premier est donc la sélection des revues par les bibliothécaires et la
   
     <blockquote>
 	I first mentioned the idea of an impact factor in 1955. At that time it did not occur to me that it would one day become the subject of widespread controversy. Like nuclear energy, the impact factor has become a mixed blessing. I expected that it would be used constructively while recognizing that in the wrong hands it might be abused. (...) It is one thing to use impact factors to compare journals and quite another to use them to compare authors.
-    <small class="pull-right">Garfield, E. "Journal impact factor: a brief review", Canadian Medical Association Journal, 161(8), p.979-80, 1999</small><br>
+    <small class="pull-right">E. Garfield, "Journal impact factor: a brief review", Canadian Medical Association Journal, 161(8), p.979-80, 1999</small><br>
     </blockquote> 
  <br />
   
@@ -62,7 +62,7 @@ Cette utilisation du Journal Impact Factor est donc qualifiée de détournée pa
 </p>
     <blockquote>
 	Les citations contextualisent la recherche et aident à orienter le lecteur. Elles permettent au lecteur d'évaluer le travail de l'auteur sur la base de la qualité perçue des références sélectionnées. Et elles permettent au lecteur de retrouver un travail jusque-là inconnu mais potentiellement utile.
-    <small class="pull-right">Cronin, Blaise. « Comment la manie des rankings a atteint le coeur de la recherche ». Le Temps, 24 Octobre 2014.</small><br>
+    <small class="pull-right">B. Cronin, « Comment la manie des rankings a atteint le coeur de la recherche ». Le Temps, 24 Octobre 2014.</small><br>
 	</blockquote> 
  <br />
 <p>
@@ -70,7 +70,7 @@ Mais aussi l'évaluation du mérite d'une entité dans le domaine de la recherch
 </p>
     <blockquote>
 	On a jugé plus attrayant [que l'enrichissement d'un sujet à partir des conclusions précédentes] de relever l'influence universitaire de certaines personnes dans différents domaines et au fil du temps, et d'identifier de la sorte les scientifiques, documents, revues et institutions le plus souvent cités. »
-    <small class="pull-right">Cronin, Blaise. « Comment la manie des rankings a atteint le coeur de la recherche ». Le Temps, 24 Octobre 2014.</small><br>
+    <small class="pull-right">B. Cronin, « Comment la manie des rankings a atteint le coeur de la recherche ». Le Temps, 24 Octobre 2014.</small><br>
 	</blockquote> 
  <br />
 <p>
@@ -78,7 +78,7 @@ Ou encore, pour des administrations :
 </p>
     <blockquote>
 	Les administrateurs utilisent ces mesures pour évaluer la productivité des personnes qu'elles embauchent et financent, et suivent l'impact en aval des projets de recherche et de développement qu'ils souscrivent, avec peu d'égards pour les limites de ces indices.
-    <small class="pull-right">Cronin, Blaise. « Comment la manie des rankings a atteint le coeur de la recherche ». Le Temps, 24 Octobre 2014.</small><br>
+    <small class="pull-right">B. Cronin, « Comment la manie des rankings a atteint le coeur de la recherche ». Le Temps, 24 Octobre 2014.</small><br>
 	</blockquote> 
  <br />
 <p>
@@ -97,7 +97,7 @@ Cette dernière citation soulève le point important des limites des indices. En
 
 	<blockquote>
 	A scientist has index h if h of his/her Np papers have at least h citations each, and the other (Np − h) papers have no more than h citations each.
-    <small class="pull-right">Hirsh, J. (2005). An index to quantify an individual's scientific research output. (2005) Proceedings of the National Academy of Sciences, vol. 102, no 46, 16569–16572.</small><br>
+    <small class="pull-right">J. Hirsh, An index to quantify an individual's scientific research output, Proceedings of the National Academy of Sciences, vol. 102, no 46, 16569–16572, 2005</small><br>
 	</blockquote> 
  <br />
 
@@ -120,7 +120,7 @@ Après la proposition de J. E. Hirsch, la communauté scientifique s’est pench
 </p>
 	<blockquote>
 	From that seminal paper, a huge amount of research has been lavished, focusing on one hand on the development of correction factors to the h index and on the other hand, on the pros and cons of such measure proposing several possible alternatives. 
-	<small class="pull-right">Cerchiello, P., & Giudici, P. (2014). On a statistical h index. Scientometrics Volume 99, Issue 2, 299-312.</small><br>
+	<small class="pull-right">P. Cerchiello, P. Giudici, On a statistical h index. Scientometrics Volume 99, Issue 2, 299-312, 2014</small><br>
 	</blockquote> 
  <br />
 <p>
@@ -131,7 +131,7 @@ Néanmoins, la méthode de calcul du h-index est débattue, car ce dernier peut 
 </p>
 	<blockquote>
 	In several case the results obtained through Google Scholar are considerably different from the results based on the <a href="http://webofscience.com">Web Of Science</a> and Scopus. Data cleansing is discussed extensively.
-	<small class="pull-right">Bar-Ilan, J. (2007). "Which h-index? — A comparison of WoS, Scopus and Google Scholar". Scientometrics 74 (2): 257.</small><br>
+	<small class="pull-right">J. Bar-Ilan, Which h-index? — A comparison of WoS, Scopus and Google Scholar, Scientometrics 74 (2): 257, 2007</small><br>
 	</blockquote> 
  <br />
 <p>
@@ -139,7 +139,7 @@ La controverse est active notamment dans le domaine des sciences médicales. Par
 </p>
 	<blockquote>
 	Application of the h-index as a bibliometric in neurosurgery can distinguish academic productivity on the basis of academic rank, years posttraining, and neurosurgical subspecialties. The application of the h-index to compare departments is problematic and, at this time, not reliable. (…) We recommend the creation of individual bibliometric profiles to better compare the academic productivity of neurosurgeons.
-	<small class="pull-right">Khan, N., Thompson, C.J., Choudhri, A.F., Boop, F.A., Klimo Jr., P. (2013). Part I: The application of the h-index to groups of individuals and departments in academic neurosurgery. World Neurosurgery, Volume 80, Issue 6, Pages 759-765.e3</small><br>
+	<small class="pull-right">N. Khan, C.J. Thompson, A.F. Choudhri, F.A. Boop, P. Klimo Jr., Part I: The application of the h-index to groups of individuals and departments in academic neurosurgery. World Neurosurgery, Volume 80, Issue 6, Pages 759-765.e3, 2013</small><br>
 	</blockquote> 
  <br />
 	
@@ -148,12 +148,12 @@ Il existe des désaccords sur l’usage de tel ou tel indice. Par exemple, Leo E
 </p>
 	<blockquote>
 It is shown that the g-index inherits all the good properties of the h-index and, in addition, better takes into account the citation scores of the top articles.
-	<small class="pull-right">Egghe, Leo (2006), Theory and practise of the g-index, Scientometrics, vol. 69, No 1, pp. 131–152</small><br>
+	<small class="pull-right">L. Egghe, Theory and practise of the g-index, Scientometrics, vol. 69, No 1, pp. 131–152, 2006</small><br>
 	</blockquote> 
  <br />
 	<blockquote>
 	We therefore plead to replace the h-index by the g-index, yielding a career years g-index by publications, respectively a career years g-index by citations, which have the good concentration properties as described in Mahbuba and Rousseau (2013).
-	<small class="pull-right">Egghe, Leo (2014), Comments on "year-based h-type indicators", Scientometrics 98:2369–2370</small><br>
+	<small class="pull-right">L. Egghe, Comments on "year-based h-type indicators", Scientometrics 98:2369–2370, 2014</small><br>
 	</blockquote> 
  <br />
 <p>
@@ -161,18 +161,18 @@ Néanmoins, le g-index a aussi des détracteurs. Alex De Visscher écrit des art
 </p>
 	<blockquote>
 	The main difference between the g-index and the h-index is that the former penalizes consistency of impact whereas the latter rewards such consistency. It is concluded that the h-index is a better bibliometric tool than is the g-index, and that the square root of the total number of citations is a convenient measure of a researcher's overall impact.
-	<small class="pull-right">De Visscher, A. What does the g-index really measure? (2011). Journal of the American Society for Information Science and Technology, Volume 62, Issue 11. 2290-2293</small><br>
+	<small class="pull-right">A. De Visscher, What does the g-index really measure?, Journal of the American Society for Information Science and Technology, Volume 62, Issue 11. 2290-2293, 2011</small><br>
 	</blockquote> 
  <br />
 <p>
-Ce à quoi répond Leo Egghe dans Egghe, L. Remarks on the paper of A. de Visscher, "what does the g-index really measure?" (2012). Journal of the American Society for Information Science and Technology, 63 (10), pp. 2118-2121., puis Alex De Visscher dans De Visscher, A. Response to remarks on the paper by a. De Visscher, 'what does the g-index really measure?' (2013). Journal of the American Society for Information Science and Technology 64 (9), pp. 1960-1962. et ainsi de suite…
+Ce à quoi répond Leo Egghe dans L. Egghe, Remarks on the paper of A. de Visscher, "what does the g-index really measure?". <i>Journal of the American Society for Information Science and Technology</i>, 63 (10), pp. 2118-2121., 2012, puis Alex De Visscher dans A. De Visscher, Response to remarks on the paper by a. De Visscher, 'what does the g-index really measure?', <i>Journal of the American Society for Information Science and Technology</i>, 64 (9), pp. 1960-1962, 2013 et ainsi de suite…
 </p>
 <p>
 Toujours dans le domaine de la recherche, d’autres chercheurs sont plus catégoriques et considèrent que le h-index, comme le g-index, sont bien trop simplistes et ne sont pas des indicateurs fiables.
 </p>
 	<blockquote>
 	While they are easy to understand, measure and communicate, such indicators entail a level of inaccuracy that could well be unacceptable for most of the intended uses and objectives.
-	<small class="pull-right">G. Abramo, C.A. D'Angelo, F. Viel. The suitability of h and g indexes for measuring the research performance of institutions. Scientometrics (2013) 97:555–570</small><br>
+	<small class="pull-right">G. Abramo, C.A. D'Angelo, F. Viel. The suitability of h and g indexes for measuring the research performance of institutions. Scientometrics, 97:555–570, 2013</small><br>
 	</blockquote> 
  <br />
 <p>
