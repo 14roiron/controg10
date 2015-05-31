@@ -46,7 +46,7 @@ include("inc/header.php");
                 <h2 id="BasesDeDonnees">De l'indexation à la mesure</h2>
                 <p>Les indicateurs sus-cités comme le Journal Impact Factor ou le h-index se basent sur les liens d'articles entre-eux. Leur calcul nécessite donc d'abord de
                 choisir une quantité d'articles sur laquelle travailler, c'est-à-dire de constituer une base de données.</p>
-                <p>Historiquement, les bases de données (ou encore index), comme le Science Citation Index, actuellement géré par Thomson Reuters, étaient constituées dans le
+                <p>Historiquement, les bases de données (ou encore index), comme le Science Citation Index, actuellement géré par Thomson Reuters, et faisant partie des différetes bases de données du Web of Science, étaient constituées dans le
                 but de faciliter la découverte de travaux scientifiques. Ils devaient permettre aux utilisateurs de naviguer de manière plus facile entre les publications
                 scientifiques.</p>
                 <blockquote>La "découverte", c’est le but premier du 
