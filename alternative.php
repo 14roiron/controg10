@@ -65,8 +65,7 @@ include("inc/header.php");
                   une quantité plus importante d'articles.</p>
                   <p>L'utilisation des indicateurs sus-cités est d'une philosophie fondamentalement différente de celle des indicateurs bibliométriques. En effet, il s'agit ici
                   de mesurer quelque chose d'autre, qui n'est pas forcément mis en exergue par des indicateurs bibliométriques basés sur le lien citationnel. Par exemple,
-                  Michel Zitt, chercheur à l'
-                  <a target="_blank"href="http://institut.inra.fr/">Inra</a>, mentionne la popularité d'une entité sur le web :</p>
+                  Michel Zitt, chercheur à l'<a target="_blank"href="http://institut.inra.fr/">Inra</a>, mentionne la popularité d'une entité sur le web :</p>
                   <blockquote>Il y a l’idée de mesurer de nouveaux objets, de nouvelles choses, par exemple la présence des différentes universités sur le net, c’est à
                   dire le degré d’activité qu’elles ont sur la toile, qui est donc une notion de communication en quelque sorte, une partie managériale, l’efficacité de
                   la communication de ces universités. 
