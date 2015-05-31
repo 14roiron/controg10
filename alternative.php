@@ -70,7 +70,7 @@ include("inc/header.php");
                   <blockquote>Il y a l’idée de mesurer de nouveaux objets, de nouvelles choses, par exemple la présence des différentes universités sur le net, c’est à
                   dire le degré d’activité qu’elles ont sur la toile, qui est donc une notion de communication en quelque sorte, une partie managériale, l’efficacité de
                   la communication de ces universités. 
-                  <small class="pull-right">Michel Zitt, 
+                  <small class="pull-right">M. Zitt, 
                   <a href="http://institut.inra.fr/">Inra</a>, Entretien</small>
                   <br /></blockquote>
                   <p>Les créateurs de la startup altmetrics voient ces mesures comme complémentaires des mesures basées sur le lien citationnel. En particulier, ils ne
