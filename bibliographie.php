@@ -34,7 +34,7 @@ include("inc/header.php");
        
        
     <div class="paragraphe">
-        <h2 id="Articles">Articles</h2>
+        <h2 id="Articles">Articles scientifiques</h2>
         
 
 
