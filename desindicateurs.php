@@ -28,7 +28,7 @@ L'objectif des indicateurs bibliométriques est de constituer, à partir de donn
 </p>
 
 <p>
-L'un des plus vieux indicateurs bibliométriques est le Journal Impact Factor, introduit au début des années 60 par Eugene Garfield et Irving H. Sher.
+L'un des plus vieux indicateurs bibliométriques est le Journal Impact Factor, introduit au début des années 60 par E. Garfield et Irving H. Sher.
 </p>
 
     <blockquote>
@@ -92,7 +92,7 @@ Les données bibliométriques viennent donc répondre aux demandes de la sphère
 
 
 <p>
-Cette dernière citation soulève le point important des limites des indices. En effet, les indices sont calculés selon des formules qui peuvent favoriser certaines situations. Par exemple, prenons le cas du h-index, proposé par J. Hisch en 2005 :
+Cette dernière citation soulève le point important des limites des indices. En effet, les indices sont calculés selon des formules qui peuvent favoriser certaines situations. Par exemple, prenons le cas du h-index, proposé par J.E. Hisch en 2005 :
 </p>
 
 	<blockquote>
