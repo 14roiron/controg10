@@ -17,7 +17,7 @@ include("inc/header.php");
       
       <!--right-->
       <div class="col-md-12">
-        <div class="paragraphe">
+        <div class="paragraphe text-center">
 		<h2 id="sec2">Introduction</h2>
 
         <p>
