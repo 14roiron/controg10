@@ -132,7 +132,7 @@ include("inc/header.php");
                 journals in the given discipline. 
                 <small class="pull-right">P. Jacso, Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases:
                 reflections on Vanclay’s criticism, Scientometrics, 92:325–354, 2012</small>
-                <br /></blockquote>
+                <br /></blockquote><br/>
                 <p>L'utilisation d'une base de données plus large, bien qu'elle soit donc plus ouverte, pourrait donc mener à de fausses mesures, des mesures manipulées.</p>
                 <p>Le choix de la base de donneés utilisée pour matérialiser les citations est donc controversé : d'un côté, une sélectivité qui a pour but de garantir des
                 liens de qualité, de l'autre une exhaustivité qui cherche à assurer une meilleure couverture des productions scientifiques.</p>
@@ -148,7 +148,7 @@ include("inc/header.php");
                   critères. L'évaluation de la recherche peut par exemple conduire les institutions de la recherche telles que le 
                   <a href="http://www.cnrs.fr/">CNRS</a>, Centre National de la Recherche Scientifique, à distribuer les fonds accordés à la recherche d'une certaine manière
                   plutôt que d'une autre.</p>
-                  <p>La déclaration DORA de San Francisco (San Francisco Declaration on Research Assessment) est une déclaration initiée par des scientifiques et éditeurs de
+                  <p>La déclaration <a href="http://www.ascb.org/dora-old/files/SFDeclarationFINAL.pdf" target="_blank">DORA</a> de San Francisco (San Francisco Declaration on Research Assessment) est une déclaration initiée par des scientifiques et éditeurs de
                   journaux qui remet en cause l'utilisation, jugée trop importante, des classements basés sur les mesures bibliométriques avec pour fin l'évaluation de la
                   recherche.</p>
                   <blockquote>There is a pressing need to improve the ways in which the output of scientific research is evaluated by funding agencies, academic institutions, and
