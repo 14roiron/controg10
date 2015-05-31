@@ -149,6 +149,27 @@ L'utilisation d'une base de données plus large, bien qu'elle soit donc plus ouv
 Le choix de la base de donneés utilisée pour matérialiser les citations est donc controversé : d'un côté, une sélectivité qui a pour but de garantir des liens de qualité, de l'autre une exhaustivité qui cherche à assurer une meilleure couverture des productions scientifiques. 
 </p>
 
+<div class="paragraphe">
+<h2 id="necessaire">Est-il réellement indispensable de quantifier pour mesurer ?</h2>
+
+<p>
+L'idée de mesure avec le lien citationnel est basé sur la quantification : on examine combien de fois un article a été cité, par qui, combien de fois un chercheur a été cité, combien de fois une revue a été citée. On considère en règle générale que plus ces quantités sont élevées, plus l'entité sur laquelle on cherche à obtenir des informations a un impact élevé sur le monde de la recherche. Néanmoins, cette vision est parfois considérée comme biaisée.
+</p>
+
+<p>
+L'une des motivations pour la mesure, outre la facilité de découverte, est pour les institutions d'établir des classements et des évaluations. Ces derniers peuvent avoir une influence sur la réputation de telle ou telle entité de la recherche, comme par exemple pour le <a href="http://www.shanghairanking.com/fr/">Classement de Shanghai</a>, qui fournit un classement annuel des meilleures universités mondiales selon certains critères. L'évaluation de la recherche peut par exemple conduire les institutions de la recherche telles que le <a href="http://www.cnrs.fr/">CNRS</a>, Centre National de la Recherche Scientifique, à distribuer les fonds accordés à la recherche d'une certaine manière plutôt que d'une autre.
+</p>
+
+<p>
+La déclaration DORA de San Francisco est une déclaration initiée par des scientifiques et éditeurs de journaux qui remet en cause l'utilisation, jugée trop importante, des classements basés sur les mesures bibliométriques avec pour fin l'évaluation de la recherche.
+</p>
+
+    <blockquote>
+There is a pressing need to improve the ways in which the output of scientific research is evaluated by funding agencies, academic institutions, and other parties. (...) For the purposes of research assessment, consider the value and impact of all research outputs (including datasets and software) in addition to research publications, and consider a broad range of impact measures including qualitative indicators of research impact, such as influence on policy and practice.
+    <small class="pull-right">San Francisco Declaration on Research Assessment, 2013</small><br>
+    </blockquote> 
+
+
  <br />
 
 </div>
