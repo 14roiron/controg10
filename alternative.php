@@ -113,6 +113,19 @@ include("inc/header.php");
                     providing a basis to rank journals. 
                     <small class="pull-right">J.K. Vanclay, Ranking forestry journals using the h-index, Journal of Informetrics, 2(4), 326–334, 2012</small>
                     <br /></blockquote>
+                    <p>
+                    Ainsi, l'utilisation de mesures autres que les mesures bibliométriques peut apporter des informations différentes. Les critiques principales contre l'utilisation de ces mesures alternatives portent sur le fait que ces mesures se basent sur des liens jugés moins fiables que le lien citationnel.
+                    </p>
+                    <p>
+                    Néanmoins, on peut également envisager des situations dans lesquelles ces mesures peuvent se compléter plutôt que de s'opposer. En effet, il est par exemple nécessaire de constituer un index de publications, une base de données, afin de calculer les différents indicateurs bibliométriques. La sélection des articles se fait via un comité de rédaction. Comme l'évoque G. Rivalle, l'utilisation des mesures alternatives pourraient permettre de faciliter le travail de découverte en ce qui concerne les travaux inédits. Les mesures concernant le web pourraient par exemple permettre de découvrir plus rapidement les travaux "populaires" au sein de la communauté scientifique.
+                    </p>
+                    <blockquote>
+                    Une chose qui pourrait être intéressante serait de prendre ces indicateurs comme des précurseurs de citations. C’est-à-dire qu’avant même la citation, il y a d’abord le partage sur les réseaux sociaux, le nombre de vues, le nombre de téléchargements. Peut-être que ces indicateurs alternatifs permettent d’anticiper la citation. 
+                    <small class="pull-right">G. Rivalle, <a href="http://www.thomsonreuters.com" target="_blank">Thomson Reuters</a></small>
+                    <br /></blockquote>
+                    <p>
+                    Nous avons donc exploré trois niveaux de controverse : d'une part, concernant l'utilisation des mesures bibliométriques suite à la création des index, puis concernant les formules des différents indicateurs bibliométriques. Enfin, la controverse porte donc à la fois sur l'utilisation d'une mesure plutôt qu'une autre, mais aussi sur la possibilité de combiner les différentes mesures entre-elles. 
+                    </p>
                     <hr />
                   </div>
                 </div>
