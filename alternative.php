@@ -26,7 +26,7 @@ include("inc/header.php");
                 : sa rédaction est longue et les remarques qui y sont faites le sont via un genre de publication particulier, le book review. De plus, un livre, contrairement à
                 un article de journal, n'est susceptible d'être cité qu'un certain temps après sa publication, et de manière bien moins importante. Il s'agit donc de trouver
                 d'autres moyens, plus adaptés, de mesurer.</p>
-                <p>Une réponse possible est de créer des index de publications spécifiques à certains types de productions. Par exemple, le BKCI, Book Citation Index,
+                <p>Une réponse possible est de créer des index de publications spécifiques à certains types de productions. Par exemple, le BKCI, book citation index,
                 développé par Thomson Reuters, se concentre sur les différents genres liés à la publication de livres. L'un des genres de productions qui pourrait indiquer
                 l'impact d'un certain livre pourrait être le book review : il s'agit d'articles qui ont pour objet de commenter le contenu d'un livre.</p>
                 <blockquote>Despite the fact that correlations between citations to a book and the number of corresponding book reviews differ from research area to research area
