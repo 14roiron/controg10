@@ -40,7 +40,8 @@ include("inc/header.php");
                 particulier. Cela permettrait notamment de diminer les écarts constatés au niveau des indicateurs utilisés lorsqu'on recoupe différents domaines de
                 recherche.</p>
                 <blockquote>Our findings that the majority of Google Scholar unique citations (70%) were fulltext scholarly sources is important evidence for the growth of OA
-                publishing and selfarchiving, although it clearly varies by discipline. 
+                publishing and selfarchiving, although it clearly varies by discipline.
+				<br />				
                 <small class="pull-right">K. Kousha, M. Thelwall, Sources of Google Scholar citations outside the Science Citation Index: A comparison between four science
                 disciplines, Scientometrics, Vol. 74, No. 2 (2008) 273–294</small>
                 <br /></blockquote>

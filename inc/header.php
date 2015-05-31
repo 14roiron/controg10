@@ -40,13 +40,13 @@
               <a data-toggle="dropdown" href="#">Ressources</a>
               <ul class="dropdown-menu">
                 <li id="listeHeaderHistorique">
-                  <a href="dates.php">Graphiques</a>
+                  <a href="dates.php">Quelques Graphiques</a>
                 </li>
                 <li id="listeHeaderIndices">
-                  <a href="indices.php">Indices</a>
+                  <a href="indices.php"> Quelques indices et bases de données</a>
                 </li>
                 <li id="listeHeaderActeurs">
-                  <a href="acteurs.php">Acteurs</a>
+                  <a href="acteurs.php">Acteursde la controverse</a>
                 </li>
                 <li id="bibliographie">
                   <a href="bibliographie.php">Bibliographie</a>
@@ -63,7 +63,7 @@
           <div class="col-md-8">
             <br />
             <h1 class="headtitle">Les mesures des productions scientifiques</h1>
-            <p class="lead headtitle">groupe de controverse n°10</p>
+            <h4 class="lead headtitle">Groupe de controverse n°10</h4>
           </div>
           <div class="col-md-4">
             <div class="well well-lg">
