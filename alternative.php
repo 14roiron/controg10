@@ -8,7 +8,6 @@ include("inc/header.php");
         <div class="col-md-3" id="leftCol">
           <ul class="nav nav-stacked well well-lg" id="sidebar">
             <li>
-              <a href="#sec4">Section 4</a>
             </li>
           </ul>
         </div>
