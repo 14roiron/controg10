@@ -100,6 +100,42 @@ Michel Zitt, The journal impact factor: angel, devil, or scapegoat? A comment on
         <a href="http://www.shanghairanking.com/">Site officiel du Classement de Shanghai</a>
         </p>
         
+        <div class="paragraphe">
+        <h2 id="presse">Presse</h2>
+        <p>
+        « Les programmes de recherche européens en quête de simplicité et d'efficacité », Les Echos, SCIENCES, jeudi 16 novembre 2000.
+        </p>
+        <p>
+        S. Huet,  « Les chercheurs en quête d'argent et d'idées », Libération, lundi 30 juin 2003
+        </p>
+        <p>
+        L. Bronner, « Recherche : les universités françaises réalisent des performances mitigées ». Le monde, mardi 23 août 2005. 
+        </p>
+        <p>
+        B. Cronin, « Comment la manie des rankings a atteint le cœur de la recherche ». Le Temps, 24 Octobre 2014.
+        </p>
+        <p>
+        J. Anquetin, O. Béthoux, P-O. Antoine, A. Boura, J. Martin, D. Germain, R. Allain, L. Hautier, R. Thomas, D. de Franceschi. « Intégrité et recherche : il faut revoir les critères d'évaluation ». Le Monde.fr. 16 Décembre 2014.
+        </p>
+        <p>
+        M. Zito, « Les dégâts collatéraux du facteur d’impact ». Le Monde. 16 Février 2013
+        </p>
+        <p>
+        J. Elayi, « L’évaluation des chercheurs en question ». Le Figaro, lundi 27 décembre 2004
+        </p>
+        <p>
+        « Connaître n’est pas mesurer ». Le Monde,  Science & techno, mercredi 29 janvier 2014
+        </p>
+        <p>
+        Y. Gingras, « Le Classement de Shanghai n’est pas scientifique ». La Recherche, no. 430, mai 2009
+        </p>
+        <p>
+        D. Raoult, « L'éruption de l'économie de marché dans la mesure de l'activité scientifique », 9 avril 1998.
+        </p>
+        <p>
+        M. Leduc, S. Jaffard, J-C. Bernier, « La bonne méthode d’évaluation des chercheurs », Les Echos, 23 juillet 2009
+        </p>
+        
         <hr> </div>
         
         <hr> </div>
