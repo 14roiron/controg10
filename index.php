@@ -26,10 +26,10 @@ include("inc/header.php");
         </div>
 		
         <div class="paragraphe">
-		<h2 id="sec2">Sujet</h2>
+		<h2 id="sec2">Introduction</h2>
 
         <p>
-          Notre travail s'est concentré sur l'étude de la problématique suivante: <b>"Les mesures des productions scientifiques"</b> à partir de différentes informations:
+          Notre travail s'est concentré sur l'étude du sujet suivant : <b>"Les mesures des productions scientifiques"</b> à partir de différentes sources d'informations :
 		  <ul >
 				<li>Une étude de la presse Nationale tant au point de vue qualitatif que quantitatif</li>
 				<li>Une étude de la littérature scientifique</li>
@@ -42,6 +42,10 @@ include("inc/header.php");
         
         <p>
         Par exemple, un problème récurrent à propos de la recherche consiste en les modalités de son évaluation. Comment repérer parmi les milliers de publications disponibles celles qui apportent des résultats hors du commun, comment au contraire tenter de se faire lire, telles sont les problématiques du point de vue du chercheur. Comment attribuer les crédits de recherche, et à qui, comment évaluer la performance et l’impact d’un chercheur ou d’un centre de recherche, c’est la problématique du point de vue des institutions et des ministères. Comment comparer une université à une autre, un pays à un autre en fonction de la puissance de sa recherche, c’est l’objectif des classements internationaux. Les débats se multiplient à propos de la condition du chercheur, ou de la publication de  classements aux enjeux de plus en plus importants, dans la sphère publique comme parmi la communauté scientifique. L’évaluation de la recherche se fait bien souvent par le biais de la bibliométrie. Bibliométrie, scientométrie sont des domaines à part entière de la recherche scientifique, visant à déterminer les indicateurs pertinents à tel ou tel usage, et selon telles ou telles situations. La recherche d’un indicateur bibliométrique à la fois simple à déterminer et donnant des résultats pertinents est très active ; existe-t-il, ou doit-on en combiner plusieurs avec leurs défauts et avantages, et lesquels ? Cette question est centrale dans la controverse et les désaccords se multiplient selon les intérêts de chacun des acteurs.
+        </p>
+        
+        <p>
+        On abordera la controverse autour des mesures des productions scientifiques sous trois angles différents : d'une part, nous verrons comment et pourquoi l'idée et le besoin de mesure sont apparus dès le début des années 1960. D'autre part, on peut également faire état d'une controverse très active quant aux indicateurs bibliométriques, et aux formules qui les régissent. Mais un autre angle de vue permet également de prendre du recul sur la notion de mesure bibliométrique et de considérer des mesures alternatives, par l'intermédiaire du développement des technologies de l'information et des communications.
         </p>
         
         </div>
