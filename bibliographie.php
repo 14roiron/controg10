@@ -22,7 +22,7 @@ include("inc/header.php");
         Pierre Papon, ex-directeur général du <a target="_blank"href="http://www.cnrs.fr/">CNRS</a>
         </p>
         <p>
-        Jason Priem, membre fondateur d'<a target="_blank"href="http://altmetrics.org/">altmetrics</a>
+        Jason Priem, membre fondateur d'altmetrics
         </p>
          <p>
         Guillaume Rivalle, <a target="_blank"href="http://www.thomsonreuters.com/">Thomson Reuters</a>
@@ -161,8 +161,8 @@ San Francisco Declaration on Research Assessment ; <a target="_blank"href="http:
         <a target="_blank"href="http://thomsonreuters.com/">Site officiel de Thomson Reuters</a>
         </p>
         <p>
-        <a target="_blank"href="http://altmetrics.org/">Site officiel de altmetrics</a>
-        </p>
+        Site officiel de altmetrics
+</p>
         <p>
         <a target="_blank"href="http://www.cnrs.fr/">Site officiel du CNRS</a>
         </p>
