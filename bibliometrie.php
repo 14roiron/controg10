@@ -91,7 +91,7 @@ include("inc/header.php");
                 <small class="pull-right">J.K. Vanclay, Impact factor: outdated artefact or stepping-stone to journal certification?, Scientometrics, 92:211–238, 2012</small>
                 <br /></blockquote>
                 <br />
-                <p>En 2012, à l'occasion de débats concernant l'évaluation de la recherche pour l'attribution de financements, l'Excellence in Research for Australia, il publie
+                <p>En 2012, à l'occasion de débats concernant l'évaluation de la recherche pour l'attribution de financements dans le cadre de l'Excellence in Research for Australia (<a href="http://www.arc.gov.au/era/" target="_blank">ERA</a>), il publie
                 également des articles postulant que l'utilisation de bases de données plus conséquentes et moins sélectives telles que 
                 <a href="https://scholar.google.fr/">Google Scholar</a> donneraient des résultats plus pertinents.</p>
                 <blockquote>Because of its broader coverage and despite known deficiencies, Hirsch’s h-index based on 
