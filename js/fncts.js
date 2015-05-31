@@ -48,10 +48,7 @@ function parse()
 	a[15][0]="G. Rivalle";
 	a[15][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=rivalle\" data-target=\"#infos\">G. Rivalle</a>";
 	
-	a[16]=[];
-	a[16][0]="J.K. Vanclay";
-	a[16][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=vanclay\" data-target=\"#infos\">J.K. Vanclay</a>";
-	
+
 	a[1]=[];
 	a[1][0]="Journal Impact Factor";
 	a[1][1]="<a data-toggle=\"modal\" href=\"modale_indices.php?c=journalimpactfactor\" data-target=\"#infos\">Journal Impact Factor</a>";
@@ -73,6 +70,10 @@ function parse()
 	a[7][0]="book citation index";
 	a[7][1]="<a data-toggle=\"modal\" href=\"modale_indices.php?c=bookcitationIndex\" data-target=\"#infos\">book citation Index</a>";
 	
+	
+	a[16]=[];
+	a[16][0]="J.K. Vanclay";
+	a[16][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=vanclay\" data-target=\"#infos\">J.K. Vanclay</a>";
 	
 	
 	for (var i=0;i<a.length;i++) {
