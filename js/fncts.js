@@ -71,6 +71,7 @@ function parse()
 	a[7][1]="<a data-toggle=\"modal\" href=\"modale_indices.php?c=bookcitationIndex\" data-target=\"#infos\">book citation Index</a>";
 	
 	
+	
 	a[16]=[];
 	a[16][0]="J.K. Vanclay";
 	a[16][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=vanclay\" data-target=\"#infos\">J.K. Vanclay</a>";

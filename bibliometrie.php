@@ -53,7 +53,7 @@ include("inc/header.php");
                 <a href="http://webofscience.com">Web Of Science</a>. Le but premier n’a jamais été la bibliométrie, mais la découverte: on fournit une plate-forme, qui dans
                 laquelle se trouve la Core Collection, donc la collection cœur des revues, ouvrages et conférences sélectionnés, qui est principalement utilisée pour la
                 découverte bibliographique. 
-                <small class="pull-right">G.Rivalle, 
+                <small class="pull-right">G. Rivalle, 
                 <a href="http://thomsonreuters.com/">Thomson Reuters</a>, Entretien</small>
                 <br /></blockquote>
                 <br />
@@ -76,7 +76,7 @@ include("inc/header.php");
                 partage sur un compte Twitter d'un article, tout simplement parce que j’ai trouvé le titre intéressant. Quand vous citez un article, c’est parce que vous
                 vous êtes réellement servi des travaux de recherche qui s’y trouvent dans vos propres recherches. Ce lien intellectuel créé entre les chercheurs est validé
                 de plus par le fait que la base de données est sélectionnée. 
-                <small class="pull-right">G.Rivalle, 
+                <small class="pull-right">G. Rivalle, 
                 <a href="http://thomsonreuters.com/">Thomson Reuters</a>, Entretien</small>
                 <br /></blockquote>
                 <br />
