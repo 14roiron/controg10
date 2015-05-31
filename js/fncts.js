@@ -29,19 +29,28 @@ function parse()
 	
 	
 	a[11]=[];
-	a[11][0]="J.K. Vanclay";
-	a[11][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=vanclay\" data-target=\"#infos\">J.K. Vanclay</a>";
+	a[11][0]="J.E. Hirsch";
+	a[11][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=hirsch\" data-target=\"#infos\">J.E. Hirsch</a>";
 	
 	a[12]=[];
-	a[12][0]="J.K. Vanclay";
-	a[12][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=vanclay\" data-target=\"#infos\">J.K. Vanclay</a>";
+	a[12][0]="K. Kousha";
+	a[12][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=kousha\" data-target=\"#infos\">K. Kousha</a>";
 	a[13]=[];
-	a[13][0]="J.K. Vanclay";
-	a[13][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=vanclay\" data-target=\"#infos\">J.K. Vanclay</a>";
+	
+	a[13][0]="P. Papon";
+	a[13][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=papon\" data-target=\"#infos\">P. Papon</a>";
 	
 	a[14]=[];
-	a[14][0]="J.K. Vanclay";
-	a[14][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=vanclay\" data-target=\"#infos\">J.K. Vanclay</a>";
+	a[14][0]="J. Priem";
+	a[14][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=priem\" data-target=\"#infos\">J. Prien</a>";
+	
+	a[15]=[];
+	a[15][0]="G. Rivalle";
+	a[15][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=rivalle\" data-target=\"#infos\">G. Rivalle</a>";
+	
+	a[16]=[];
+	a[16][0]="J.K. Vanclay";
+	a[16][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=vanclay\" data-target=\"#infos\">J.K. Vanclay</a>";
 	
 	a[1]=[];
 	a[1][0]="Journal Impact Factor";

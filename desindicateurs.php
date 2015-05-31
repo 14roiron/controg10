@@ -97,18 +97,18 @@ Cette dernière citation soulève le point important des limites des indices. En
 
 	<blockquote>
 	A scientist has index h if h of his/her Np papers have at least h citations each, and the other (Np − h) papers have no more than h citations each.
-    <small class="pull-right">J. Hirsch, An index to quantify an individual's scientific research output, Proceedings of the National Academy of Sciences, vol. 102, no 46, 16569–16572, 2005</small><br>
+    <small class="pull-right">J.E. Hirsch, An index to quantify an individual's scientific research output, Proceedings of the National Academy of Sciences, vol. 102, no 46, 16569–16572, 2005</small><br>
 	</blockquote> 
  <br />
 
 <p>
-Le h-index a été proposé par Hirsch à partir de plusieurs constats : lorsqu’on a un chercheur ayant reçu un prix Nobel, aucun doute sur la pertinence de ses travaux de recherche. Mais pour les autres, comment évaluer l’impact et la pertinence de ses travaux ? Parmi les données pouvant être utilisées, on trouve le nombre de publications, le nombre de citations pour une publication précise, les revues dans lesquelles ont été publiés les articles et leur facteur d’impact respectif.
+Le h-index a été proposé par J.E. Hirsch à partir de plusieurs constats : lorsqu’on a un chercheur ayant reçu un prix Nobel, aucun doute sur la pertinence de ses travaux de recherche. Mais pour les autres, comment évaluer l’impact et la pertinence de ses travaux ? Parmi les données pouvant être utilisées, on trouve le nombre de publications, le nombre de citations pour une publication précise, les revues dans lesquelles ont été publiés les articles et leur facteur d’impact respectif.
 </p>
 <p>
 Chacun de ces indicateurs pris individuellement ne convient pas : certains mesurent la productivité seulement et non l’importance des résultats, certains avantagent certaines situations (« découvertes ponctuelles » vs travail sur le long terme, auteur très productif mais peu cité vs auteur peu productif mais très cité…).
 </p>
 <p>
-L’indice h proposé par Hirsch mesure convenablement d’après lui l’impact du travail du chercheur, et de plus est facile à calculer (par exemple, dans une base de données telle que le Web Of Science, on classe les publications par nombre de citations et on compte). Hirsch a étudié le h-index pour des physiciens et a constaté que deux chercheurs affichant un h-index semblable ont un impact semblable dans le monde de la recherche.
+L’indice h proposé par J.E. Hirsch mesure convenablement d’après lui l’impact du travail du chercheur, et de plus est facile à calculer (par exemple, dans une base de données telle que le Web Of Science, on classe les publications par nombre de citations et on compte). J.E. Hirsch a étudié le h-index pour des physiciens et a constaté que deux chercheurs affichant un h-index semblable ont un impact semblable dans le monde de la recherche.
 </p>
 
 </div>
@@ -116,7 +116,7 @@ L’indice h proposé par Hirsch mesure convenablement d’après lui l’impact
 <h2 id="debatIndic">Les débats autour des formules des indicateurs bibliométriques</h2>
 
 <p>
-Après la proposition de J. E. Hirsch, la communauté scientifique s’est penchée sur la question de la pertinence d’un tel indice.
+Après la proposition de J.E. Hirsch, la communauté scientifique s’est penchée sur la question de la pertinence d’un tel indice.
 </p>
 	<blockquote>
 	From that seminal paper, a huge amount of research has been lavished, focusing on one hand on the development of correction factors to the h index and on the other hand, on the pros and cons of such measure proposing several possible alternatives. 
