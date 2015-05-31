@@ -51,9 +51,10 @@ include("inc/header.php");
 	</p>
 	
 	<br/>
-          <a href="javascript:window.open('js/gexf-js-master/index.html#presse','Corpus de la press','menubar=no, scrollbars=no');">
+          <a class="text-center" href="javascript:window.open('js/gexf-js-master/index.html#presse','Corpus de la press','menubar=no, scrollbars=no');">
           <img src="template/images/presse.png" style="image-responsive" />
           <br />Graphe des mots clés de notre corpus de presse de 250 articles. Cliquer sur l'image</a>
+	<br/>
 	<br/>
 	
 	<p>
@@ -65,9 +66,10 @@ include("inc/header.php");
         </p>
         
         <br/>
-          <a href="javascript:window.open('js/gexf-js-master/index.html#corpus','Corpus de Scopus','menubar=no, scrollbars=no');">
+          <a class="text-center" href="javascript:window.open('js/gexf-js-master/index.html#corpus','Corpus de Scopus','menubar=no, scrollbars=no');">
           <img src="template/images/corpus.png" style="image-responsive" />
           <br />Graphe des mots clés de notre corpus scientifique de 449 articles. Cliquer sur l'image</a>
+          <br />
         <br/>
           
         <p>
