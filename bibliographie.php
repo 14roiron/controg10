@@ -19,7 +19,7 @@ include("inc/header.php");
         <h2 id="Entretiens">Entretiens</h2>
 
         <p>
-        Pierre Papon, ex-directeur général du CNRS
+        Pierre Papon, ex-directeur général du <a href="http://www.cnrs.fr/">CNRS</a>
         </p>
         <p>
         Jason Priem, membre fondateur d'<a href="http://altmetrics.org/">altmetrics</a>
@@ -28,7 +28,7 @@ include("inc/header.php");
         Guillaume Rivalle, <a href="http://www.thomsonreuters.com/">Thomson Reuters</a>
         </p>
         <p>
-        Michel Zitt, Inra
+        Michel Zitt, <a href="http://institut.inra.fr/">Inra</a>
         </p>
         
        
