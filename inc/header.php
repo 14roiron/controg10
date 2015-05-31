@@ -26,7 +26,7 @@
               <a href="bibliometrie.php">L'idée de mesure</a>
             </li>
             <li id="listeHeaderIndicateurs">
-              <a href="desindicateurs.php">Vers des Indicateurs ?</a>
+              <a href="desindicateurs.php">Vers des indicateurs ?</a>
             </li>
             <li id="listeHeaderSuite">
               <a href="alternative.php">Limites et alternatives</a>
@@ -40,13 +40,13 @@
               <a data-toggle="dropdown" href="#">Ressources</a>
               <ul class="dropdown-menu">
                 <li id="listeHeaderHistorique">
-                  <a href="dates.php">Quelques Graphiques</a>
+                  <a href="dates.php">Quelques graphiques</a>
                 </li>
                 <li id="listeHeaderIndices">
                   <a href="indices.php"> Quelques indices et bases de données</a>
                 </li>
                 <li id="listeHeaderActeurs">
-                  <a href="acteurs.php">Acteursde la controverse</a>
+                  <a href="acteurs.php">Acteurs de la controverse</a>
                 </li>
                 <li id="bibliographie">
                   <a href="bibliographie.php">Bibliographie</a>
