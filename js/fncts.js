@@ -76,6 +76,7 @@ function parse()
 	a[16][0]="Web of Science";
 	a[16][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=webofscience\" data-target=\"#infos\">Web of Science</a>";
 	
+	
 	a[17]=[];
 	a[17][0]="Scopus";
 	a[17][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=scopus\" data-target=\"#infos\">Scopus</a>";
