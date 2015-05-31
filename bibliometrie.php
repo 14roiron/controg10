@@ -84,8 +84,7 @@ include("inc/header.php");
                 <a href="http://thomsonreuters.com/">Thomson Reuters</a>, dans ses bases de données, adopte un modèle de sélectivité très fine des articles qui apparaîtront
                 dans la base, via une sélection des revues qui y seront indexées. Cette sélection se fait via un comité de lecture, qui décidera si la revue en question sera
                 ou non présente dans la base de données, via des critères tels que la ponctualité des parutions, la qualité des articles présentés.</p>
-                <p>Cette approche est sujette à désaccords, notamment lorsque des enjeux de financement de la recherche sont concernés. Par exemple, Journal Impact Factor ou
-                J.K. Vanclay, en 2012, critique le Journal Impact Factor, qui est un indicateur calculé par 
+                <p>Cette approche est sujette à désaccords, notamment lorsque des enjeux de financement de la recherche sont concernés. Par exemple, J.K. Vanclay, en 2012, critique le Journal Impact Factor, qui est un indicateur calculé par 
                 <a href="http://thomsonreuters.com/">Thomson Reuters</a> dans sa base de données.</p>
                 <blockquote>The Thomson Reuters impact factor (TRIF) suffers so many weaknesses, that a major overhaul is warranted, and journal editors and other users should
                 cease using the TRIF until Thomson Reuters has addressed these weaknesses. 
