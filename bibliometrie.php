@@ -124,10 +124,10 @@ include("inc/header.php");
                 travaux, et diminuerait dans le même temps les écarts dans les indicateurs entre les différents domaines de recherche.</p>
                 <p>Ce point de vue ne fait pas l'unanimité ; parmi les détracteurs de J.K. Vanclay, on retrouve par exemple M. Zitt ou encore P. Jacso, qui dénonce un manque de
                 pertinence dû à cette absence de sélection dans les articles :</p>
-                <blockquote>It must be hard to resist worshipping GS for an author who benefits from GS’s shortcomings, e.g. when it attributes to the researcher 353
+                <blockquote>It must be hard to resist worshipping GS (Google Scholar) for an author who benefits from GS’s shortcomings, e.g. when it attributes to the researcher 353
                 publications, 4,003 citations, and an h-index of 30. After a time, the researcher may believe these numbers, set his expectation of other databases accordingly,
                 and soon may find himself with a chip on his shoulder, if his expectation for inflated h-index score, publication and citation counts are not met by other
-                databases. This can make in his eyes Web of Science and JCR look like Old Scrooge when it attributes to him only 80 publications, 1,291 citations, and a h-index of
+                databases. This can make in his eyes Web of Science and JCR (Journal Citation Reports) look like Old Scrooge when it attributes to him only 80 publications, 1,291 citations, and a h-index of
                 19. It may add insult to injury by ranking the researcher’s favored journal by the citations/paper and other relative indicators several positions below other
                 journals in the given discipline. 
                 <small class="pull-right">P. Jacso, Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases:
