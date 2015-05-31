@@ -24,6 +24,7 @@ include("inc/header.php");
           Ce site web a été réalisé par des élèves de première année de l’École des Mines dans le cadre du cours de Description des controverses. Ces sites sont le résultat de travail d’étudiants et sont mis en ligne pour des raisons pédagogiques et didactiques. Une description plus détaillée de ce cours sur disponible sur le site du <a href="http://controverses.ensmp.fr/presentation/"> cours de controverse de MINES ParisTech. </a>
         
        </div>
+        <br/>
         
         <p>
         Le monde de la recherche comporte de très nombreux acteurs. Le principal moyen de communication entre ces différents acteurs consiste à partager les différentes avancées par le biais de différentes productions scientifiques : conférences, articles, livres, etc. Au delà du simple partage d'informations, des liens complexes se tissent entre les différents acteurs de la recherche.
@@ -49,9 +50,11 @@ include("inc/header.php");
 	Notre étude de notre corpus d'articles de presse nous a permis de mieux visualiser les différentes arènes de la controverse. Ces arènes sont matérialisées par l'utilisation de certains mots clés. Nous avons pu, à l'aide de l'outil Gargantext, créer un graphe qui matérialise ces liens :
 	</p>
 	
+	<br/>
           <a href="javascript:window.open('js/gexf-js-master/index.html#presse','Corpus de la press','menubar=no, scrollbars=no');">
           <img src="template/images/presse.png" style="image-responsive" />
           <br />Graphe des mots clés de notre corpus de presse de 250 articles. Cliquer sur l'image</a>
+	<br/>
 	
 	<p>
 	On remarque que le nombre de mots clés est très important pour notre corpus d'articles de presse. De plus, ces mots clés sont pour la plupart génériques et traitent surtout des questions d'évaluation de la recherche : nous remarquons donc que la controverse sur le thème précis de la mesure n'est pas centrée dans la presse.
@@ -61,9 +64,11 @@ include("inc/header.php");
         Nous avons réalisé le même travail pour notre corpus de publications scientifiques. Les liens sont matérialisés dans le graphe ci-dessous :
         </p>
         
+        <br/>
           <a href="javascript:window.open('js/gexf-js-master/index.html#corpus','Corpus de Scopus','menubar=no, scrollbars=no');">
           <img src="template/images/corpus.png" style="image-responsive" />
           <br />Graphe des mots clés de notre corpus scientifique de 449 articles. Cliquer sur l'image</a>
+        <br/>
           
         <p>
         On peut alors voir apparaître des mots clés plus spécifiques comme par exemple "science citation index". Cela nous a permis de localiser plus précisément les arènes de la controverse et ainsi de dégager plusieurs angles de vue concernant la controverse des mesures des productions scientifiques.
