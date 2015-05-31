@@ -144,7 +144,7 @@ La controverse est active notamment dans le domaine des sciences médicales. Par
  <br />
 	
 <p>
-Il existe des désaccords sur l’usage de tel ou tel indice. Par exemple, Leo Egghe publie des articles poussant à l’usage du g-index en lieu et place du h-index (2006, 2009, 2012) et d’un « year-based h-index » (2013, 2014).
+Il existe des désaccords sur l’usage de tel ou tel indice. Par exemple, L. Egghe publie des articles poussant à l’usage du g-index en lieu et place du h-index (2006, 2009, 2012) et d’un « year-based h-index » (2013, 2014).
 </p>
 	<blockquote>
 It is shown that the g-index inherits all the good properties of the h-index and, in addition, better takes into account the citation scores of the top articles.
@@ -165,7 +165,7 @@ Néanmoins, le g-index a aussi des détracteurs. Alex De Visscher écrit des art
 	</blockquote> 
  <br />
 <p>
-Ce à quoi répond Leo Egghe en 2012 dans un autre article, puis Alex De Visscher en 2013 dans un autre article qui y fait réponse, et ainsi de suite…
+Ce à quoi répond L. Egghe en 2012 dans un autre article, puis Alex De Visscher en 2013 dans un autre article qui y fait réponse, et ainsi de suite…
 </p>
 <p>
 Toujours dans le domaine de la recherche, d’autres chercheurs sont plus catégoriques et considèrent que le h-index, comme le g-index, sont bien trop simplistes et ne sont pas des indicateurs fiables.

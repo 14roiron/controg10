@@ -20,9 +20,10 @@ function parse()
 	a[8][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=cronin\" data-target=\"#infos\">B. Cronin</a>";
 	
 	a[9]=[];
-	a[9][0]="J.K. Vanclay";
-	a[9][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=vanclay\" data-target=\"#infos\">J.K. Vanclay</a>";
+	a[9][0]="L. Egghe";
+	a[9][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=egghe\" data-target=\"#infos\">L. Egghe</a>";
 	a[10]=[];
+	
 	a[10][0]="J.K. Vanclay";
 	a[10][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=vanclay\" data-target=\"#infos\">J.K. Vanclay</a>";
 	a[11]=[];
