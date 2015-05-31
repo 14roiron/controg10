@@ -20,7 +20,7 @@ include("inc/header.php");
             height="400" allowscriptaccess="always" />
           </object>
           <hr />
-          <a href="javascript:window.open('js/gexf-js-master/index.html#corpus','nom_de_ma_zzzz','menubar=no, scrollbars=no');">
+          <a href="javascript:window.open('js/gexf-js-master/index.html#corpus','Corpus de Scopus','menubar=no, scrollbars=no');">
           <img src="template/images/corpus.png" style="image-responsive" />
           <br />Graphe des mots clés de notre corpus scientifique de 449 articles</a>
           <hr />
