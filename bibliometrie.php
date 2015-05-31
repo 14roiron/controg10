@@ -161,14 +161,21 @@ L'une des motivations pour la mesure, outre la facilité de découverte, est pou
 </p>
 
 <p>
-La déclaration DORA de San Francisco est une déclaration initiée par des scientifiques et éditeurs de journaux qui remet en cause l'utilisation, jugée trop importante, des classements basés sur les mesures bibliométriques avec pour fin l'évaluation de la recherche.
+La déclaration DORA de San Francisco (San Francisco Declaration on Research Assessment) est une déclaration initiée par des scientifiques et éditeurs de journaux qui remet en cause l'utilisation, jugée trop importante, des classements basés sur les mesures bibliométriques avec pour fin l'évaluation de la recherche.
 </p>
 
     <blockquote>
 There is a pressing need to improve the ways in which the output of scientific research is evaluated by funding agencies, academic institutions, and other parties. (...) For the purposes of research assessment, consider the value and impact of all research outputs (including datasets and software) in addition to research publications, and consider a broad range of impact measures including qualitative indicators of research impact, such as influence on policy and practice.
     <small class="pull-right">San Francisco Declaration on Research Assessment, 2013</small><br>
     </blockquote> 
+    
+<p>
+Cette déclaration comporte de nombreuses recommandations adressées aux différents acteurs de la recherche, concernant la manière d'utiliser les mesures bibliométriques, ou la manière de les produire.
+</p>
 
+<p>
+Cette déclaration, publiée en 2013 par l'ASCB (American Society for Cell Biology), a depuis été signée par plus de 6000 personnes et plus de 200 institutions, ce qui montre que la controverse concernant l'utilisation des mesures bibliométriques est réellement active.
+</p>
 
  <br />
 
