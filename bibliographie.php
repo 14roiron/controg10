@@ -79,13 +79,26 @@ Michel Zitt, The journal impact factor: angel, devil, or scapegoat? A comment on
 <p>
 [14] J. Priem, D. Taraborelli, P. Groth, C. Neylon, altmetrics	: a manifesto, 2010
 </p>
+<p>
+[15] San Francisco Declaration on Research Assessment ; <a href="http://www.ascb.org/dora-old/files/SFDeclarationFINAL.pdf">DORA</a>, 2013
+</p>
+
         <hr> </div>
         
         <div class="paragraphe">
         <h2 id="sw">Sites Web</h2>
         <p>
-          At Bootply we like to build simple Bootstrap templates that utilize the code Bootstap CSS without a lot of customization. Sure you can 
-          find a lot of Bootstrap themes and inspiration, but these templates tend to be heavy on customization.</p>
+        <a href="http://thomsonreuters.com/">Site officiel de Thomson Reuters</a>
+        </p>
+        <p>
+        <a href="http://altmetrics.org/">Site officiel de altmetrics</a>
+        </p>
+        <p>
+        <a href="http://www.cnrs.fr/">Site officiel du CNRS</a>
+        </p>
+        <p>
+        <a href="http://www.shanghairanking.com/">Site officiel du Classement de Shanghai</a>
+        </p>
         
         <hr> </div>
         
