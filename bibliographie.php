@@ -31,7 +31,7 @@ include("inc/header.php");
         Michel Zitt, <a href="http://institut.inra.fr/">Inra</a>
         </p>
         
-       
+       <hr> </div>
        
     <div class="paragraphe">
         <h2 id="Articles">Articles scientifiques</h2>
@@ -126,6 +126,7 @@ San Francisco Declaration on Research Assessment ; <a href="http://www.ascb.org/
         « Les programmes de recherche européens en quête de simplicité et d'efficacité », Les Echos, SCIENCES, 16 Novembre 2000.
         </p>
 
+        <hr> </div>
         
         <div class="paragraphe">
         <h2 id="sw">Sites Web</h2>
