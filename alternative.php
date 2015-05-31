@@ -46,7 +46,7 @@ include("inc/header.php");
                 <br /></blockquote>
                 <p>Le lien citationnel n'est donc pas la seule donnée matérialisant un lien entre deux productions scientifiques, mais seulement l'un d'entre-eux.</p>
                 <div class="paragraphe">
-                  <h2 id="Altemtrics">Altmetrics, les mesures alternatives aux indicateurs bibliométriques</h2>
+                  <h2 id="Altemtrics">altmetrics, les mesures alternatives aux indicateurs bibliométriques</h2>
                   <p>
                   <img src="/~groupe10/template/images/altmetric_logo.png" class="img-responsive" /> Parallèlement aux indicateurs bibliométriques, qui utilisent principalement
                   le lien citationnel, il est également utilisé d'autres indicateurs se basant sur des données très différentes. En 2010, on entend pour la première fois le
