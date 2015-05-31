@@ -92,7 +92,7 @@ Les données bibliométriques viennent donc répondre aux demandes de la sphère
 
 
 <p>
-Cette dernière citation soulève le point important des limites des indices. En effet, les indices sont calculés selon des formules qui peuvent favoriser certaines situations. Par exemple, prenons le cas du h-index, proposé par J.E. Hisch en 2005 :
+Cette dernière citation soulève le point important des limites des indices. En effet, les indices sont calculés selon des formules qui peuvent favoriser certaines situations. Par exemple, prenons le cas du h-index, proposé par J.E. Hirsch en 2005 :
 </p>
 
 	<blockquote>
