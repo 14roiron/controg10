@@ -123,37 +123,34 @@ San Francisco Declaration on Research Assessment ; <a href="http://www.ascb.org/
         <div class="paragraphe">
         <h2 id="presse">Presse</h2>
         <p>
-        J. Anquetin, O. Béthoux, P-O. Antoine, A. Boura, J. Martin, D. Germain, R. Allain, L. Hautier, R. Thomas, D. de Franceschi. « Intégrité et recherche : il faut revoir les critères d'évaluation ». Le Monde.fr, 16 Décembre 2014.
+        J. Anquetin, O. Béthoux, P-O. Antoine, A. Boura, J. Martin, D. Germain, R. Allain, L. Hautier, R. Thomas, D. de Franceschi, Intégrité et recherche : il faut revoir les critères d'évaluation, <i>Le Monde.fr</i>, 16 Décembre 2014.
         </p>
         <p>
-        L. Bronner, « Recherche : les universités françaises réalisent des performances mitigées ». Le Monde, 23 Août 2005. 
+        L. Bronner, Recherche : les universités françaises réalisent des performances mitigées, <i>Le Monde</i>, 23 Août 2005. 
         </p>
         <p>
-        B. Cronin, « Comment la manie des rankings a atteint le cœur de la recherche ». Le Temps, 24 Octobre 2014.
+        B. Cronin, Comment la manie des rankings a atteint le cœur de la recherche, <i>Le Temps</i>, 24 Octobre 2014.
         </p>
         <p>
-        J. Elayi, « L’évaluation des chercheurs en question ». Le Figaro, 27 Décembre 2004.
+        J. Elayi, L’évaluation des chercheurs en question, <i>Le Figaro</i>, 27 Décembre 2004.
         </p>
         <p>
-        Y. Gingras, « Le Classement de Shanghai n’est pas scientifique ». La Recherche, no. 430, Mai 2009.
+        Y. Gingras, Le Classement de Shanghai n’est pas scientifique, <i>La Recherche</i>, no. 430, Mai 2009.
         </p>
         <p>
-        S. Huet,  « Les chercheurs en quête d'argent et d'idées », Libération, 30 Juin 2003.
+        S. Huet, Les chercheurs en quête d'argent et d'idées, <i>Libération</i>, 30 Juin 2003.
         </p>
         <p>
-        M. Leduc, S. Jaffard, J-C. Bernier, « La bonne méthode d’évaluation des chercheurs », Les Echos, 23 Juillet 2009.
+        M. Leduc, S. Jaffard, J-C. Bernier, La bonne méthode d’évaluation des chercheurs, <i>Les Echos</i>, 23 Juillet 2009.
         </p>
         <p>
-        D. Raoult, « L'éruption de l'économie de marché dans la mesure de l'activité scientifique », 9 Avril 1998.
+        M. Zito, Les dégâts collatéraux du facteur d’impact, <i>Le Monde</i>, 16 Février 2013.
         </p>
         <p>
-        M. Zito, « Les dégâts collatéraux du facteur d’impact ». Le Monde, 16 Février 2013.
+        Connaître n’est pas mesurer, <i>Le Monde</i>, 29 Janvier 2014.
         </p>
         <p>
-        « Connaître n’est pas mesurer ». Le Monde, 29 Janvier 2014.
-        </p>
-        <p>
-        « Les programmes de recherche européens en quête de simplicité et d'efficacité », Les Echos, 16 Novembre 2000.
+        Les programmes de recherche européens en quête de simplicité et d'efficacité, <i>Les Echos</i>, 16 Novembre 2000.
         </p>
 
         <hr> </div>
