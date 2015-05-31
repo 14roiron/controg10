@@ -57,7 +57,7 @@ J. Gorriaz, C. Gumpenberger, P.J. Purnell , The power of book reviews : a simple
 J. Hirsh. An index to quantify an individual's scientific research output. <i>Proceedings of the National Academy of Sciences</i>, vol. 102, no 46, 16569–16572, 15 Novembre 2005
 </p>
 <p>
-P. Jasco. Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases: reflections on Vanclay’s criticism, <i> Scientometrics </i> , 19 Avril 2012
+P. Jacso. Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases: reflections on Vanclay’s criticism, <i> Scientometrics </i> , 19 Avril 2012
 </p>
 <p>
 K. Kousha, M. Thelwall, S. Rezaie, Assessing the Citaion Impact of Books : The Role of Google Books, Google Scholar, and Scopus, <i>Journal of the American society for information science and technology </i>, 62(11) :2147-2164, 2011
