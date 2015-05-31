@@ -33,7 +33,7 @@ include("inc/header.php");
                 and are overall weak or non-existent, this study confirms that books with book reviews do not remain uncited and accrue a remarkable mean number of citations. 
                 <small class="pull-right">J. Gorraiz, C. Gumpenberger, P.J. Purnell, The power of book reviews: a simple and transparent enhancement approach for book citation
                 indexes, Scientometrics, 98:841–852, 2014</small>
-                <br /></blockquote>
+                <br /></blockquote><br/>
                 <p>D'autres chercheurs évoquent le fait que Google Scholar est effectivement bien plus ouvert que d'autres bases de données, plus sélectives. Il recoupe en
                 effet de nombreux revues ou articles dits en "open access", c'est-à-dire qu'ils sont disponibles librement sur le web, sans avoir à souscrire d'abonnement
                 particulier. Cela permettrait notamment de diminer les écarts constatés au niveau des indicateurs utilisés lorsqu'on recoupe différents domaines de
