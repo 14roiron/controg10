@@ -48,6 +48,9 @@ include("inc/header.php");
         On abordera la controverse autour des mesures des productions scientifiques sous trois angles différents : d'une part, nous verrons comment et pourquoi l'idée et le besoin de mesure sont apparus dès le début des années 1960. D'autre part, on peut également faire état d'une controverse très active quant aux indicateurs bibliométriques, et aux formules qui les régissent. Mais un autre angle de vue permet également de prendre du recul sur la notion de mesure bibliométrique et de considérer des mesures alternatives, par l'intermédiaire du développement des technologies de l'information et des communications.
         </p>
         
+        <hr> </div>
+        <hr> </div>
+        
         </div>
 
         </div><!--/right-->
