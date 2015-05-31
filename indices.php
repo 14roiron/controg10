@@ -62,6 +62,7 @@ include("inc/footer.php");
 ?>
 <script language="javascript">
 $("#listeHeaderIndices").addClass("active");
+$("#autre").addClass("active");
 </script>
 	</body>
 </html>

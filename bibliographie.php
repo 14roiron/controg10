@@ -100,6 +100,7 @@ include("inc/footer.php");
 ?>
 <script language="javascript">
 $("#bibliographie").addClass("active");
+$("#autre").addClass("active");
 parse();
 </script>
 	</body>

@@ -54,6 +54,7 @@ include("inc/footer.php");
 <script language="javascript">
 
 $("#listeHeaderHistorique").addClass("active");
+$("#autre").addClass("active");
 
 </script>
 

@@ -30,7 +30,7 @@
           <a href="bibliometrie.php">L'idée de mesure</a>
         </li>
 		        <li id="listeHeaderIndicateurs">
-          <a href="desindicateurs.php">Vers des Indicateurs?</a>
+          <a href="desindicateurs.php">Vers des Indicateurs ?</a>
         </li>
 		
 		<li id="listeHeaderSuite">
@@ -42,7 +42,7 @@
         </li>
         -->
         <li id="listeHeaderHistorique">
-          <a href="dates.php">Historique</a>
+          <a href="dates.php">Graphiques</a>
         </li>
         <li id="listeHeaderIndices">
           <a href="indices.php">Indices</a>

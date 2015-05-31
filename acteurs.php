@@ -63,6 +63,7 @@ include("inc/footer.php");
 ?>
 <script language="javascript">
 $("#listeHeaderActeurs").addClass("active");
+$("#autre").addClass("active");
 </script>
 	</body>
 </html>

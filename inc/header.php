@@ -30,17 +30,23 @@
           <a href="bibliometrie.php">L'idée de mesure</a>
         </li>
 		        <li id="listeHeaderIndicateurs">
-          <a href="desindicateurs.php">Vers des Indicateurs?</a>
+          <a href="desindicateurs.php">Vers des Indicateurs ?</a>
         </li>
 		
 		<li id="listeHeaderSuite">
-          <a href="alternative.php">Une alternative</a>
+          <a href="alternative.php">Limites et alternatives</a>
         </li>
         <!--
         <li id="listeHeaderCherche">
           <a href="chercheur.php"> Point de vue d'un Chercheur</a>
         </li>
         -->
+        
+         <li class="divider"></li>
+         
+         <li id="autre" class="dropdown"> 
+            <a data-toggle="dropdown" href="#">Ressources<b class="caret"></b></a>
+            <ul class="dropdown-menu">
         <li id="listeHeaderHistorique">
           <a href="dates.php">Graphiques</a>
         </li>
@@ -53,6 +59,9 @@
         <li id="bibliographie">
           <a href="bibliographie.php">Bibliographie</a>
         </li>
+            </ul>
+          </li>
+
         
       </ul>
     </nav>
