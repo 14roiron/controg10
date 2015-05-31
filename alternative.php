@@ -33,7 +33,7 @@ include("inc/header.php");
                 <blockquote>Despite the fact that correlations between citations to a book and the number of corresponding book reviews differ from research area to research area
                 and are overall weak or non-existent, this study confirms that books with book reviews do not remain uncited and accrue a remarkable mean number of citations. 
                 <small class="pull-right">J. Gorraiz, C. Gumpenberger, P.J. Purnell, The power of book reviews: a simple and transparent enhancement approach for book citation
-                indexes, Scientometrics (2014) 98:841–852</small>
+                indexes, Scientometrics, 98:841–852, 2014</small>
                 <br /></blockquote>
                 <p>D'autres chercheurs évoquent le fait que Google Scholar est effectivement bien plus ouvert que d'autres bases de données, plus sélectives. Il recoupe en
                 effet de nombreux revues ou articles dits en "open access", c'est-à-dire qu'ils sont disponibles librement sur le web, sans avoir à souscrire d'abonnement
@@ -43,7 +43,7 @@ include("inc/header.php");
                 publishing and selfarchiving, although it clearly varies by discipline.
 				<br />				
                 <small class="pull-right">K. Kousha, M. Thelwall, Sources of Google Scholar citations outside the Science Citation Index: A comparison between four science
-                disciplines, Scientometrics, Vol. 74, No. 2 (2008) 273–294</small>
+                disciplines, Scientometrics, Vol. 74, No. 2, 273–294, 2008</small>
                 <br /></blockquote>
                 <p>Le lien citationnel n'est donc pas la seule donnée matérialisant un lien entre deux productions scientifiques, mais seulement l'un d'entre-eux.</p>
                 <div class="paragraphe">
@@ -112,7 +112,7 @@ include("inc/header.php");
                     <blockquote>Because of its broader coverage and despite known deficiencies, Hirsch’s h-index based on 
                     <a href="https://scholar.google.fr/">Google Scholar</a> data may be more useful than the Journal Impact Factor, as a measure of journal quality, and in
                     providing a basis to rank journals. 
-                    <small class="pull-right">J.K. Vanclay, Ranking forestry journals using the h-index, Journal of Informetrics (2012), 2(4), 326–334</small>
+                    <small class="pull-right">J.K. Vanclay, Ranking forestry journals using the h-index, Journal of Informetrics, 2(4), 326–334, 2012</small>
                     <br /></blockquote>
                     <hr />
                   </div>
