@@ -58,7 +58,7 @@ Son but premier est donc la sélection des revues par les bibliothécaires et la
  <br />
   
 <p>
-Cette utilisation du Journal Impact Factor est donc qualifiée de détournée par son créateur. Pourquoi donc les mesures bibliométriques s'orientent-elles vers l'évaluation des entités de la recherche ? En réalité, le besoin d'évaluation est réel, et dans plusieurs domaines. D'une part, le travail de découverte, évoqué plus haut :
+Cette utilisation du Journal Impact Factor est donc qualifiée de détournée par son créateur. Pourquoi donc les mesures bibliométriques s'orientent-elles vers l'évaluation des entités de la recherche ? En réalité, le besoin d'évaluation est ce qui ressort le plus des demandes d'évaluation dans la presse, et ce dans plusieurs domaines. D'une part, le travail de découverte, évoqué plus haut :
 </p>
     <blockquote>
 	Les citations contextualisent la recherche et aident à orienter le lecteur. Elles permettent au lecteur d'évaluer le travail de l'auteur sur la base de la qualité perçue des références sélectionnées. Et elles permettent au lecteur de retrouver un travail jusque-là inconnu mais potentiellement utile.
@@ -82,7 +82,7 @@ Ou encore, pour des administrations :
 	</blockquote> 
  <br />
 <p>
-D'où le premier article de la déclaration DORA de San Francisco, qui se présente comme une initiative mondiale qui propose des recommandations aux différents acteurs du monde de la recherche :
+Les données bibliométriques viennent donc répondre aux demandes de la sphère publique. Néanmoins, certains acteurs du domaine de la recherche dénoncent l'utilisation parfois exclusive des données bibliométriques pour les fins d'évaluation, d'où le premier article de la déclaration DORA de San Francisco, qui se présente comme une initiative mondiale qui propose des recommandations aux différents acteurs du monde de la recherche :
 </p>
 	<blockquote>
 	Do not use journal-based metrics, such as Journal Impact Factors, as a surrogate measure of the quality of individual research articles, to assess an individual scientist’s contributions, or in hiring, promotion, or funding decisions.
