@@ -68,7 +68,7 @@ function parse()
 	
 	a[7]=[];
 	a[7][0]="book citation index";
-	a[7][1]="<a data-toggle=\"modal\" href=\"modale_indices.php?c=bookcitationIndex\" data-target=\"#infos\">book citation index</a>";
+	a[7][1]="<a data-toggle=\"modal\" href=\"modale_indices.php?c=bookcitatioindex\" data-target=\"#infos\">book citation index</a>";
 	
 	
 	
