@@ -1,0 +1,3531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gephi.org/gexf/viz" version="1.1">
+<graph defaultedgetype="undirected" type="static">
+<attributes class="node" type="static">
+ <attribute id="0" title="category" type="string">  </attribute>
+ <attribute id="1" title="country" type="float">    </attribute>
+</attributes>
+<attributes class="edge" type="float">
+ <attribute id="6" title="type" type="string"> </attribute>
+</attributes>
+<nodes>
+<node id="23901" label="case study">
+ <viz:position x="-24.336945887143415"    y="97.25081635386768"  z="0" />
+ <viz:size value="1.6531714956930306" />
+ <viz:color r="176" g="91" b="111" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="24348" label="bibliometric study">
+ <viz:position x="-46.67183333263923"    y="192.9125846989937"  z="0" />
+ <viz:size value="1.6101018010963195" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="24877" label="comparative study">
+ <viz:position x="16.347967231269678"    y="-18.943765972323195"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="24895" label="new south wales">
+ <viz:position x="1150.764757435263"    y="455.4501328944512"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="99" g="103" b="169" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="26389" label="higher education">
+ <viz:position x="0.3111704092154099"    y="-56.1086588070927"  z="0" />
+ <viz:size value="1.4292090837901332" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="27919" label="first step">
+ <viz:position x="745.8210318919578"    y="338.7939126302748"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="74" g="59" b="83" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="32463" label="21st century">
+ <viz:position x="-3.0702308087678807"    y="62.408620845575534"  z="0" />
+ <viz:size value="1.37752545027408" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="38252" label="molecular biology">
+ <viz:position x="-1.093640116902412"    y="19.367501929425053"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="43895" label="case studies">
+ <viz:position x="1094.019893121161"    y="648.7053931614901"  z="0" />
+ <viz:size value="1.3861393891934222" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="44193" label="north america">
+ <viz:position x="-46.83379146385139"    y="65.25021411822316"  z="0" />
+ <viz:size value="1.4119812059514487" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="44803" label="different types">
+ <viz:position x="71.98420803837952"    y="-132.71665702623326"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="49271" label="different methods">
+ <viz:position x="118.3539296612977"    y="16.558577968909855"  z="0" />
+ <viz:size value="1.420595144870791" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="49398" label="medical schools">
+ <viz:position x="1001.7266839441338"    y="827.7292429321625"  z="0" />
+ <viz:size value="1.3861393891934222" />
+ <viz:color r="0" g="30" b="9" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="51772" label="empirical analysis">
+ <viz:position x="622.8748169738127"    y="582.0962420832054"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="0" g="30" b="9" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="53952" label="social sciences">
+ <viz:position x="27.91243307279262"    y="51.60580785216109"  z="0" />
+ <viz:size value="1.506734534064213" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="57068" label="high rates">
+ <viz:position x="361.31261697697545"    y="474.2063795446335"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="60736" label="united kingdom">
+ <viz:position x="877.2208469514503"    y="986.0512938336652"  z="0" />
+ <viz:size value="1.5239624119028974" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="64612" label="mass spectrometry">
+ <viz:position x="-20.804088101070437"    y="112.96122537879292"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="64691" label="different levels">
+ <viz:position x="29.65400225140625"    y="-6.6058862667756895"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="73152" label="sensitivity analysis">
+ <viz:position x="17.97622293801146"    y="-154.8755899366566"  z="0" />
+ <viz:size value="1.4895066562255286" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="73965" label="research methods">
+ <viz:position x="725.0023474888199"    y="1117.949374442338"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="77486" label="analytical results">
+ <viz:position x="38.35389917164447"    y="151.21527233933733"  z="0" />
+ <viz:size value="1.3947533281127644" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="89424" label="comparative evaluation">
+ <viz:position x="49.72649649680469"    y="-27.418446032587813"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="218" g="0" b="124" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="102258" label="western europe">
+ <viz:position x="28.901317032559177"    y="81.59804821336984"  z="0" />
+ <viz:size value="1.506734534064213" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="108646" label="common practice">
+ <viz:position x="-128.5231154158671"    y="-61.05446704549704"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="200" g="208" b="246" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="112373" label="methodological problems">
+ <viz:position x="68.46646585154507"    y="5.019382747211551"  z="0" />
+ <viz:size value="1.3947533281127644" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="114644" label="information retrieval">
+ <viz:position x="50.653309522940475"    y="63.318207679562576"  z="0" />
+ <viz:size value="1.4981205951448708" />
+ <viz:color r="74" g="59" b="83" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="115610" label="short term">
+ <viz:position x="550.572758728254"    y="1218.6563444678864"  z="0" />
+ <viz:size value="1.3947533281127644" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="128834" label="data set">
+ <viz:position x="86.00045956284681"    y="838.2117047648945"  z="0" />
+ <viz:size value="1.8943617854346124" />
+ <viz:color r="186" g="9" b="0" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="137245" label="international collaboration">
+ <viz:position x="-31.846483594277764"    y="20.838400397814052"  z="0" />
+ <viz:size value="1.5584181675802664" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="138294" label="peer review">
+ <viz:position x="34.720160475921155"    y="-10.056398271721728"  z="0" />
+ <viz:size value="1.9718872357086923" />
+ <viz:color r="218" g="0" b="124" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="138369" label="important tool">
+ <viz:position x="-237.90859687404034"    y="482.70038596271"  z="0" />
+ <viz:size value="1.463664839467502" />
+ <viz:color r="0" g="132" b="111" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="139802" label="climate change">
+ <viz:position x="-44.74066960253525"    y="46.5792226728518"  z="0" />
+ <viz:size value="1.592873923257635" />
+ <viz:color r="200" g="208" b="246" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="143989" label="chemical engineering">
+ <viz:position x="174.12444481143467"    y="640.040629247718"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="146324" label="impact factors">
+ <viz:position x="48.83843826719008"    y="1.8072033906628744"  z="0" />
+ <viz:size value="1.5670321064996084" />
+ <viz:color r="204" g="7" b="68" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="146325" label="impact factor">
+ <viz:position x="26.700049406725984"    y="-18.274265370359462"  z="0" />
+ <viz:size value="1.592873923257635" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="149116" label="bibliometric analysis">
+ <viz:position x="12.190832268077079"    y="75.49421558316855"  z="0" />
+ <viz:size value="5.090133124510571" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="153200" label="aquatic ecosystems">
+ <viz:position x="-33.61210271566081"    y="61.82473975047409"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="162324" label="scientific research">
+ <viz:position x="-11.11953693699469"    y="8.248549846951459"  z="0" />
+ <viz:size value="1.463664839467502" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="162985" label="last decade">
+ <viz:position x="-18.434340620839894"    y="42.853205196242214"  z="0" />
+ <viz:size value="1.4895066562255286" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="179718" label="statistical analysis">
+ <viz:position x="81.24934963146016"    y="71.68421815352495"  z="0" />
+ <viz:size value="1.6617854346123728" />
+ <viz:color r="0" g="30" b="9" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="182401" label="accurate measurement">
+ <viz:position x="-128.27604150447385"    y="-52.67010623761868"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="200" g="208" b="246" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="211411" label="computer science">
+ <viz:position x="65.52212268084884"    y="2.716105907591363"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="176" g="91" b="111" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="218013" label="large number">
+ <viz:position x="23.3163466733463"    y="12.762133761617182"  z="0" />
+ <viz:size value="1.3689115113547377" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="228431" label="top scientists">
+ <viz:position x="24.418036958372184"    y="-97.1854066101297"  z="0" />
+ <viz:size value="1.4895066562255286" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="234301" label="international cooperation">
+ <viz:position x="-24.162813798401594"    y="49.26238474034624"  z="0" />
+ <viz:size value="1.4033672670321065" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="248602" label="materials science">
+ <viz:position x="-57.211741639105675"    y="-19.719302074198808"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="252739" label="present work">
+ <viz:position x="43.465993319780765"    y="-34.629013850427796"  z="0" />
+ <viz:size value="1.3689115113547377" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="253136" label="current study">
+ <viz:position x="360.2364204794206"    y="1284.532391624136"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="218" g="0" b="124" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="253231" label="past decade">
+ <viz:position x="-19.541842399210946"    y="1.0914547768709864"  z="0" />
+ <viz:size value="1.420595144870791" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="253661" label="recent years">
+ <viz:position x="160.87258392312435"    y="1313.1965839284928"  z="0" />
+ <viz:size value="1.3689115113547377" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="254231" label="research community">
+ <viz:position x="49.61856490552041"    y="-119.00654288400695"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="255027" label="individual level">
+ <viz:position x="29.209375107293837"    y="-50.7977687216636"  z="0" />
+ <viz:size value="1.5584181675802664" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="255581" label="present study">
+ <viz:position x="55.32580440674531"    y="52.12795805721105"  z="0" />
+ <viz:size value="1.7393108848864527" />
+ <viz:color r="0" g="30" b="9" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="255809" label="research activity">
+ <viz:position x="46.4049201762753"    y="-15.774941036809409"  z="0" />
+ <viz:size value="1.7048551292090839" />
+ <viz:color r="218" g="0" b="124" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="255923" label="elsevier ltd">
+ <viz:position x="36.81838803986577"    y="-67.30230260180403"  z="0" />
+ <viz:size value="2.6523884103367266" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="256161" label="policy makers">
+ <viz:position x="-55.38406898272703"    y="-17.009793395793125"  z="0" />
+ <viz:size value="1.7306969459671104" />
+ <viz:color r="255" g="255" b="0" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="256460" label="scientific community">
+ <viz:position x="-1.3869692547872912"    y="-15.281175486136588"  z="0" />
+ <viz:size value="1.4722787783868443" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="324237" label="high correlation">
+ <viz:position x="-14.917026305720746"    y="161.78086524410753"  z="0" />
+ <viz:size value="1.4033672670321065" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="324716" label="chinese academy">
+ <viz:position x="-23.85105603348443"    y="-17.681100198844916"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="327858" label="limited number">
+ <viz:position x="57.152118165938546"    y="-29.235850453781893"  z="0" />
+ <viz:size value="1.3516836335160534" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="348413" label="different fields">
+ <viz:position x="51.00410703820056"    y="-43.8691008217908"  z="0" />
+ <viz:size value="1.37752545027408" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="349255" label="scientific communication">
+ <viz:position x="-98.71919916563368"    y="-44.524178639497"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="350318" label="near future">
+ <viz:position x="-18.001661255368397"    y="99.73637261463601"  z="0" />
+ <viz:size value="1.420595144870791" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="350367" label="scientific information">
+ <viz:position x="-5.439468518496534"    y="114.34948161470379"  z="0" />
+ <viz:size value="1.6876272513703994" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="353883" label="mean values">
+ <viz:position x="75.24556686170732"    y="64.49528011818985"  z="0" />
+ <viz:size value="1.6359436178543463" />
+ <viz:color r="0" g="30" b="9" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="355194" label="individual scientists">
+ <viz:position x="135.01458736566482"    y="29.180753705107733"  z="0" />
+ <viz:size value="2.170007830853563" />
+ <viz:color r="0" g="30" b="9" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="355924" label="micro level">
+ <viz:position x="91.10381558686585"    y="859.0397137867044"  z="0" />
+ <viz:size value="1.9374314800313235" />
+ <viz:color r="186" g="9" b="0" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="364695" label="observed differences">
+ <viz:position x="67.97050636541414"    y="68.12210160048633"  z="0" />
+ <viz:size value="1.6359436178543463" />
+ <viz:color r="0" g="30" b="9" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="365794" label="life sciences">
+ <viz:position x="-49.82312409352655"    y="-36.452364373826924"  z="0" />
+ <viz:size value="1.6187157400156618" />
+ <viz:color r="200" g="208" b="246" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="393150" label="research staff">
+ <viz:position x="16.63632281692349"    y="-90.43991419102525"  z="0" />
+ <viz:size value="1.5239624119028974" />
+ <viz:color r="0" g="30" b="9" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="393213" label="research subjects">
+ <viz:position x="-40.31322245008042"    y="1303.6129227872534"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="200" g="208" b="246" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="395524" label="evaluation criteria">
+ <viz:position x="23.514653978388054"    y="59.307229967876104"  z="0" />
+ <viz:size value="1.463664839467502" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="395808" label="key elements">
+ <viz:position x="45.79932705181761"    y="8.35428352608895"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="176" g="91" b="111" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="396411" label="career advancement">
+ <viz:position x="22.291853105854745"    y="-90.01439125956524"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="401234" label="scientific publications">
+ <viz:position x="-37.20977309433031"    y="-42.008006200773686"  z="0" />
+ <viz:size value="1.584259984338293" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="403379" label="research activities">
+ <viz:position x="58.457666137778176"    y="30.80689990792295"  z="0" />
+ <viz:size value="1.37752545027408" />
+ <viz:color r="218" g="0" b="124" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="412599" label="first identification">
+ <viz:position x="-234.85046939546194"    y="492.47281871176835"  z="0" />
+ <viz:size value="1.463664839467502" />
+ <viz:color r="0" g="132" b="111" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="416752" label="large set">
+ <viz:position x="-230.4414970082023"    y="482.2309052190834"  z="0" />
+ <viz:size value="1.463664839467502" />
+ <viz:color r="0" g="132" b="111" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="466337" label="copyright ©">
+ <viz:position x="-34.66485270633387"    y="6.697268536431474"  z="0" />
+ <viz:size value="1.9115896632732967" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="478937" label="other research groups">
+ <viz:position x="43.970295356499186"    y="-63.09667798109602"  z="0" />
+ <viz:size value="1.4033672670321065" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="483324" label="research articles">
+ <viz:position x="28.574491844826078"    y="-57.26817071900795"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="483520" label="science database">
+ <viz:position x="-31.838432476366986"    y="-11.526129704094856"  z="0" />
+ <viz:size value="1.506734534064213" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="484260" label="individual researchers">
+ <viz:position x="46.362594447856786"    y="-58.01928280196732"  z="0" />
+ <viz:size value="1.6359436178543463" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="487373" label="bibliographic databases">
+ <viz:position x="15.225656346706058"    y="9.154718516964712"  z="0" />
+ <viz:size value="1.4033672670321065" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="511893" label="research groups">
+ <viz:position x="63.26758104287781"    y="-45.37174901512457"  z="0" />
+ <viz:size value="1.5584181675802664" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="514108" label="research fields">
+ <viz:position x="151.41200291004196"    y="-16.12874866296292"  z="0" />
+ <viz:size value="1.4722787783868443" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="528805" label="research productivity">
+ <viz:position x="33.55185218370958"    y="-36.39069519605569"  z="0" />
+ <viz:size value="1.9718872357086923" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="637858" label="largest contributor">
+ <viz:position x="32.15804925956343"    y="87.25742554864367"  z="0" />
+ <viz:size value="1.506734534064213" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="639264" label="different perspectives">
+ <viz:position x="35.93514851196495"    y="-12.231535835369893"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="641007" label="research questions">
+ <viz:position x="-14.781284631941444"    y="-9.126313518755849"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="641427" label="higher education institutions">
+ <viz:position x="73.39729482795964"    y="80.2249882499447"  z="0" />
+ <viz:size value="1.6359436178543463" />
+ <viz:color r="0" g="30" b="9" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="649861" label="d system">
+ <viz:position x="14.025951811926525"    y="-50.13459950793631"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="654227" label="research institutions">
+ <viz:position x="9.573847794015823"    y="-50.924935305738785"  z="0" />
+ <viz:size value="1.7737666405638215" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="655044" label="science citation index">
+ <viz:position x="-26.70639722039125"    y="157.4323528374343"  z="0" />
+ <viz:size value="2.8677368833202816" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="665840" label="research trends">
+ <viz:position x="-40.17803260922388"    y="103.50959206448132"  z="0" />
+ <viz:size value="1.6962411902897416" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="667641" label="journal articles">
+ <viz:position x="-236.04961941336046"    y="1256.1277866840474"  z="0" />
+ <viz:size value="1.4292090837901332" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="676946" label="citation rates">
+ <viz:position x="-55.805354768013665"    y="14.608894937872881"  z="0" />
+ <viz:size value="1.37752545027408" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="678540" label="science policy">
+ <viz:position x="-16.97030053536031"    y="-17.293928290370772"  z="0" />
+ <viz:size value="1.5239624119028974" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="680530" label="few indicators">
+ <viz:position x="64.24725635246081"    y="844.7256093007583"  z="0" />
+ <viz:size value="1.8943617854346124" />
+ <viz:color r="186" g="9" b="0" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="681876" label="tsinghua university">
+ <viz:position x="-38.00286052276925"    y="160.86655877030367"  z="0" />
+ <viz:size value="1.3947533281127644" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="682872" label="scientific production">
+ <viz:position x="-419.26218359425485"    y="1172.4574121589599"  z="0" />
+ <viz:size value="1.790994518402506" />
+ <viz:color r="200" g="208" b="246" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="684173" label="exponential way">
+ <viz:position x="-182.8564554455383"    y="288.02157623355765"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="700151" label="citation analysis">
+ <viz:position x="6.266368165801639"    y="-4.359811272394559"  z="0" />
+ <viz:size value="1.6359436178543463" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="702550" label="new index">
+ <viz:position x="-33.41288903421648"    y="-24.465391354944813"  z="0" />
+ <viz:size value="1.4033672670321065" />
+ <viz:color r="200" g="208" b="246" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="747743" label="research quality">
+ <viz:position x="71.8735402227445"    y="-35.36858214177209"  z="0" />
+ <viz:size value="1.4033672670321065" />
+ <viz:color r="218" g="0" b="124" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="748790" label="google scholar">
+ <viz:position x="-28.09816061366646"    y="-7.710417880453868"  z="0" />
+ <viz:size value="1.4292090837901332" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="752130" label="new conception">
+ <viz:position x="-282.3597398696803"    y="734.7903112703351"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="756224" label="different institutions">
+ <viz:position x="5.93561065637948"    y="22.668469944303425"  z="0" />
+ <viz:size value="1.3689115113547377" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="759327" label="dominant position">
+ <viz:position x="-34.70003222795514"    y="35.83993676403944"  z="0" />
+ <viz:size value="1.4292090837901332" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="802519" label="productive country">
+ <viz:position x="-31.1587091345499"    y="103.66144765338741"  z="0" />
+ <viz:size value="1.541190289741582" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="802550" label="bibliometric techniques">
+ <viz:position x="-62.80937937963621"    y="-13.391896291036076"  z="0" />
+ <viz:size value="1.3689115113547377" />
+ <viz:color r="255" g="255" b="0" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="805651" label="co-word analysis">
+ <viz:position x="26.518673963192633"    y="88.05228966133745"  z="0" />
+ <viz:size value="1.506734534064213" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="807224" label="document type">
+ <viz:position x="26.814329631009816"    y="201.1101686124596"  z="0" />
+ <viz:size value="1.5498042286609242" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="840582" label="several scientists">
+ <viz:position x="188.9589802771934"    y="79.81449112290647"  z="0" />
+ <viz:size value="1.6617854346123728" />
+ <viz:color r="0" g="30" b="9" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="904942" label="competitive examinations">
+ <viz:position x="235.36358814920357"    y="139.5822942863834"  z="0" />
+ <viz:size value="1.6617854346123728" />
+ <viz:color r="0" g="30" b="9" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="905109" label="academic rank">
+ <viz:position x="-583.3291355675863"    y="1055.6258645483622"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="0" g="30" b="9" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="943102" label="h index">
+ <viz:position x="-16.698244180706048"    y="8.696760929228033"  z="0" />
+ <viz:size value="1.4292090837901332" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962095" label="adequate data sets">
+ <viz:position x="69.13909145596803"    y="835.3048522840829"  z="0" />
+ <viz:size value="1.8943617854346124" />
+ <viz:color r="186" g="9" b="0" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962105" label="allocative efficiency">
+ <viz:position x="-722.3206682167643"    y="909.8557403845296"  z="0" />
+ <viz:size value="1.4464369616288175" />
+ <viz:color r="218" g="0" b="124" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962118" label="global scientific production">
+ <viz:position x="6.086015027727665"    y="121.48370396976249"  z="0" />
+ <viz:size value="1.584259984338293" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962124" label="information science">
+ <viz:position x="82.31234546064061"    y="41.15989326851814"  z="0" />
+ <viz:size value="1.4722787783868443" />
+ <viz:color r="74" g="59" b="83" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962143" label="publication activity">
+ <viz:position x="-10.813941330101672"    y="-26.045291478160944"  z="0" />
+ <viz:size value="1.4808927173061863" />
+ <viz:color r="204" g="7" b="68" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962152" label="research status">
+ <viz:position x="-4.815521139716529"    y="28.354391910311328"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962215" label="geographical impact factor">
+ <viz:position x="-31.17440593583942"    y="-45.95904926947299"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="200" g="208" b="246" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962223" label="citation behavior">
+ <viz:position x="133.35473132519246"    y="2.2164846159596556"  z="0" />
+ <viz:size value="1.4550509005481598" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962229" label="article output">
+ <viz:position x="-22.675400922081792"    y="37.27521170242681"  z="0" />
+ <viz:size value="1.4722787783868443" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962240" label="citation counts">
+ <viz:position x="139.01363008080443"    y="60.479687744751224"  z="0" />
+ <viz:size value="1.9029757243539545" />
+ <viz:color r="74" g="59" b="83" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962266" label="indexed journals">
+ <viz:position x="30.779408838911575"    y="-41.52156108043537"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962312" label="italian universities active">
+ <viz:position x="26.274763737672767"    y="-78.07613899119359"  z="0" />
+ <viz:size value="1.7134690681284261" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962382" label="performance-based research funding">
+ <viz:position x="3.552398949533557"    y="-71.26352486972799"  z="0" />
+ <viz:size value="1.3861393891934222" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962406" label="ranking lists">
+ <viz:position x="42.980950663936696"    y="-42.250932077392015"  z="0" />
+ <viz:size value="1.5239624119028974" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962431" label="selective funding">
+ <viz:position x="11.367838961558334"    y="-79.63322586044252"  z="0" />
+ <viz:size value="1.6790133124510571" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962454" label="total citations">
+ <viz:position x="48.9266170613062"    y="-66.78859151446323"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962463" label="keywords plus">
+ <viz:position x="-29.63694718353557"    y="133.82272012718738"  z="0" />
+ <viz:size value="1.6617854346123728" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962469" label="information science field">
+ <viz:position x="-524.8970302557472"    y="466.6293290195282"  z="0" />
+ <viz:size value="1.3516836335160534" />
+ <viz:color r="176" g="91" b="111" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962478" label="h-type metrics">
+ <viz:position x="77.96126225256789"    y="867.9610711893489"  z="0" />
+ <viz:size value="1.8943617854346124" />
+ <viz:color r="186" g="9" b="0" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962496" label="performance rankings">
+ <viz:position x="47.71733835675322"    y="-33.69999302096113"  z="0" />
+ <viz:size value="1.6531714956930306" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962514" label="author keywords">
+ <viz:position x="-14.719226700986857"    y="141.29719709022638"  z="0" />
+ <viz:size value="2.2475332811276427" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962518" label="citation practices">
+ <viz:position x="64.01952299252562"    y="-16.639012323496484"  z="0" />
+ <viz:size value="1.5756460454189507" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962578" label="national research systems">
+ <viz:position x="48.822725289077084"    y="22.395039591638046"  z="0" />
+ <viz:size value="1.506734534064213" />
+ <viz:color r="218" g="0" b="124" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962612" label="rapid trend">
+ <viz:position x="-831.2132654129423"    y="740.4155517550965"  z="0" />
+ <viz:size value="1.4033672670321065" />
+ <viz:color r="218" g="0" b="124" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962670" label="scientific productivity">
+ <viz:position x="22.763572337363282"    y="-36.77694110200739"  z="0" />
+ <viz:size value="1.4722787783868443" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962714" label="collaborative articles">
+ <viz:position x="-22.59395741898377"    y="76.34851106363253"  z="0" />
+ <viz:size value="1.4292090837901332" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962748" label="akadémiai kiadó">
+ <viz:position x="4.963761200324505"    y="26.79143415353039"  z="0" />
+ <viz:size value="12.3" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962760" label="bibliometric indicators">
+ <viz:position x="3.033321968033776"    y="-37.39565686270499"  z="0" />
+ <viz:size value="3.668833202819107" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962824" label="academic rank level">
+ <viz:position x="74.53584385375973"    y="72.87660699622644"  z="0" />
+ <viz:size value="1.6359436178543463" />
+ <viz:color r="0" g="30" b="9" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962837" label="non-competitive systems">
+ <viz:position x="-906.0712649765546"    y="553.429308549237"  z="0" />
+ <viz:size value="1.506734534064213" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962866" label="source title">
+ <viz:position x="-5.735443593263103"    y="83.38393644323178"  z="0" />
+ <viz:size value="1.4033672670321065" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962928" label="bibliometric evaluation">
+ <viz:position x="11.737691667588141"    y="-11.304444557159611"  z="0" />
+ <viz:size value="1.5239624119028974" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962930" label="co-occurrence analysis">
+ <viz:position x="-48.16452565958849"    y="159.87890075036236"  z="0" />
+ <viz:size value="1.420595144870791" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962934" label="scientific activity">
+ <viz:position x="-51.50219695023709"    y="-139.88473788726847"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="962950" label="fp7 priority areas">
+ <viz:position x="-3.519574860610319"    y="-53.669301183965445"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="218" g="0" b="124" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963038" label="citation observation">
+ <viz:position x="32.82563056143215"    y="-129.18091449933178"  z="0" />
+ <viz:size value="1.4292090837901332" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963064" label="stable research output">
+ <viz:position x="198.67224279162662"    y="87.61947570307848"  z="0" />
+ <viz:size value="1.6359436178543463" />
+ <viz:color r="0" g="30" b="9" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963085" label="global scientific output">
+ <viz:position x="-12.653820111160897"    y="116.09679158823778"  z="0" />
+ <viz:size value="1.506734534064213" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963093" label="indicator citation">
+ <viz:position x="-35.505050999561995"    y="181.56929142676654"  z="0" />
+ <viz:size value="1.37752545027408" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963096" label="different period">
+ <viz:position x="-944.1891037627579"    y="355.65518078431455"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="203" g="126" b="152" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963114" label="h-type indices">
+ <viz:position x="83.99727475601371"    y="849.6429085010408"  z="0" />
+ <viz:size value="1.8943617854346124" />
+ <viz:color r="186" g="9" b="0" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963125" label="publication habits">
+ <viz:position x="-20.347270828528604"    y="-66.52251468123181"  z="0" />
+ <viz:size value="1.4033672670321065" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963139" label="citation measures">
+ <viz:position x="63.807233463062516"    y="855.1533562515692"  z="0" />
+ <viz:size value="1.8943617854346124" />
+ <viz:color r="186" g="9" b="0" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963140" label="publication count">
+ <viz:position x="-26.34817007209334"    y="-80.18285642326344"  z="0" />
+ <viz:size value="1.3861393891934222" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963148" label="research position/promotion">
+ <viz:position x="186.8749611820329"    y="86.34157062640494"  z="0" />
+ <viz:size value="1.6359436178543463" />
+ <viz:color r="0" g="30" b="9" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963151" label="annual increase">
+ <viz:position x="-7.36896414194265"    y="61.185786121645094"  z="0" />
+ <viz:size value="1.37752545027408" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963167" label="us geological survey">
+ <viz:position x="28.062089952927835"    y="21.988808790680388"  z="0" />
+ <viz:size value="1.420595144870791" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963169" label="publication age">
+ <viz:position x="79.79459550026573"    y="831.5499168485226"  z="0" />
+ <viz:size value="1.8943617854346124" />
+ <viz:color r="186" g="9" b="0" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963198" label="top researchers">
+ <viz:position x="93.38615897004173"    y="842.5862905936633"  z="0" />
+ <viz:size value="1.8943617854346124" />
+ <viz:color r="186" g="9" b="0" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963223" label="traditional peer review">
+ <viz:position x="-944.1891037627579"    y="154.24124073321767"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963287" label="essential science indicators">
+ <viz:position x="-906.0712649765549"    y="-43.53288703170432"  z="0" />
+ <viz:size value="1.4033672670321065" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963292" label="high-quality articles">
+ <viz:position x="35.5822437309678"    y="81.14778198590372"  z="0" />
+ <viz:size value="1.506734534064213" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963306" label="qualitative/quantitative evaluations">
+ <viz:position x="178.06676630138006"    y="78.03873324834203"  z="0" />
+ <viz:size value="1.6617854346123728" />
+ <viz:color r="0" g="30" b="9" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963327" label="subject categories">
+ <viz:position x="-23.10262030408258"    y="107.92568608272892"  z="0" />
+ <viz:size value="1.6703993735317149" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963343" label="university rankings">
+ <viz:position x="-50.58313929613044"    y="-2.925043503713295"  z="0" />
+ <viz:size value="1.37752545027408" />
+ <viz:color r="255" g="255" b="0" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963347" label="publication counts">
+ <viz:position x="447.9229755344864"    y="200.61008641795226"  z="0" />
+ <viz:size value="1.3947533281127644" />
+ <viz:color r="74" g="59" b="83" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963406" label="collaborative papers">
+ <viz:position x="-26.757319534510852"    y="28.053715872755745"  z="0" />
+ <viz:size value="1.4033672670321065" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963410" label="scientific performance">
+ <viz:position x="46.56931330106902"    y="11.356692810832746"  z="0" />
+ <viz:size value="1.6101018010963195" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963420" label="italian case">
+ <viz:position x="-831.2132654129423"    y="-230.51913023756435"  z="0" />
+ <viz:size value="1.3947533281127644" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963424" label="bibliometric methods">
+ <viz:position x="46.330295620313024"    y="31.164422032656084"  z="0" />
+ <viz:size value="1.6790133124510571" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963482" label="citation data">
+ <viz:position x="68.97608121464187"    y="20.32906077178661"  z="0" />
+ <viz:size value="1.9805011746280343" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963495" label="collaboration patterns">
+ <viz:position x="34.73682637701837"    y="216.69346339647183"  z="0" />
+ <viz:size value="1.4550509005481598" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963502" label="popular category">
+ <viz:position x="72.40120624156594"    y="850.077706125109"  z="0" />
+ <viz:size value="1.8943617854346124" />
+ <viz:color r="186" g="9" b="0" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963515" label="bibliometric data">
+ <viz:position x="31.94476929280383"    y="47.13648526330633"  z="0" />
+ <viz:size value="1.6187157400156618" />
+ <viz:color r="218" g="0" b="124" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963518" label="citation analyses">
+ <viz:position x="-722.320668216765"    y="-399.959318866997"  z="0" />
+ <viz:size value="1.3516836335160534" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963628" label="t cooperation">
+ <viz:position x="43.242826539531855"    y="-49.09203730986009"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="218" g="0" b="124" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963704" label="bibliometric analyses">
+ <viz:position x="-24.91855084028827"    y="-34.61389923398289"  z="0" />
+ <viz:size value="1.4722787783868443" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963749" label="spanish csic">
+ <viz:position x="-583.3291355675865"    y="-545.7294430308299"  z="0" />
+ <viz:size value="1.37752545027408" />
+ <viz:color r="74" g="59" b="83" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963762" label="article titles">
+ <viz:position x="-22.312919833035977"    y="121.50526299183946"  z="0" />
+ <viz:size value="1.5153484729835551" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963775" label="italian university system">
+ <viz:position x="38.45096999356347"    y="-85.93524039326662"  z="0" />
+ <viz:size value="1.5325763508222396" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963790" label="many clusters">
+ <viz:position x="-238.2252976216438"    y="488.1198902181602"  z="0" />
+ <viz:size value="1.463664839467502" />
+ <viz:color r="0" g="132" b="111" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963809" label="co-authorship relations">
+ <viz:position x="44.35317308765612"    y="96.35382820334067"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963811" label="research profile">
+ <viz:position x="-419.26218359425553"    y="-662.5609906414275"  z="0" />
+ <viz:size value="1.37752545027408" />
+ <viz:color r="0" g="30" b="9" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963820" label="journal level">
+ <viz:position x="-131.66886122074925"    y="-341.2845918696848"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963849" label="thomson reuters web">
+ <viz:position x="-24.452010040521824"    y="22.02804911544261"  z="0" />
+ <viz:size value="1.3689115113547377" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963851" label="peripheral countries">
+ <viz:position x="30.6398017127185"    y="-0.3867099388320292"  z="0" />
+ <viz:size value="1.37752545027408" />
+ <viz:color r="218" g="0" b="124" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963874" label="publication output">
+ <viz:position x="0.2277095298874601"    y="98.81388636056612"  z="0" />
+ <viz:size value="1.4378230227094753" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963890" label="average citedness">
+ <viz:position x="-48.897360487901956"    y="-45.53934464610179"  z="0" />
+ <viz:size value="1.37752545027408" />
+ <viz:color r="204" g="7" b="68" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963946" label="most articles">
+ <viz:position x="-31.549161152877662"    y="118.34544387910397"  z="0" />
+ <viz:size value="1.584259984338293" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="963967" label="raw libcitation count">
+ <viz:position x="-236.04961941336092"    y="-746.231365166515"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="99" g="103" b="169" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964029" label="international visibility">
+ <viz:position x="37.07698209547754"    y="-31.704452203615336"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964033" label="citation impact">
+ <viz:position x="-69.3552880315799"    y="-23.707367884853646"  z="0" />
+ <viz:size value="1.4119812059514487" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964088" label="scientific collaboration">
+ <viz:position x="-47.327132633172354"    y="-24.452282313269563"  z="0" />
+ <viz:size value="1.4550509005481598" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964124" label="peer review method">
+ <viz:position x="6.475812850991449"    y="-79.45078334518213"  z="0" />
+ <viz:size value="1.37752545027408" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964129" label="effective bibliometric analysis">
+ <viz:position x="-40.31322245008067"    y="-793.7165012697212"  z="0" />
+ <viz:size value="1.420595144870791" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964137" label="micro-level citation indicators">
+ <viz:position x="86.6574899361215"    y="865.7346265201044"  z="0" />
+ <viz:size value="1.8943617854346124" />
+ <viz:color r="186" g="9" b="0" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964140" label="small research areas">
+ <viz:position x="160.87258392312435"    y="-803.3001624109609"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964164" label="evaluative bibliometrics">
+ <viz:position x="-228.44347182915178"    y="493.24735439444936"  z="0" />
+ <viz:size value="1.541190289741582" />
+ <viz:color r="0" g="132" b="111" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964190" label="bibliometric indices">
+ <viz:position x="35.30764187054852"    y="-3.9359198216558435"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964205" label="bibliometric rankings">
+ <viz:position x="360.23642047941985"    y="-774.6359701066042"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964258" label="real quality">
+ <viz:position x="10.923532277750622"    y="-118.74119210647176"  z="0" />
+ <viz:size value="1.4033672670321065" />
+ <viz:color r="238" g="195" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964292" label="publication/citation ferrers diagram">
+ <viz:position x="200.0308849013985"    y="81.26385415042235"  z="0" />
+ <viz:size value="1.6359436178543463" />
+ <viz:color r="0" g="30" b="9" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964293" label="author names">
+ <viz:position x="-50.83654237888724"    y="-50.988849153016425"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964352" label="bibliometric method">
+ <viz:position x="550.5727587282536"    y="-708.7599229503547"  z="0" />
+ <viz:size value="1.420595144870791" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964391" label="university departments">
+ <viz:position x="-9.930119834514706"    y="-72.17742566116794"  z="0" />
+ <viz:size value="1.4119812059514487" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964405" label="incorrect university rankings">
+ <viz:position x="-66.10396659235496"    y="10.016694033185852"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="255" g="255" b="0" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964426" label="time regularity">
+ <viz:position x="725.0023474888196"    y="-608.0529529248063"  z="0" />
+ <viz:size value="1.6617854346123728" />
+ <viz:color r="0" g="30" b="9" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964437" label="keywords analysis">
+ <viz:position x="-27.319227130969125"    y="58.334001215559745"  z="0" />
+ <viz:size value="1.4033672670321065" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964447" label="document types">
+ <viz:position x="-11.389635516117261"    y="126.48571556207935"  z="0" />
+ <viz:size value="1.6014878621769773" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964449" label="large-scale comparison">
+ <viz:position x="877.2208469514501"    y="-476.1548723161334"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="50" g="78" b="114" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964455" label="author compound names">
+ <viz:position x="1001.7266839441334"    y="-317.8328214146312"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964462" label="average citation">
+ <viz:position x="76.55032028981361"    y="841.754350040392"  z="0" />
+ <viz:size value="1.8943617854346124" />
+ <viz:color r="186" g="9" b="0" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964513" label="impact measures">
+ <viz:position x="-94.96989034542854"    y="-39.45298257874206"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964514" label="individual assessment">
+ <viz:position x="94.83902071771992"    y="851.4483840836759"  z="0" />
+ <viz:size value="1.8943617854346124" />
+ <viz:color r="186" g="9" b="0" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964532" label="subject category">
+ <viz:position x="-10.94445070478431"    y="29.464236750095928"  z="0" />
+ <viz:size value="1.3689115113547377" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964536" label="several key findings">
+ <viz:position x="26.24149434269855"    y="131.66073904655326"  z="0" />
+ <viz:size value="1.3947533281127644" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964541" label="scientific output">
+ <viz:position x="16.712776837476596"    y="0.3312046884717924"  z="0" />
+ <viz:size value="1.9805011746280343" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964564" label="research evaluation">
+ <viz:position x="-24.588994038566543"    y="-21.42509894787473"  z="0" />
+ <viz:size value="1.7737666405638215" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964590" label="research output">
+ <viz:position x="107.92574922426233"    y="67.4745254822368"  z="0" />
+ <viz:size value="2.454267815191856" />
+ <viz:color r="0" g="30" b="9" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964620" label="italian universities">
+ <viz:position x="18.21299730806438"    y="-29.808636862445837"  z="0" />
+ <viz:size value="1.842678151918559" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964626" label="publication patterns">
+ <viz:position x="1.2258161409612027"    y="59.911360812189976"  z="0" />
+ <viz:size value="1.4033672670321065" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964758" label="hirsch index">
+ <viz:position x="-3.1110281752406705"    y="-0.39601389123536146"  z="0" />
+ <viz:size value="1.4033672670321065" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964761" label="same journals">
+ <viz:position x="103.7473279504346"    y="1.0326100827907552"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="74" g="59" b="83" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964764" label="publication data">
+ <viz:position x="55.375223064137316"    y="8.938483590623926"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="74" g="59" b="83" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964767" label="bibliometric approach">
+ <viz:position x="1094.0198931211607"    y="-138.80897164395873"  z="0" />
+ <viz:size value="1.842678151918559" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964788" label="bibliometric studies">
+ <viz:position x="-60.09441046085971"    y="4.034928128685868"  z="0" />
+ <viz:size value="1.420595144870791" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964792" label="total articles">
+ <viz:position x="-36.87748257492554"    y="132.48378510605974"  z="0" />
+ <viz:size value="1.5498042286609242" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964806" label="citation performance">
+ <viz:position x="130.64224975612274"    y="4.908779330024443"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964822" label="representative countries">
+ <viz:position x="-29.58691058494501"    y="-6.209739842728298"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964847" label="budapest all rights">
+ <viz:position x="-37.990065327165965"    y="15.34163298236655"  z="0" />
+ <viz:size value="1.420595144870791" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964888" label="research systems">
+ <viz:position x="1150.7647574352627"    y="54.44628862308031"  z="0" />
+ <viz:size value="1.343069694596711" />
+ <viz:color r="188" g="35" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964895" label="evaluative purposes">
+ <viz:position x="1169.910369642826"    y="254.94821075876573"  z="0" />
+ <viz:size value="1.3602975724353954" />
+ <viz:color r="74" g="59" b="83" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964897" label="science administrators">
+ <viz:position x="-42.05315853008991"    y="13.239000817373395"  z="0" />
+ <viz:size value="1.3861393891934222" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964957" label="research administrators">
+ <viz:position x="-46.063255357252544"    y="-48.25305809352123"  z="0" />
+ <viz:size value="1.4033672670321065" />
+ <viz:color r="255" g="255" b="0" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964980" label="national research assessment">
+ <viz:position x="21.106380417396938"    y="-72.02394395614905"  z="0" />
+ <viz:size value="1.8943617854346124" />
+ <viz:color r="238" g="195" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964997" label="productivity rankings">
+ <viz:position x="22.198014923345806"    y="-155.93746251080384"  z="0" />
+ <viz:size value="1.5756460454189507" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="964999" label="h-type citation values">
+ <viz:position x="78.73716008378737"    y="857.6292397647089"  z="0" />
+ <viz:size value="1.8943617854346124" />
+ <viz:color r="186" g="9" b="0" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="965018" label="output analysis">
+ <viz:position x="-1.513335689549381"    y="125.508907935129"  z="0" />
+ <viz:size value="1.4895066562255286" />
+ <viz:color r="1" g="44" b="88" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="965045" label="single number">
+ <viz:position x="109.75731204955567"    y="49.85215536962702"  z="0" />
+ <viz:size value="1.37752545027408" />
+ <viz:color r="0" g="30" b="9" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="965046" label="field normalization">
+ <viz:position x="69.8015022865379"    y="862.5604246440253"  z="0" />
+ <viz:size value="1.8943617854346124" />
+ <viz:color r="186" g="9" b="0" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="965067" label="best products">
+ <viz:position x="7.232414597177945"    y="-118.48675928308147"  z="0" />
+ <viz:size value="1.37752545027408" />
+ <viz:color r="238" g="195" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="965081" label="co-author clusters">
+ <viz:position x="-231.0066306507001"    y="487.2849063025345"  z="0" />
+ <viz:size value="1.463664839467502" />
+ <viz:color r="0" g="132" b="111" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="965112" label="scientific information web">
+ <viz:position x="-44.32229596006442"    y="6.643959970745624"  z="0" />
+ <viz:size value="1.3947533281127644" />
+ <viz:color r="140" g="208" b="255" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="965121" label="hard sciences">
+ <viz:position x="53.82991877833354"    y="-67.01749826686512"  z="0" />
+ <viz:size value="2.8677368833202816" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="965136" label="calculated indices">
+ <viz:position x="66.35734018411397"    y="76.56024336386454"  z="0" />
+ <viz:size value="1.6359436178543463" />
+ <viz:color r="0" g="30" b="9" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="965144" label="research performance">
+ <viz:position x="14.804817961425638"    y="-58.37836858178306"  z="0" />
+ <viz:size value="4.659436178543461" />
+ <viz:color r="0" g="137" b="163" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+<node id="965161" label="research system">
+ <viz:position x="-43.15858287810628"    y="18.491059399620852"  z="0" />
+ <viz:size value="1.37752545027408" />
+ <viz:color r="79" g="198" b="1" a="1"/>
+ <attvalues>
+ <attvalue for="0" value="Document"/>
+ <attvalue for="1" value="undefined"/>
+ </attvalues>
+</node>
+
+</nodes>
+<edges>
+<edge id="1" source="514108"  target="962223" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="2" source="255027"  target="255923" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="3" source="255027"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="4" source="962514"  target="962463" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="5" source="962514"  target="665840" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="6" source="962514"  target="963085" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="7" source="962514"  target="324237" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="8" source="962514"  target="807224" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="9" source="962514"  target="963762" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="10" source="962514"  target="64612" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="11" source="962514"  target="350367" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="12" source="962514"  target="964792" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="13" source="962514"  target="964447" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="14" source="962514"  target="965018" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="15" source="962514"  target="655044" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="16" source="962514"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="17" source="962514"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="18" source="962514"  target="963327" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="19" source="962514"  target="963946" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="20" source="964405"  target="256161" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="21" source="639264"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="22" source="964788"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="23" source="964788"  target="676946" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="24" source="964788"  target="256161" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="25" source="365794"  target="255581" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="26" source="365794"  target="182401" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="27" source="365794"  target="108646" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="28" source="365794"  target="255923" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="29" source="365794"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="30" source="365794"  target="401234" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="31" source="32463"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="32" source="32463"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="33" source="963148"  target="963306" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="34" source="963148"  target="963064" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="35" source="963148"  target="355194" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="36" source="963148"  target="840582" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="37" source="963148"  target="964292" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="38" source="963148"  target="964590" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="39" source="807224"  target="655044" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="40" source="807224"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="41" source="807224"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="42" source="807224"  target="963874" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="43" source="401234"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="44" source="401234"  target="964293" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="45" source="962124"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="46" source="962124"  target="963482" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="47" source="962124"  target="962240" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="48" source="962124"  target="114644" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="49" source="964626"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="50" source="964626"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="51" source="153200"  target="655044" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="52" source="153200"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="53" source="963775"  target="393150" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="54" source="963775"  target="255923" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="55" source="963775"  target="396411" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="56" source="963775"  target="255809" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="57" source="963775"  target="965121" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="58" source="162324"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="59" source="964897"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="60" source="964897"  target="466337" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="61" source="680530"  target="964514" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="62" source="680530"  target="965046" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="63" source="680530"  target="963139" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="64" source="680530"  target="963502" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="65" source="680530"  target="962478" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="66" source="680530"  target="963169" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="67" source="680530"  target="128834" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="68" source="680530"  target="963198" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="69" source="680530"  target="962095" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="70" source="680530"  target="964137" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="71" source="680530"  target="964999" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="72" source="680530"  target="963114" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="73" source="965112"  target="137245" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="74" source="965112"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="75" source="965112"  target="483520" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="76" source="146325"  target="964541" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="77" source="146325"  target="528805" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="78" source="146325"  target="962670" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="79" source="146325"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="80" source="146325"  target="146324" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="81" source="965046"  target="964514" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="82" source="965046"  target="963139" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="83" source="965046"  target="963502" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="84" source="965046"  target="962478" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="85" source="965046"  target="963169" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="86" source="965046"  target="128834" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="87" source="965046"  target="963198" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="88" source="965046"  target="962095" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="89" source="965046"  target="964999" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="90" source="965046"  target="964137" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="91" source="965046"  target="963114" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="92" source="964980"  target="964258" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="93" source="964980"  target="138294" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="94" source="964980"  target="255923" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="95" source="964980"  target="965121" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="96" source="964980"  target="528805" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="97" source="964980"  target="962431" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="98" source="964980"  target="654227" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="99" source="964980"  target="965067" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="100" source="964980"  target="964620" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="101" source="964980"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="102" source="964447"  target="655044" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="103" source="964447"  target="963085" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="104" source="964447"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="105" source="964447"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="106" source="964447"  target="324237" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="107" source="964514"  target="963139" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="108" source="964514"  target="963502" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="109" source="964514"  target="962478" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="110" source="964514"  target="963169" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="111" source="964514"  target="128834" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="112" source="964514"  target="963198" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="113" source="964514"  target="962095" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="114" source="964514"  target="964999" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="115" source="964514"  target="964137" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="116" source="964514"  target="963114" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="117" source="962215"  target="139802" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="118" source="962215"  target="702550" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="119" source="963851"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="120" source="963851"  target="138294" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="121" source="49271"  target="355194" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="122" source="49271"  target="963482" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="123" source="964999"  target="963139" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="124" source="964999"  target="963502" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="125" source="964999"  target="962478" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="126" source="964999"  target="963169" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="127" source="964999"  target="128834" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="128" source="964999"  target="963198" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="129" source="964999"  target="962095" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="130" source="964999"  target="964137" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="131" source="964999"  target="963114" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="132" source="963139"  target="963502" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="133" source="963139"  target="962478" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="134" source="963139"  target="963169" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="135" source="963139"  target="128834" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="136" source="963139"  target="963198" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="137" source="963139"  target="962095" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="138" source="963139"  target="964137" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="139" source="963139"  target="963114" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="140" source="702550"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="141" source="64691"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="142" source="64691"  target="964190" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="143" source="254231"  target="511893" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="144" source="528805"  target="962670" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="145" source="528805"  target="255923" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="146" source="528805"  target="965121" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="147" source="528805"  target="962406" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="148" source="528805"  target="964620" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="149" source="528805"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="150" source="528805"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="151" source="528805"  target="255809" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="152" source="963140"  target="962934" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="153" source="963151"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="154" source="963151"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="155" source="678540"  target="964564" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="156" source="678540"  target="256161" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="157" source="678540"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="158" source="678540"  target="963410" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="159" source="355194"  target="963306" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="160" source="355194"  target="511893" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="161" source="355194"  target="255923" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="162" source="355194"  target="840582" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="163" source="355194"  target="963064" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="164" source="355194"  target="964292" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="165" source="355194"  target="965121" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="166" source="355194"  target="962223" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="167" source="355194"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="168" source="355194"  target="964590" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="169" source="965136"  target="255581" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="170" source="965136"  target="641427" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="171" source="965136"  target="962824" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="172" source="965136"  target="179718" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="173" source="965136"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="174" source="965136"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="175" source="965136"  target="964590" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="176" source="964437"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="177" source="964437"  target="139802" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="178" source="964437"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="179" source="478937"  target="511893" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="180" source="483324"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="181" source="962866"  target="350367" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="182" source="962866"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="183" source="962866"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="184" source="962748"  target="805651" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="185" source="962748"  target="649861" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="186" source="962748"  target="964532" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="187" source="962748"  target="962240" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="188" source="962748"  target="466337" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="189" source="962748"  target="350367" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="190" source="962748"  target="963343" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="191" source="962748"  target="964822" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="192" source="962748"  target="964029" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="193" source="962748"  target="676946" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="194" source="962748"  target="23901" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="195" source="962748"  target="962152" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="196" source="962748"  target="255809" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="197" source="962748"  target="253231" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="198" source="962748"  target="963410" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="199" source="962748"  target="655044" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="200" source="962748"  target="24877" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="201" source="962748"  target="162985" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="202" source="962748"  target="964293" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="203" source="962748"  target="234301" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="204" source="962748"  target="256460" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="205" source="962748"  target="256161" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="206" source="962748"  target="962454" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="207" source="962748"  target="965121" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="208" source="962748"  target="38252" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="209" source="962748"  target="962118" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="210" source="962748"  target="943102" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="211" source="962748"  target="964564" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="212" source="962748"  target="964758" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="213" source="962748"  target="963424" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="214" source="962748"  target="395524" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="215" source="962748"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="216" source="962748"  target="964033" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="217" source="962748"  target="962431" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="218" source="962748"  target="756224" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="219" source="962748"  target="641007" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="220" source="962748"  target="138294" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="221" source="962748"  target="962463" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="222" source="962748"  target="963762" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="223" source="962748"  target="483520" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="224" source="962748"  target="255581" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="225" source="962748"  target="53952" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="226" source="962748"  target="962670" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="227" source="962748"  target="964764" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="228" source="962748"  target="511893" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="229" source="962748"  target="665840" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="230" source="962748"  target="248602" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="231" source="962748"  target="802550" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="232" source="962748"  target="252739" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="233" source="962748"  target="964792" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="234" source="962748"  target="962406" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="235" source="962748"  target="964590" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="236" source="962748"  target="964847" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="237" source="962748"  target="963085" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="238" source="962748"  target="139802" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="239" source="962748"  target="963167" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="240" source="962748"  target="114644" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="241" source="962748"  target="962496" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="242" source="962748"  target="962824" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="243" source="962748"  target="211411" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="244" source="962748"  target="324716" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="245" source="962748"  target="641427" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="246" source="962748"  target="962578" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="247" source="962748"  target="963482" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="248" source="962748"  target="962518" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="249" source="962748"  target="963406" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="250" source="962748"  target="962312" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="251" source="962748"  target="179718" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="252" source="962748"  target="102258" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="253" source="962748"  target="964541" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="254" source="962748"  target="965161" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="255" source="962748"  target="963292" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="256" source="962748"  target="487373" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="257" source="962748"  target="963946" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="258" source="962748"  target="44193" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="259" source="962748"  target="24348" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="260" source="962748"  target="327858" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="261" source="962748"  target="748790" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="262" source="962748"  target="146324" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="263" source="962748"  target="350318" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="264" source="962748"  target="637858" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="265" source="962748"  target="484260" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="266" source="962748"  target="965045" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="267" source="962748"  target="654227" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="268" source="962748"  target="963849" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="269" source="962748"  target="962266" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="270" source="962748"  target="962382" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="271" source="962748"  target="963515" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="272" source="962748"  target="962714" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="273" source="962748"  target="964088" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="274" source="962748"  target="218013" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="275" source="962748"  target="137245" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="276" source="962748"  target="759327" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="277" source="962748"  target="26389" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="278" source="962748"  target="964620" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="279" source="962748"  target="963874" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="280" source="962748"  target="964190" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="281" source="962748"  target="963327" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="282" source="962748"  target="802519" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="283" source="114644"  target="963482" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="284" source="114644"  target="964761" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="285" source="114644"  target="24348" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="286" source="962824"  target="255581" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="287" source="962824"  target="641427" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="288" source="962824"  target="179718" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="289" source="962824"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="290" source="962824"  target="964590" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="291" source="840582"  target="963306" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="292" source="840582"  target="964590" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="293" source="840582"  target="963064" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="294" source="840582"  target="964292" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="295" source="963482"  target="963424" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="296" source="963482"  target="138294" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="297" source="963482"  target="255923" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="298" source="963482"  target="962240" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="299" source="963482"  target="112373" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="300" source="963482"  target="962223" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="301" source="963482"  target="23901" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="302" source="963482"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="303" source="963114"  target="963502" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="304" source="963114"  target="962478" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="305" source="963114"  target="963169" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="306" source="963114"  target="128834" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="307" source="963114"  target="963198" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="308" source="963114"  target="962095" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="309" source="963114"  target="964137" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="310" source="962930"  target="655044" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="311" source="962930"  target="964792" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="312" source="963085"  target="655044" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="313" source="963085"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="314" source="641427"  target="255581" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="315" source="641427"  target="179718" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="316" source="641427"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="317" source="641427"  target="964590" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="318" source="962518"  target="348413" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="319" source="962518"  target="963410" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="320" source="962518"  target="964806" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="321" source="964957"  target="256161" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="322" source="964088"  target="248602" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="323" source="964088"  target="964033" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="324" source="102258"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="325" source="102258"  target="637858" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="326" source="102258"  target="963292" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="327" source="102258"  target="805651" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="328" source="44193"  target="139802" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="329" source="44193"  target="665840" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="330" source="24348"  target="964541" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="331" source="24348"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="332" source="964564"  target="748790" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="333" source="964124"  target="255923" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="334" source="756224"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="335" source="637858"  target="805651" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="336" source="637858"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="337" source="637858"  target="963292" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="338" source="395524"  target="53952" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="339" source="395524"  target="964620" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="340" source="962312"  target="255923" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="341" source="962312"  target="962431" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="342" source="962312"  target="654227" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="343" source="962312"  target="228431" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="344" source="962312"  target="965121" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="345" source="962382"  target="228431" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="346" source="962382"  target="962431" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="347" source="963790"  target="416752" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="348" source="963790"  target="964164" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="349" source="963790"  target="138369" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="350" source="962714"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="351" source="962714"  target="665840" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="352" source="211411"  target="23901" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="353" source="112373"  target="963424" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="354" source="112373"  target="138294" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="355" source="965161"  target="466337" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="356" source="963874"  target="655044" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="357" source="802519"  target="655044" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="358" source="802519"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="359" source="802519"  target="665840" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="360" source="802519"  target="963946" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="361" source="805651"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="362" source="805651"  target="963292" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="363" source="963327"  target="655044" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="364" source="963327"  target="350367" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="365" source="963327"  target="665840" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="366" source="963327"  target="139802" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="367" source="963327"  target="965018" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="368" source="963327"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="369" source="108646"  target="182401" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="370" source="964532"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="371" source="962240"  target="963347" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="372" source="962240"  target="963410" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="373" source="962240"  target="964764" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="374" source="962240"  target="89424" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="375" source="962240"  target="23901" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="376" source="962240"  target="964761" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="377" source="962240"  target="146324" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="378" source="962240"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="379" source="466337"  target="964847" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="380" source="466337"  target="138294" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="381" source="466337"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="382" source="466337"  target="964541" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="383" source="466337"  target="964513" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="384" source="963628"  target="963515" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="385" source="963628"  target="962950" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="386" source="350367"  target="655044" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="387" source="350367"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="388" source="350367"  target="965018" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="389" source="350367"  target="962118" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="390" source="44803"  target="484260" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="391" source="228431"  target="962431" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="392" source="228431"  target="965121" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="393" source="964536"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="394" source="964536"  target="77486" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="395" source="964536"  target="962118" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="396" source="963343"  target="256161" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="397" source="964033"  target="349255" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="398" source="128834"  target="963502" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="399" source="128834"  target="962478" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="400" source="128834"  target="963169" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="401" source="128834"  target="963198" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="402" source="128834"  target="962095" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="403" source="128834"  target="964137" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="404" source="963198"  target="963502" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="405" source="963198"  target="962478" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="406" source="963198"  target="963169" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="407" source="963198"  target="962095" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="408" source="963198"  target="964137" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="409" source="23901"  target="964590" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="410" source="23901"  target="395808" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="411" source="962152"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="412" source="255809"  target="89424" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="413" source="255809"  target="964590" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="414" source="255809"  target="964541" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="415" source="255809"  target="747743" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="416" source="255809"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="417" source="255809"  target="962950" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="418" source="253231"  target="162985" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="419" source="963410"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="420" source="655044"  target="962463" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="421" source="655044"  target="665840" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="422" source="655044"  target="963093" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="423" source="655044"  target="350318" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="424" source="655044"  target="964792" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="425" source="655044"  target="963946" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="426" source="655044"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="427" source="655044"  target="962118" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="428" source="655044"  target="963515" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="429" source="655044"  target="963809" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="430" source="655044"  target="324237" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="431" source="655044"  target="965018" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="432" source="655044"  target="963762" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="433" source="162985"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="434" source="396411"  target="26389" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="435" source="403379"  target="963515" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="436" source="403379"  target="962578" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="437" source="234301"  target="137245" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="438" source="234301"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="439" source="964541"  target="964758" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="440" source="964541"  target="137245" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="441" source="964541"  target="964590" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="442" source="964541"  target="484260" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="443" source="964541"  target="256460" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="444" source="964541"  target="654227" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="445" source="964541"  target="146324" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="446" source="53952"  target="963515" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="447" source="963306"  target="965045" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="448" source="963306"  target="963064" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="449" source="963306"  target="964292" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="450" source="963306"  target="964590" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="451" source="963424"  target="138294" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="452" source="963424"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="453" source="963424"  target="327858" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="454" source="963424"  target="965018" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="455" source="964258"  target="965067" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="456" source="256161"  target="802550" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="457" source="963502"  target="962478" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="458" source="963502"  target="963169" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="459" source="963502"  target="962095" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="460" source="963502"  target="964137" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="461" source="252739"  target="965121" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="462" source="965121"  target="962496" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="463" source="965121"  target="484260" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="464" source="965121"  target="962406" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="465" source="964462"  target="963169" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="466" source="964462"  target="128834" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="467" source="964462"  target="963198" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="468" source="964462"  target="962095" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="469" source="964462"  target="964999" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="470" source="964462"  target="964137" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="471" source="964462"  target="963114" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="472" source="684173"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="473" source="904942"  target="963306" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="474" source="904942"  target="963064" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="475" source="904942"  target="355194" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="476" source="904942"  target="840582" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="477" source="904942"  target="963148" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="478" source="904942"  target="964292" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="479" source="904942"  target="964590" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="480" source="963820"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="481" source="57068"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="482" source="353883"  target="255581" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="483" source="353883"  target="641427" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="484" source="353883"  target="364695" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="485" source="353883"  target="179718" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="486" source="353883"  target="964590" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="487" source="353883"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="488" source="353883"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="489" source="353883"  target="965136" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="490" source="353883"  target="962824" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="491" source="364695"  target="255581" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="492" source="364695"  target="641427" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="493" source="364695"  target="962824" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="494" source="364695"  target="179718" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="495" source="364695"  target="964590" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="496" source="364695"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="497" source="364695"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="498" source="364695"  target="965136" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="499" source="962143"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="500" source="962143"  target="963890" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="501" source="962143"  target="146324" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="502" source="143989"  target="807224" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="503" source="963038"  target="73152" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="504" source="963038"  target="255923" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="505" source="963038"  target="964997" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="506" source="963038"  target="965121" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="507" source="965081"  target="416752" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="508" source="965081"  target="963790" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="509" source="965081"  target="964164" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="510" source="965081"  target="138369" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="511" source="700151"  target="146325" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="512" source="700151"  target="963140" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="513" source="700151"  target="528805" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="514" source="700151"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="515" source="700151"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="516" source="700151"  target="255809" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="517" source="700151"  target="395524" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="518" source="681876"  target="655044" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="519" source="681876"  target="962463" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="520" source="681876"  target="962514" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="521" source="255027"  target="528805" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="522" source="255027"  target="484260" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="523" source="965144"  target="962431" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="524" source="965144"  target="962670" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="525" source="965144"  target="962760" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="526" source="965144"  target="964620" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="527" source="965144"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="528" source="965144"  target="963775" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="529" source="962928"  target="962760" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="530" source="962928"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="531" source="962928"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="532" source="962928"  target="483324" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="533" source="963495"  target="655044" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="534" source="963495"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="535" source="963495"  target="962514" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="536" source="963495"  target="143989" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="537" source="963495"  target="395524" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="538" source="962760"  target="962143" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="539" source="962760"  target="511893" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="540" source="962760"  target="678540" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="541" source="962760"  target="138294" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="542" source="962760"  target="964564" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="543" source="962760"  target="483520" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="544" source="962760"  target="963410" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="545" source="962760"  target="963704" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="546" source="962760"  target="255027" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="547" source="962760"  target="964124" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="548" source="962760"  target="355194" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="549" source="962760"  target="964620" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="550" source="962760"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="551" source="962760"  target="962518" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="552" source="962760"  target="964541" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="553" source="962760"  target="964957" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="554" source="962760"  target="401234" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="555" source="962760"  target="964391" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="556" source="962760"  target="393150" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="557" source="962760"  target="256161" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="558" source="962760"  target="964088" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="559" source="962760"  target="255923" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="560" source="962760"  target="349255" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="561" source="962760"  target="256460" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="562" source="962760"  target="963482" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="563" source="962760"  target="963125" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="564" source="962760"  target="26389" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="565" source="962760"  target="963140" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="566" source="962760"  target="962240" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="567" source="962760"  target="348413" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="568" source="962760"  target="963874" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="569" source="962760"  target="478937" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="570" source="962760"  target="654227" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="571" source="962760"  target="253231" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="572" source="962760"  target="162324" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="573" source="412599"  target="416752" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="574" source="412599"  target="963790" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="575" source="412599"  target="964164" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="576" source="412599"  target="965081" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="577" source="412599"  target="138369" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="578" source="962469"  target="23901" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="579" source="355924"  target="680530" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="580" source="355924"  target="964514" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="581" source="355924"  target="965046" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="582" source="355924"  target="963139" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="583" source="355924"  target="963502" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="584" source="355924"  target="962478" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="585" source="355924"  target="963114" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="586" source="355924"  target="128834" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="587" source="355924"  target="964462" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="588" source="355924"  target="963198" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="589" source="355924"  target="962095" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="590" source="355924"  target="964137" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="591" source="355924"  target="964999" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="592" source="355924"  target="963169" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="593" source="27919"  target="963347" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="594" source="27919"  target="962240" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="595" source="51772"  target="904942" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="596" source="962229"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="597" source="962229"  target="700151" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="598" source="962229"  target="149116" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="599" source="962229"  target="759327" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="600" source="752130"  target="655044" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="601" source="752130"  target="24348" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="602" source="963704"  target="962748" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="603" source="963704"  target="401234" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="604" source="964462"  target="680530" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="605" source="964462"  target="964514" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="606" source="964462"  target="965046" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="607" source="964462"  target="963139" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="608" source="964462"  target="963502" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+<edge id="609" source="964462"  target="962478" weight="1">
+<attvalues> <attvalue for="6" value="nodes1"/></attvalues></edge>
+
+</edges>
+</graph>
+</gexf>

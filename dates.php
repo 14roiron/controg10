@@ -20,11 +20,11 @@ include("inc/header.php");
             height="400" allowscriptaccess="always" />
           </object>
           <hr />
-          <a href="javascript:window.open('js/gexf-js-master/index.html#graph.gexf','nom_de_ma_zzzz','menubar=no,%20scrollbars=no');">
+          <a href="javascript:window.open('js/gexf-js-master/index.html#corpus','nom_de_ma_zzzz','menubar=no, scrollbars=no');">
           <img src="template/images/corpus.png" style="image-responsive" />
           <br />Graphe des mots clés de notre corpus scientifique de 449 articles</a>
           <hr />
-          <a href="javascript:window.open('js/gexf-js-master/index.html#presse.gexf','nom_de_ma_zzzz','menubar=no,%20scrollbars=no');">
+          <a href="javascript:window.open('js/gexf-js-master/index.html#presse','Corpus de la press','menubar=no, scrollbars=no');">
           <img src="template/images/presse.png" style="image-responsive" />
           <br />Graphe des mots clés de notre corpus de presse de 250 articles</a>
         </div>
