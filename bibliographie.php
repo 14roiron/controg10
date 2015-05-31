@@ -93,16 +93,16 @@ J. Liu, E. Adie, New perspectives on article-level metrics: developing ways to a
 J. Priem, D. Taraborelli, P. Groth, C. Neylon, altmetrics: a manifesto, 2010.
 </p>
 <p>
-J. K. Vanclay, An evaluation of the Australian Research Council's journal ranking, <i>Scientometrics</i> Volume 5, Issue 2, Pages 265–274, Avril 2011.
+J.K. Vanclay, An evaluation of the Australian Research Council's journal ranking, <i>Scientometrics</i> Volume 5, Issue 2, Pages 265–274, Avril 2011.
 </p>
 <p>
 J.K. Vanclay, Ranking forestry journals using the h-index, <i>Journal of Informetrics</i>, 2(4), 326–334, 2012.
 </p>
 <p>
-J. K. Vanclay, L. Bornmann, Metrics to evaluate research performance in academic institutions: a critique of ERA 2010 as applied in forestry and the indirect H2 index as a possible alternative, <i>Scientometrics</i>, Volume 91, Issue 3, pp 751-771, Juin 2012.
+J.K. Vanclay, L. Bornmann, Metrics to evaluate research performance in academic institutions: a critique of ERA 2010 as applied in forestry and the indirect H2 index as a possible alternative, <i>Scientometrics</i>, Volume 91, Issue 3, pp 751-771, Juin 2012.
 </p>
 <p>
-J. K. Vanclay, Impact factor: outdated artefact or stepping-stone to journal certification?, <i>Scientometrics</i>, Volume 92, Issue 2, pp 211-238, Août 2012.
+J.K. Vanclay, Impact factor: outdated artefact or stepping-stone to journal certification?, <i>Scientometrics</i>, Volume 92, Issue 2, pp 211-238, Août 2012.
 </p>
 <p>
 J.D. West, M.C. Jensen, R.J. Dandrea, G.J. Gordon, C.T. Bergstrom, Author-Level Eigenfactor Metrics: Evaluating the Influence of Authors, Institutions, and Countries within the Social Science Research Network Community, <i> Journal of the American Society for Information Science and Technology </i>, 64(4):787–801, 2013.
