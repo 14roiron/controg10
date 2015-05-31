@@ -51,7 +51,7 @@ P. Cerchiello, P. Giudici, On a statistical h index. <i>Scientometrics</i>, Volu
 A. De Visscher, What does the g-index really measure?, <i>Journal of the American Society for Information Science and Technology</i>, Volume 62, Issue 11. 2290-2293, 2011.
 </p>
 <p>
-A. De Visscher, Response to remarks on the paper by a. De Visscher, 'what does the g-index really measure?', <i>Journal of the American Society for Information Science and Technology</i>, 64 (9), pp. 1960-1962, 2013
+A. De Visscher, Response to remarks on the paper by a. De Visscher, 'what does the g-index really measure?', <i>Journal of the American Society for Information Science and Technology</i>, 64 (9), pp. 1960-1962, 2013.
 </p>
 <p>
 L. Egghe, Theory and practise of the g-index. <i>Scientometrics</i>, vol. 69, No 1, 131-152, 2006.
@@ -78,7 +78,7 @@ J. Hirsh, An index to quantify an individual's scientific research output. <i>Pr
 P. Jacso, Grim tales about the impact factor and the h-index in the Web of Science and the Journal Citation Reports databases: reflections on Vanclay’s criticism, <i> Scientometrics </i> , 19 Avril 2012.
 </p>
 <p>
-N. Khan, C.J. Thompson, A.F. Choudhri, F.A. Boop, P. Klimo Jr., Part I: The application of the h-index to groups of individuals and departments in academic neurosurgery. <i>World Neurosurgery</i>, Volume 80, Issue 6, Pages 759-765.e3, 2013
+N. Khan, C.J. Thompson, A.F. Choudhri, F.A. Boop, P. Klimo Jr., Part I: The application of the h-index to groups of individuals and departments in academic neurosurgery. <i>World Neurosurgery</i>, Volume 80, Issue 6, Pages 759-765.e3, 2013.
 </p>
 <p>
 K. Kousha, M. Thelwall, S. Rezaie, Assessing the Citaion Impact of Books : The Role of Google Books, Google Scholar, and Scopus, <i>Journal of the American society for information science and technology </i>, 62(11) :2147-2164, 2011.
@@ -94,6 +94,9 @@ J. Priem, D. Taraborelli, P. Groth, C. Neylon, altmetrics: a manifesto, 2010.
 </p>
 <p>
 J. K. Vanclay, An evaluation of the Australian Research Council's journal ranking, <i>Scientometrics</i> Volume 5, Issue 2, Pages 265–274, Avril 2011.
+</p>
+<p>
+J.K. Vanclay, Ranking forestry journals using the h-index, <i>Journal of Informetrics</i>, 2(4), 326–334, 2012.
 </p>
 <p>
 J. K. Vanclay, L. Bornmann, Metrics to evaluate research performance in academic institutions: a critique of ERA 2010 as applied in forestry and the indirect H2 index as a possible alternative, <i>Scientometrics</i>, Volume 91, Issue 3, pp 751-771, Juin 2012.
