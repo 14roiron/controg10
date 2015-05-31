@@ -22,13 +22,16 @@ function parse()
 	a[9]=[];
 	a[9][0]="L. Egghe";
 	a[9][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=egghe\" data-target=\"#infos\">L. Egghe</a>";
-	a[10]=[];
 	
-	a[10][0]="J.K. Vanclay";
-	a[10][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=vanclay\" data-target=\"#infos\">J.K. Vanclay</a>";
+	a[10]=[];
+	a[10][0]="E. Garfield";
+	a[10][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=garfield\" data-target=\"#infos\">E. Garfield</a>";
+	
+	
 	a[11]=[];
 	a[11][0]="J.K. Vanclay";
 	a[11][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=vanclay\" data-target=\"#infos\">J.K. Vanclay</a>";
+	
 	a[12]=[];
 	a[12][0]="J.K. Vanclay";
 	a[12][1]="<a data-toggle=\"modal\" href=\"modale_acteurs.php?c=vanclay\" data-target=\"#infos\">J.K. Vanclay</a>";
