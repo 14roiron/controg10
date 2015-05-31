@@ -31,7 +31,7 @@ include("inc/header.php");
         <p>
           Notre travail s'est concentré sur l'étude du sujet suivant : <b>"Les mesures des productions scientifiques"</b> à partir de différentes sources d'informations :
 		  <ul >
-				<li>Une étude de la presse Nationale tant au point de vue qualitatif que quantitatif</li>
+				<li>Une étude de la presse nationale tant au point de vue qualitatif que quantitatif</li>
 				<li>Une étude de la littérature scientifique</li>
 				<li>Divers entretiens réalisés avec les acteurs de la controverse</li>
 		  </ul>
